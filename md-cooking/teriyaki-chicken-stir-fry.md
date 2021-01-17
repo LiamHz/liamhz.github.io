@@ -22,7 +22,7 @@ _1 lb of boneless chicken breast is enough for ~4 servings._
 - 1 tbsp of cooking oil
 - 1 tsp of grated ginger
 - 2 cloves of garlic, minced
-- 1.5 coups of uncooked jasmine rice
+- 1.5 cups of uncooked jasmine rice
 - 2.5 cups of water
 - 12 oz of frozen stir fry vegetables
 - 1/4 cup of soy sauce

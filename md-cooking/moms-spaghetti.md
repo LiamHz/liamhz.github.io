@@ -21,10 +21,11 @@ When your arms are heavy, it's time for mom's spaghetti.
 - 1 can of diced tomatoes (28oz total)
 - 1 tbsp of of basil
 - 1 tbsp of oregano
-- Salt and pepper
+- 2 teaspoons of salt
+- Pepper
 
 ## Directions
-1. Boil a pot of water. Once boiling, add noodles for 12 minutes, then strain it under cold water.
+1. Boil a pot of water. Once boiling, add 3 tbsp of salt and all the noodles for 12 minutes, then strain it under cold water.
 2. Mince garlic, chop onions, and slice mushrooms
 3. In a pot, fry onions for a minute
 4. Fry garlic for a minute
