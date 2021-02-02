@@ -3,6 +3,7 @@ title: "Updates"
 ...
 
 # Updates
+- [January 2021](updates/2021-01.html)
 - [December 2020](updates/2020-12.html)
 - [November 2020](updates/2020-11.html)
 - [October 2020](updates/2020-10.html)
