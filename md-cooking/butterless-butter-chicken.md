@@ -33,7 +33,7 @@ _See "Notes" section for items with a \*_
 3. Cook rice however you want.
 4. Empty the tomato paste into a bowl, fill the can with water and pour it in, and mix.
 5. Toss the chicken onto a frying pan on medium heat and cook for 3 minutes.
-6. Pour the tomato paste / water onto the chicken. Cook for 20 minutes on low heat.
+6. Pour the tomato paste / water onto the chicken. Cover and cook for 20 minutes on low heat.
 7. Add cream, stir everything together, and serve.
 
 ## Notes

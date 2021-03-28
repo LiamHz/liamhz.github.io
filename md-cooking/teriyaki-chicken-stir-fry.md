@@ -12,8 +12,6 @@ img: "img/cooking/teriyaki-chicken-stir-fry.jpg"
 
 Great for meal prep _and_ your taste buds.
 
-This is legit.
-
 ## Ingredients
 _Scale based on the amount of chicken you're cooking._\
 _1 lb of boneless chicken breast is enough for ~4 servings._
