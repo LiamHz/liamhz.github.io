@@ -3,6 +3,7 @@ title: "Updates"
 ...
 
 # Updates
+- [May 2021](updates/2021-05.html)
 - [March 2021](updates/2021-03.html)
 - [February 2021](updates/2021-02.html)
 - [January 2021](updates/2021-01.html)
