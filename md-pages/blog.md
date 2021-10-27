@@ -3,6 +3,7 @@ title: "Blog Archive"
 ...
 
 # Blog Archive
+- [Notes: Musical Composition by Belkin](blog/composition-belkin-notes.html)
 - [What Reading Does for the Mind - Paper Summary](blog/reading-volume-paper-summary.html)
 - [Little Pieces of Living](blog/pieces.html)
 - [Dropping Out](blog/dropout.html)
