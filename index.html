@@ -25,6 +25,8 @@
             const prevActiveCardImg = document.querySelector(".active-card > div.card-img.active")
             const activeCardImg = document.querySelector(`.cards-container > .${cardName} > div.card-img`)
 
+            if (e == prevActiveCard) return;
+
             e.classList.add("active-card")
             activeContent.classList.add("active-content")
             prevActiveCard.classList.remove("active-card")
@@ -32,8 +34,18 @@
 
             activeCardImg.classList.add("active")
             activeCardImg.classList.remove("inactive")
+
             prevActiveCardImg.classList.add("inactive")
             prevActiveCardImg.classList.remove("active")
+            prevActiveCardImg.classList.remove("active-hover")
+        }
+
+        const handleOnMouseOver = e => {
+            const cardName = e.getAttribute("class").split(" ")[0]
+            const activeCardImg = document.querySelector(`.cards-container > .${cardName} > div.card-img`)
+
+            activeCardImg.classList.add("active")
+            activeCardImg.classList.remove("inactive")
         }
     </script>
     <div class="site-container">
@@ -41,7 +53,11 @@
         <div class="grid-container">
             <div class="column-left">
                 <div class="cards-container">
-                    <div class="about card active-card" onclick="handleCardClick(this)">
+                    <div
+                        class="about card active-card"
+                        onmouseover="handleOnMouseOver(this)"
+                        onclick="handleCardClick(this)"
+                    >
                         <h2>About Me</h2>
                         <p>Who I am and<br />what I've been up to</p>
                         <div class="active card-img about"></div>
@@ -59,7 +75,11 @@
                         <p>Generative art, ray tracers, rendering engines and more</p>
                         <img class="card" src="img/sketch/generative_art.png" />
                     </div>
-                    <div class="cooking card" onclick="handleCardClick(this)">
+                    <div
+                        class="cooking card"
+                        onmouseover="handleOnMouseOver(this)"
+                        onclick="handleCardClick(this)"
+                    >
                         <h2>Cooking</h2>
                         <p>Recipes for korean beef, pizza, thai noodle soup and more</p>
                         <div class="inactive card-img cooking"></div>

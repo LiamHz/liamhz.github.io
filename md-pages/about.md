@@ -1,9 +1,9 @@
 ## Currently
 <div id="now-section">
 
+- [Creating](https://www.shadertoy.com/view/tlSyzG) generative art
 - [Building](https://twitter.com/LiamHinzman/status/1341064191688364032?s=20) a decentralized AI hedge fund at Numerai</li>
 - Skateboarding and bombing hills in SF</li>
-- [Creating](https://www.shadertoy.com/view/tlSyzG) generative art
 - Composing music, and playing piano / guitar
 - Living without a phone (since Aug 2021)
 
