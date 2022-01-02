@@ -1,5 +1,5 @@
 ---
-title: "Quotes that have shaped me"
+title: "Quotes that shaped me"
 author: "Liam Hinzman"
 date: "2021-12-28"
 url: "quotes"

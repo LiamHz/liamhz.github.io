@@ -1,7 +1,7 @@
 ---
 title: "YouTube rewind 2021 except it's about me and there's no videos"
 author: "Liam Hinzman"
-date: "2022-01-02"
+date: "2022-01-01"
 url: "2021-recap"
 ...
 
@@ -133,7 +133,7 @@ Five fun things that I'm keeping as bullet points b/c I'm lazy
 - Learned GraphQL / Elixir / Pandas / SQL because my co-worker who assigned me tasks assumed that I already knew these things
 
 ## February 2021
-Friendship ended with depression
+Friendship ended with depression\
 Now Richard Craib is my best friend
 
 After the Numerai founder moved in with me, I immediately felt happier and more productive.
