@@ -1,5 +1,5 @@
 ---
-title: "Quotes That Are Core to How I Think"
+title: "Quotes that have shaped me"
 author: "Liam Hinzman"
 date: "2021-12-28"
 url: "quotes"
