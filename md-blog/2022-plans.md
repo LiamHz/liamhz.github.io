@@ -95,4 +95,4 @@ Measuring both effort and output seems like a good idea, so setting aside 10 hou
 
 Another way I'll measure this is if I feel at home amongst the artists and HCI devs people in Devine Lu Linvega's [webring](https://webring.xxiivv.com/) -- I'll add myself at the end of the year, but feeling "at home" is what matters most.
 
-I also want to write more. Some arbitrary numbers that sound good in my head are >= 1 blog post a month, and >= 1 journal entries / brain dumps a week.
+I also want to write more. Some arbitrary numbers that sound good in my head are ≥ 1 blog post a month, and ≥ 1 journal entries / brain dumps a week.
