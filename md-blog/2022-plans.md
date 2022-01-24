@@ -7,9 +7,11 @@ url: "2022-plans"
 
 This year I began my first full-time job at an [AI startup hedge fund](https://twitter.com/LiamHinzman/status/1341064191688364032?s=20), gained a ridiculous amount of programming experience and knowledge, shouldered lots of trust and responsibilities, and delivered value^tm. I put in so much time and effort to make this happen: stressing about progress, late nights hacking away, and waking up on weekends to quash bugs.
 
-These were the goals I held dearest while in high school. To achieve mastery in something, be valued by peers, and to contribute to something.
+These were the goals I held dearest while in high school. To achieve mastery in a craft, be valued by peers, and contribute to something.
 
-But in my free-time I want to try on different lives like I try on clothes. I want to give form to every feeling, expression to every thought, and reality to every dream.
+Now that I've accomplished these things, it's time to explore!
+
+I want to try on different lives like I try on clothes. I want to give form to every feeling and expression to every thought.
 
 I want to get good at
 
@@ -18,8 +20,7 @@ I want to get good at
 - Composing music
 - 3D motion graphics
 - Photography and film
-- Procedural generation
-- Things that fill me with dread: singing and dancing
+- Generative art
 
 I don't think the world needs more monodisciplinary artists, but I hope that while I'm creating I'll get a sense of intersections that I want to explore that capitalism hasn't created a rat race out of yet. Maybe this will be HCI research, or procedural music visualization tools, but more likely it'll be something I can't even conceive of yet.
 
@@ -33,13 +34,13 @@ I want 2022 to be the year of creating art, and doing before talking.
 
 **Breaking news: Teenager realizes he doesn't have the whole world figured out**
 
-One issue I've had to grapple with while thinking about switching from tech to art is choosing what I want to do, instead of what I feel I should.
+One issue I've had to grapple with while thinking about switching part of my identity from tech to art is choosing what I want to do, instead of what I feel I should.
 
 During my high school years I was learning all about and building AI projects. In the background there was a constant stream of thoughts from Paul Graham, Sam Altman, and Naval Ravikant being hurled at me saying that all I needed to be fulfilled was to work at, and eventually found a SaaS startup.
 
 A core belief I held was that startups were one of the few things that create "impact and value" for the world, and the only thing that felt within reach for me.
 
-Then the mimesis started to fall apart
+Then the mimetic status structure started to fall apart.
 
 I met high-status founders (i.e. Thiel and YC) who were building uninspired companies while raising millions of dollars.
 
@@ -57,8 +58,14 @@ Here's some of the people in my new pantheon
 
 - [Devine Lu Linvega](https://wiki.xxiivv.com/site/home.html), prolific output in art, music, tech and research
 - [Robert M Ochshorn](https://rmozone.com/), text-interaction R&D, founder of [Reduct Video](https://reduct.video/)
-- [Szymon Kaliski](https://szymonkaliski.com/), breadth of experience across HCI: music, writing, design
 - [Dany Qumsiyeh](https://qhex.org/), built some cool things, worked with him briefly at Reduct
+- [Szymon Kaliski](https://szymonkaliski.com/), HCI, music, writing, design
+
+The thread that connects these people together, and what I admire about them, is their prolific output and how varied it is. They pursue what interests them, and in whatever medium they think fits best: whether that be [art exhibits](https://rmozone.com/snapshots/2015/04/what-else.pdf), [software](https://wiki.xxiivv.com/site/roms.html), [games](https://wiki.xxiivv.com/site/games.html), [tools](https://szymonkaliski.com/projects/liveboard/), [hardware](http://lowerquality.com/desertjournalism/), or [art](https://wiki.xxiivv.com/site/dinaisth.html).
+
+Most importantly, they do all these things for themselves. There's no song and dance on their social media compressing their work into bite-sized pieces -- most of their work is hidden under layers of links on their websites.
+
+They live authentically, and embrace the illegibility that comes with doing so.
 
 ---
 
@@ -74,25 +81,32 @@ Impact, at least in the abstract sense which can be measured by the market, does
 
 ---
 
-Time for the obligatory 2022 goals section
+Time for the obligatory 2022 goals.
 
-I want to create more art.
+I want to create art that sparks fun and delight.
 
-Specifically, I want to get good at
+Everything below is an elaboration of this goal.
 
-- Playing guitar
-- Composing music
-- 3D motion graphics
-- Photography and film
-- Procedural generation
-- Things that fill me with dread: singing and dancing
+In a past life I would've loved to be a [medieval bard](https://youtu.be/tmszYC0VPKM), [singing the tales](https://www.youtube.com/watch?v=uxfoa23skHg) of heroes and their [triumphs and follies](https://youtu.be/oFJ8ylnqAmg), and [entrancing](https://youtu.be/7gphiFVVtUI) the last few people in a [tavern](https://youtu.be/55HrV8XnN64) with the [voices of six strings](https://youtu.be/polw2YaLOXE). Either that or a rock star<sup>[1](https://youtu.be/JLCtH0KAY8Q),[2](https://youtu.be/sL16spEIAL8),[3](https://youtu.be/iTTPhTnND-g),[4](https://youtu.be/OkHD4OVjS4E),[5](https://youtu.be/9_gkpYORQLU)</sup>
 
-Success for me would be if I publish three things, each in a different category that I think is good (e.g. [proc gen terrain](https://github.com/LiamHz/atlas)), and three things in different categories I'm proud of (e.g. [rendering engine](https://github.com/LiamHz/excal) + [article](https://liamhinzman.com/blog/vulkan-fundamentals.html)).
+> Words have to find a man's mind before they can touch his heart, and some men's minds are woeful small targets. Music touches their hearts directly no matter how small or stubborn the mind of the man who listens. - Rothfuss
 
-I'm alright if I don't get around to exploring all of these things, I care much more about reaching some level of proficiency and output that I'm happy with in a few of these things.
+Music that touches my heart often have [layered harmonies](https://youtu.be/4v3zyPEy-Po), focus on a [singer](https://youtu.be/8qGFAkyfjDU) and [guitar](https://youtu.be/1u8rIx65QgA), and have [lyrics](https://youtu.be/Gh8Gl2GwB6s) that [linger](https://youtu.be/YV9NrQvNEv4) in my [mind](https://youtu.be/NPXx0CcotWk). I want to compose and record music that does the same for myself and my friends.
 
-Measuring both effort and output seems like a good idea, so setting aside 10 hours a week to spend on any of the above areas is a goal.
+Every time I'm alone with my thoughts while traveling, I feel like time is slipping through my fingers like sand. Living in New Mexico felt like a new chapter of life, then it ended. Living with my girlfriend in Vancouver felt like unending paradise until we broke up. Unfortunately, my brain can't do any sensory simulation, I'm not able to visualize or relive memories through sight / touch / taste / smell / sound. I'd like to compensate for this, and to me sight is one of the best ways I can remember the past, so I'd like to get better at photography and film. I'll also be writing more as a way to scrapbook my thoughts.
 
-Another way I'll measure this is if I feel at home amongst the artists and HCI devs people in Devine Lu Linvega's [webring](https://webring.xxiivv.com/) -- I'll add myself at the end of the year, but feeling "at home" is what matters most.
+In addition to capturing reality, I'd also like to create new ones. Ever since going to my first [EDM rave](https://www.landistanaka.com/#/visual/odesza-a-moment-apart-tour/) 3D [motion graphics](https://www.behance.net/gallery/102496439/LEAGUE-OF-LEGENDS-ARCANE-Main-titles-pitch) have enthralled me.
 
-I also want to write more. Some arbitrary numbers that sound good in my head are ≥ 1 blog post a month, and ≥ 1 journal entries / brain dumps a week.
+Building tools that let other people reify what's in their heads also appeals to me
+
+- Algorithmic maps that let you play God and test theories of urban development
+- Proc-gen systems that let you rapidly create and explore the different forms and functions that objects, animals, people can have
+- Image processing shaders that give new ways to look at and transform the world
+- Generative art in any form that explores and explains different phenomena
+- Anything else that is animated, dynamic, and fun to use
+
+I'm alright if I don't get around to exploring all of these things, I care much more about reaching some level of proficiency and output that I'm happy with in a few instead of being mediocre at everything.
+
+Another way I'll measure this is if I feel at home amongst the artists and HCI devs in Devine Lu Linvega's [webring](https://webring.xxiivv.com/).
+
+Here's to creating art that sparks fun and delight.
