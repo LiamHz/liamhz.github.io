@@ -1,3 +1,5 @@
+<div class="about">
+
 lately I’ve been
 - writing orchestral film music
 - going to concerts in sf: edm, punk, and indie
@@ -11,8 +13,10 @@ in past lives I...
 - competed at canadian nationals for the board game go
 - lived in the middle of nowhere new mexico with 25 friends
 
-some things I’ve made
-- fragment shader music video
-- procedural terrain generator
-- graphics rendering engine
-- sf music map
+some things I’ve made \
+  [⧉](https://www.shadertoy.com/view/tlSyzG) fragment shader music video \
+  [⧉](https://github.com/LiamHz/Atlas) procedural terrain generator \
+  [⧉](https://github.com/LiamHz/Excal) graphics rendering engine \
+  [⧉](#) sf music map
+
+</div>

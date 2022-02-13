@@ -1,3 +1,5 @@
+# Teriyaki Chicken Stir Fry
+
 <div class="recipe-image">
 
 ![](img/cooking/teriyaki-chicken-stir-fry.jpg)

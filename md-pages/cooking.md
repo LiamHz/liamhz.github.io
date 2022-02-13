@@ -3,7 +3,7 @@
 <div class="thai-curry-noodle-soup" onclick="handleLevel2CardClick(this)">
 <img src="img/cooking/thai-curry-noodle-soup.jpg">
 <div class="overlay"></div>
-<p>Thai Curry Noodle Soup</p>
+<p>Thai Noodle Soup</p>
 </div>
 
 <div class="ground-beef-bulgogi" onclick="handleLevel2CardClick(this)">
@@ -15,7 +15,7 @@
 <div class="teriyaki-chicken-stir-fry" onclick="handleLevel2CardClick(this)">
 <img src="img/cooking/teriyaki-chicken-stir-fry.jpg">
 <div class="overlay"></div>
-<p>Teriyaki Chicken Stir Fry</p>
+<p>Teriyaki Ckn Stir Fry</p>
 </div>
 
 <div class="one-hour-pizza" onclick="handleLevel2CardClick(this)">

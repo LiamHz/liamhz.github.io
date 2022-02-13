@@ -1,3 +1,5 @@
+# Thai Noodle Soup
+
 <div class="recipe-image">
 
 ![](img/cooking/thai-curry-noodle-soup.jpg)

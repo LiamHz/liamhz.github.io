@@ -22,7 +22,7 @@
             prevActiveCard.classList.remove("active-card")
             e.classList.add("active-card")
             mdContent.src = `md-pages/${cardName}.md`
-            mdContent.classList.remove("post")
+            mdContent.classList.remove(cardName)
         }
 
         // Used for navigating from blog/cooking lists to individual posts

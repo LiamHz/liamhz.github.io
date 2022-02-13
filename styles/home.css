@@ -1,6 +1,6 @@
 body {
     font-size: 20px;
-    font-family: "SF Pro", sans-serif;
+    font-family: "Roboto", "Arial", sans-serif;
 }
 
 body > div.container {
@@ -11,11 +11,38 @@ body > div.container {
 
 .grid-container {
     display: grid;
-    grid-gap: 4em;
-    grid-template-columns: min-content 70ch;
+    grid-gap: 8em;
+    grid-template-columns: min-content 60ch;
     width: 100%;
     background-color: #ffff;
     color: #000;
+}
+
+h1 + p, h1 + div > p > img, h2 + p {
+    margin-top: 0.5em !important;
+}
+
+h1, h2 {
+    margin-bottom: 0;
+}
+
+.content img {
+    max-height: 20rem;
+    height: 100%;
+    width: auto;
+    display: block;
+    margin: 1rem auto;
+}
+
+.recipe-image img {
+    /*margin-left: 0;*/
+    /*margin-top: 0;*/
+    /*margin-bottom: 1em;*/
+    margin: 1em 0;
+}
+
+.cooking.card-navigation > div > img {
+    margin: 0
 }
 
 .card-navigation > div, .cooking.card-navigation > div {
@@ -62,12 +89,16 @@ nav img {
     z-index: 3;
 }
 
-p {
-    margin: 0;
+p + ul {
+    margin-top: -1em !important;
 }
 
-.post p {
-    margin-bottom: 1em;
+.content p:first-child {
+    margin-top: 0;
+}
+
+.about p {
+    white-space: pre;
 }
 
 h1 {
@@ -95,8 +126,8 @@ ul {
 @media only screen and (min-width: 768px) {
     .image-gallery {
         display: grid;
-        grid-template-columns: 20% 20% 20% 20%;
         column-gap: 5%;
+        grid-template-columns: 30% 30% 30%;
     }
 
     .image-gallery img {
@@ -104,16 +135,19 @@ ul {
         width: 100%;
         max-height: 15rem;
     }
+
+    p, ol, ul, li, summary {
+        font-size: 1em;
+        line-height: 1.3em;
+    }
 }
 
-.post img {
-    max-height: 20rem;
-    height: 100%;
-    width: auto;
-    display: block;
-    margin: 1rem auto;
+.content a {
+    text-decoration: none;
+    color: #007bff;
 }
 
-.recipe-image img {
-    margin: 1rem 0;
+nav p {
+    line-height: 1em;
 }
+

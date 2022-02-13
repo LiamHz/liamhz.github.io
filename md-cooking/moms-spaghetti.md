@@ -1,3 +1,5 @@
+# Mom's Spaghetti
+
 <div class="recipe-image">
 
 ![](img/cooking/moms-spaghetti.jpg)

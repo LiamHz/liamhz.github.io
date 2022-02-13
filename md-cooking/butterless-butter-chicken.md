@@ -1,11 +1,10 @@
+# Butterless Butter Chicken
 <div class="recipe-image">
 
 ![](img/cooking/butterless-butter-chicken.jpg)
 </div>
 
 A surprisingly easy butter chicken recipe (without butter!) as taught to me by my friend's Pakistani mom.
-
-Several of my college friends have said that this is the best chicken dish they've ever had.
 
 ## Ingredients
 _For 6 servings_ \
