@@ -2,115 +2,80 @@
 <html>
 <head>
     <title>Liam Hinzman</title>
-    <link rel="stylesheet" href="styles/index.css" type="text/css" />
+<!--    <link rel="stylesheet" href="styles/index.css" type="text/css" />-->
+    <link rel="stylesheet" href="styles/home.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:ital,wght@0,400;0,600;1,400;1,700&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <div class="grid-container">
-        <nav>
-            <ul>
-                <li><a href=index.html>Home</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="cooking.html">Cooking</a></li>
-                <li><a href="https://drive.google.com/open?id=1zR2LP0FWJ7bk6MSCXfdzHaNkoiy89Naa">Resume</a></li>
-                <li><a href="updates.html">Updates</a></li>
-            </ul>
-        </nav>
+    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+    <script>
+        const handleCardClick = e => {
+            const cardName = e.getAttribute("class").split(" ")[0]
 
-        <div class="column-left">
-            <img class="profile" src="img/erasure-boy.jpg" />
-                <ul>
-                    <li><a href="https://twitter.com/LiamHinzman">@LiamHinzman</a></li>
-                </ul>
-        </div>
+            const prevActiveCard = document.querySelector(".active-card")
+            const mdContent = document.querySelector("div.content md-block")
+            if (e == prevActiveCard) return;
 
-        <div class="column-center">
-            <div>
-                <h1>Now</h1>
-                <ul>
-                    <li><a target="_blank" href="https://twitter.com/LiamHinzman/status/1341064191688364032?s=20">Building</a> a decentralized AI hedge fund at Numerai</li>
-                    <li>Skateboarding and bombing hills in SF</li>
-                    <li><a target="_blank" href="https://www.shadertoy.com/view/tlSyzG">Creating</a> generative art</li>
-                    <li>Composing music, and playing piano / guitar</li>
-                    <li>Living without a phone (since Aug 2021)</li>
-                </ul>
+            prevActiveCard.classList.remove("active-card")
+            e.classList.add("active-card")
+            mdContent.src = `md-pages/${cardName}.md`
+            mdContent.classList.remove(cardName)
+        }
+
+        // Used for navigating from blog/cooking lists to individual posts
+        const handleLevel2CardClick = e => {
+            const level1CardName = document.querySelector(".active-card").classList[0]
+            const level2CardName = e.getAttribute("class").split(" ")[0]
+
+            const mdContent = document.querySelector("div.content md-block")
+
+            mdContent.src = `md-${level1CardName}/${level2CardName}.md`
+            mdContent.classList.add("post")
+        }
+    </script>
+
+    <div class="container">
+        <div class="grid-container">
+            <div class="column-left">
+                <nav class="card-navigation">
+                    <div class="about active-card" onclick="handleCardClick(this)">
+                        <img src="img/cards/profile-kitchen.png"/>
+                        <div class="overlay"></div>
+                        <p>about</p>
+                    </div>
+                    <div class="blog" onclick="handleCardClick(this)">
+                        <img src="img/cards/asemic-danielle-go.png"/>
+                        <div class="overlay"></div>
+                        <p>blog</p>
+                    </div>
+                    <div class="music" onclick="handleCardClick(this)">
+                        <img src="img/cards/sheet-music-art-people-too.png"/>
+                        <div class="overlay"></div>
+                        <p>music</p>
+                    </div>
+                    <div class="cooking" onclick="handleCardClick(this)">
+                        <img src="img/cards/korean-beef-bowl.png"/>
+                        <div class="overlay"></div>
+                        <p>cooking</p>
+                    </div>
+                    <div class="work" onclick="handleCardClick(this)">
+                        <img src="img/cards/numerai-nftee.png"/>
+                        <div class="overlay"></div>
+                        <p>work</p>
+                    </div>
+                    <div class="sf-map" onclick="handleCardClick(this)">
+                        <img src="img/cards/sf-map.png"/>
+                        <div class="overlay"></div>
+                        <p>sf music map</p>
+                    </div>
+                </nav>
             </div>
 
-            <div id="work-section">
-                <h1>Where I've Worked</h1>
-                <p><b>Numerai</b> - <i>Software Dev (Full-time)</i></p>
-                <ul>
-                    <li>King of the <a href="https://signals.numer.ai/">Numerai Signals</a> data science tournament</li>
-                    <li>Data engineering and ML research</li>
-                    <li>Full-stack when duty calls (Vue, Elixir, Postgres)</li>
-                </ul>
-
-                <p><b>Reduct Video</b> - <i>Software Dev (Contract)</i></p>
-                <ul>
-                    <li>NLP tag and highlight suggestions</li>
-                    <li>React widgets and dongles</li>
-                </ul>
-
-                <p><b>Layer6 AI Research Lab</b> - <i>ML Dev (Intern)</i></p>
-                <ul>
-                    <li>ML fraud detection. Placed 72nd out of 6000+ teams in a Kaggle comp</li>
-                    <li>Real-time face recognition</li>
-                </ul>
-
-                <p><b>SickKids Hospital</b> - <i>ML Dev (Part-time)</i></p>
-                <ul>
-                    <li>Similarity search for a database of over 100 million medical images</li>
-                </ul>
-            </div>
-
-            <div>
-                <h1>Things I've Done</h1>
-                <ul>
-                  <!--<li><a href="https://www.youtube.com/watch?v=dhyFbUXyDtA">Ate a burger</a> at a conference talk to explain how ML will affect real estate</li>-->
-                    <li><a href="https://github.com/LiamHz/Excal">Built</a> a rendering engine with Vulkan</li>
-                    <li><a href="blog/vulkan-fundamentals.html">Wrote</a> about modern GPUs and the Vulkan graphics API</li>
-                    <li><a href="https://drive.google.com/open?id=12Dp9GnIXH-N_4IVDr5HwTF02fZu-L2HM">Wrote</a> simple explanations of 30+ ML research papers</li>
-                </ul>
-                <!--
-                <div id="recent-gallery">
-
-                    <div class="gallery-left">
-                        <div class="gallery-img">
-                            <img src="img/atlas.jpeg" />
-                        </div>
-                        <figcaption>
-                            <a href="https://github.com/LiamHz/atlas">Procedural terrain generation</a> with perlin noise heightmaps.
-                        </figcaption>
-
-                        <div class="gallery-img">
-                            <img src="img/tracer.jpeg" />
-                        </div>
-                        <figcaption>
-                            <a href="https://github.com/LiamHz/tracer">Path tracing</a> with motion blur and bounding volume hierarchies.
-                        </figcaption>
-                    </div>
-
-                    <div class="gallery-right">
-                        <div class="gallery-img">
-                            <img src="img/burger-talk.png" />
-                        </div>
-                        <figcaption>
-                            <a href="https://www.youtube.com/watch?v=dhyFbUXyDtA">I eat a burger</a> to explain how ML will effect the real estate industry.
-                        </figcaption>
-
-                        <div class="gallery-img">
-                            <img src="img/papers.jpg" />
-                        </div>
-                        <figcaption>
-                            <a href="https://drive.google.com/open?id=12Dp9GnIXH-N_4IVDr5HwTF02fZu-L2HM">Simple explanations</a> of 30+ ML research papers.
-                        </figcaption>
-                    </div>
-
-                </div>
-                -->
+            <div class="content column-right">
+                <md-block src="md-pages/about.md"></md-block>
             </div>
         </div>
     </div>

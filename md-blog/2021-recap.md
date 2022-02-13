@@ -1,9 +1,4 @@
----
-title: "YouTube rewind 2021 except it's about me and there's no videos"
-author: "Liam Hinzman"
-date: "2022-01-01"
-url: "2021-recap"
-...
+# YouTube rewind 2021 except it's about me and there's no videos
 
 ## September 2020
 Inciting incident: I leave Toronto and my girlfriend to fly to San Francisco and attend university at Minerva.

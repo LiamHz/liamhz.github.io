@@ -1,27 +1,39 @@
----
-title: "Cooking"
-...
+<div class='image-gallery cooking card-navigation'>
 
-# How to Feast as a College Student
-_Meals I love that are cheap, tasty, and easy to make_
+<div class="thai-curry-noodle-soup" onclick="handleLevel2CardClick(this)">
+<img src="img/cooking/thai-curry-noodle-soup.jpg">
+<div class="overlay"></div>
+<p>Thai Noodle Soup</p>
+</div>
 
-<div class='image-gallery'>
-[<img src="img/cooking/thai-curry-noodle-soup.jpg">](cooking/thai-curry-noodle-soup.html)
-[Thai Curry Noodle Soup](cooking/thai-curry-noodle-soup.html)
+<div class="ground-beef-bulgogi" onclick="handleLevel2CardClick(this)">
+<img src="img/cooking/ground-beef-bulgogi.png">
+<div class="overlay"></div>
+<p>Korean Beef Bowls</p>
+</div>
 
-[<img src="img/cooking/ground-beef-bulgogi.png">](cooking/ground-beef-bulgogi.html)
-[Ground Beef Bulgogi](cooking/ground-beef-bulgogi.html)
+<div class="teriyaki-chicken-stir-fry" onclick="handleLevel2CardClick(this)">
+<img src="img/cooking/teriyaki-chicken-stir-fry.jpg">
+<div class="overlay"></div>
+<p>Teriyaki Ckn Stir Fry</p>
+</div>
 
-[<img src="img/cooking/teriyaki-chicken-stir-fry.jpg">](cooking/teriyaki-chicken-stir-fry.html)
-[Teriyaki Chicken Stir Fry](cooking/teriyaki-chicken-stir-fry.html)
+<div class="one-hour-pizza" onclick="handleLevel2CardClick(this)">
+<img src="img/cooking/one-hour-pizza.jpg">
+<div class="overlay"></div>
+<p>One Hour Pizza</p>
+</div>
 
-[<img src="img/cooking/one-hour-pizza.jpg">](cooking/one-hour-pizza.html)
-[One Hour Pizza](cooking/one-hour-pizza.html)
+<div class="butterless-butter-chicken" onclick="handleLevel2CardClick(this)">
+<img src="img/cooking/butterless-butter-chicken.jpg">
+<div class="overlay"></div>
+<p>Butterless Butter Ckn</p>
+</div>
 
-[<img src="img/cooking/butterless-butter-chicken.jpg">](cooking/butterless-butter-chicken.html)
-[Butterless Butter Chicken](cooking/butterless-butter-chicken.html)
-
-[<img src="img/cooking/moms-spaghetti.jpg">](cooking/moms-spaghetti.html)
-[Mom's Spaghetti](cooking/moms-spaghetti.html)
+<div class="moms-spaghetti" onclick="handleLevel2CardClick(this)">
+<img src="img/cooking/moms-spaghetti.jpg">
+<div class="overlay"></div>
+<p>Mom's Spaghetti</p>
+</div>
 
 </div>

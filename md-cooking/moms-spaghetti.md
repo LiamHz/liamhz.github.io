@@ -1,13 +1,8 @@
----
-title: "Mom's Spaghetti"
-author: "Liam Hinzman"
-date: "2020-05-20"
-url: "moms-spaghetti"
-img: "img/cooking/moms-spaghetti.jpg"
-...
+# Mom's Spaghetti
 
 <div class="recipe-image">
-![](../img/cooking/moms-spaghetti.jpg)
+
+![](img/cooking/moms-spaghetti.jpg)
 </div>
 
 When your arms are heavy, it's time for mom's spaghetti.

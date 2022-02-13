@@ -1,9 +1,4 @@
----
-title: "Quotes that shaped me"
-author: "Liam Hinzman"
-date: "2021-12-28"
-url: "quotes"
-...
+#Quotes that Shaped Me
 
 > When you're screwing up and nobody says anything to you anymore, that means they've given up on you. - Randy Pausch, The Last Lecture
 

@@ -1,19 +1,14 @@
----
-title: "Ground Beef Bulgogi"
-author: "Liam Hinzman"
-date: "2020-09-16"
-url: "ground-beef-bulgogi"
-img: "img/cooking/ground-beef-bulgogi.png"
-...
+# Korean Beef Bowls
 
 <div class="recipe-image">
-![](../img/cooking/ground-beef-bulgogi.png)
+
+![](img/cooking/ground-beef-bulgogi.png)
 </div>
 
 My family asks me to cook this dish for them all the time.
 
 ## Ingredients
-_Scale based on the amount of beef you're cooking._\
+_Scale based on the amount of beef you're cooking._ \
 _2 lb of ground beef is enough for ~5 servings._
 
 - 1/3 cup of brown sugar

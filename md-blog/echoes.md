@@ -1,9 +1,4 @@
----
-title: "Echoes of Love"
-author: "Liam Hinzman"
-date: "2020-12-14"
-url: "echoes"
-...
+# Echoes of Love
 
 Murakami's novel, Norwegian Wood, is about all the different ways a relationship can be broken and beautiful.
 
