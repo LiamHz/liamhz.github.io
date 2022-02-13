@@ -1,0 +1,58 @@
+body {
+    font-size: 20px;
+    font-family: "SF Pro", sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-gap: 4em;
+    grid-template-columns: min-content auto;
+    width: 100%;
+    margin: 4em;
+    background-color: #ffff;
+    color: #000;
+}
+
+nav > div {
+    position: relative;
+    background: black;
+    height: 4em;
+    width: fit-content;
+    text-align: center;
+    z-index: 2;
+    margin: 0 0 1em;
+}
+
+nav img {
+    height: 4em;
+}
+
+nav div.overlay {
+    position: absolute;
+    bottom: 0;
+    height: 50%;
+    width: 100%;
+
+    background: black;
+    opacity: 0.3;
+    z-index: 2;
+}
+
+nav p {
+    position: absolute;
+    bottom: 0.5em;
+    width: 100%;
+    margin: 0;
+
+    font-size: 1em;
+    color: white;
+    z-index: 3;
+}
+
+p, ul {
+    margin: 0;
+}
+
+ul {
+    margin-inline-start: -0.5em;
+}

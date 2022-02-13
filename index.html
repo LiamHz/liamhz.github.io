@@ -2,7 +2,8 @@
 <html>
 <head>
     <title>Liam Hinzman</title>
-    <link rel="stylesheet" href="styles/index.css" type="text/css" />
+<!--    <link rel="stylesheet" href="styles/index.css" type="text/css" />-->
+    <link rel="stylesheet" href="styles/home.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:ital,wght@0,400;0,600;1,400;1,700&display=swap" rel="stylesheet">
@@ -10,107 +11,69 @@
 
 <body>
     <div class="grid-container">
-        <nav>
-            <ul>
-                <li><a href=index.html>Home</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="cooking.html">Cooking</a></li>
-                <li><a href="https://drive.google.com/open?id=1zR2LP0FWJ7bk6MSCXfdzHaNkoiy89Naa">Resume</a></li>
-                <li><a href="updates.html">Updates</a></li>
-            </ul>
-        </nav>
-
         <div class="column-left">
-            <img class="profile" src="img/erasure-boy.jpg" />
-                <ul>
-                    <li><a href="https://twitter.com/LiamHinzman">@LiamHinzman</a></li>
-                </ul>
+            <nav>
+                <div>
+                    <img src="img/cards/profile-kitchen.png"/>
+                    <div class="overlay"></div>
+                    <p>about</p>
+                </div>
+                <div>
+                    <img src="img/cards/asemic-danielle-go.png"/>
+                    <div class="overlay"></div>
+                    <p>blog</p>
+                </div>
+                <div>
+                    <img src="img/cards/sheet-music-art-people-too.png"/>
+                    <div class="overlay"></div>
+                    <p>music</p>
+                </div>
+                <div>
+                    <img src="img/cards/korean-beef-bowl.png"/>
+                    <div class="overlay"></div>
+                    <p>cooking</p>
+                </div>
+                <div>
+                    <img src="img/cards/numerai-nftee.png"/>
+                    <div class="overlay"></div>
+                    <p>work</p>
+                </div>
+                <div>
+                    <img src="img/cards/sf-map.png"/>
+                    <div class="overlay"></div>
+                    <p>sf music map</p>
+                </div>
+            </nav>
         </div>
 
-        <div class="column-center">
+        <div class="column-right">
             <div>
-                <h1>Now</h1>
+                <p>lately I've been</p>
                 <ul>
-                    <li><a target="_blank" href="https://twitter.com/LiamHinzman/status/1341064191688364032?s=20">Building</a> a decentralized AI hedge fund at Numerai</li>
-                    <li>Skateboarding and bombing hills in SF</li>
-                    <li><a target="_blank" href="https://www.shadertoy.com/view/tlSyzG">Creating</a> generative art</li>
-                    <li>Composing music, and playing piano / guitar</li>
-                    <li>Living without a phone (since Aug 2021)</li>
-                </ul>
-            </div>
-
-            <div id="work-section">
-                <h1>Where I've Worked</h1>
-                <p><b>Numerai</b> - <i>Software Dev (Full-time)</i></p>
-                <ul>
-                    <li>King of the <a href="https://signals.numer.ai/">Numerai Signals</a> data science tournament</li>
-                    <li>Data engineering and ML research</li>
-                    <li>Full-stack when duty calls (Vue, Elixir, Postgres)</li>
+                    <li>writing orchestral film music</li>
+                    <li>going to concerts in sf: edm, punk, and indie</li>
+                    <li>building data pipelines and ai models at numerai</li>
+                    <li>experimenting with art: generative, digital, and cartographic</li>
+                    <li>furnishing my apartmet -- living w/o roommates for the first time</li>
                 </ul>
 
-                <p><b>Reduct Video</b> - <i>Software Dev (Contract)</i></p>
+                <br />
+                <p>in past lives I...</p>
                 <ul>
-                    <li>NLP tag and highlight suggestions</li>
-                    <li>React widgets and dongles</li>
+                    <li>went to university for a month</li>
+                    <li>was obsessed with computer graphics and rendering</li>
+                    <li>competed at canadian nationals for the board game go</li>
+                    <li>lived in the middle of nowhere new mexico with 25 friends</li>
                 </ul>
 
-                <p><b>Layer6 AI Research Lab</b> - <i>ML Dev (Intern)</i></p>
-                <ul>
-                    <li>ML fraud detection. Placed 72nd out of 6000+ teams in a Kaggle comp</li>
-                    <li>Real-time face recognition</li>
-                </ul>
-
-                <p><b>SickKids Hospital</b> - <i>ML Dev (Part-time)</i></p>
-                <ul>
-                    <li>Similarity search for a database of over 100 million medical images</li>
-                </ul>
-            </div>
-
-            <div>
-                <h1>Things I've Done</h1>
-                <ul>
-                  <!--<li><a href="https://www.youtube.com/watch?v=dhyFbUXyDtA">Ate a burger</a> at a conference talk to explain how ML will affect real estate</li>-->
-                    <li><a href="https://github.com/LiamHz/Excal">Built</a> a rendering engine with Vulkan</li>
-                    <li><a href="blog/vulkan-fundamentals.html">Wrote</a> about modern GPUs and the Vulkan graphics API</li>
-                    <li><a href="https://drive.google.com/open?id=12Dp9GnIXH-N_4IVDr5HwTF02fZu-L2HM">Wrote</a> simple explanations of 30+ ML research papers</li>
-                </ul>
-                <!--
-                <div id="recent-gallery">
-
-                    <div class="gallery-left">
-                        <div class="gallery-img">
-                            <img src="img/atlas.jpeg" />
-                        </div>
-                        <figcaption>
-                            <a href="https://github.com/LiamHz/atlas">Procedural terrain generation</a> with perlin noise heightmaps.
-                        </figcaption>
-
-                        <div class="gallery-img">
-                            <img src="img/tracer.jpeg" />
-                        </div>
-                        <figcaption>
-                            <a href="https://github.com/LiamHz/tracer">Path tracing</a> with motion blur and bounding volume hierarchies.
-                        </figcaption>
-                    </div>
-
-                    <div class="gallery-right">
-                        <div class="gallery-img">
-                            <img src="img/burger-talk.png" />
-                        </div>
-                        <figcaption>
-                            <a href="https://www.youtube.com/watch?v=dhyFbUXyDtA">I eat a burger</a> to explain how ML will effect the real estate industry.
-                        </figcaption>
-
-                        <div class="gallery-img">
-                            <img src="img/papers.jpg" />
-                        </div>
-                        <figcaption>
-                            <a href="https://drive.google.com/open?id=12Dp9GnIXH-N_4IVDr5HwTF02fZu-L2HM">Simple explanations</a> of 30+ ML research papers.
-                        </figcaption>
-                    </div>
-
-                </div>
-                -->
+                <br />
+                <p>some things I’ve made</p>
+                    <ul>
+                        <li>fragment shader music video</li>
+                        <li>procedural terrain generator</li>
+                        <li>graphics rendering engine</li>
+                        <li>sf music map</li>
+                    </ul>
             </div>
         </div>
     </div>
