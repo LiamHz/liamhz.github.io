@@ -1,8 +1,3 @@
----
-title: "Blog"
-...
-
-# Blog
 - [My 2022 Reincarnation Plan](blog/2022-plans.html)
 - [YouTube rewind 2021 except it's about me and there's no videos](blog/2021-recap.html)
 - [Quotes that shaped me](blog/quotes.html)

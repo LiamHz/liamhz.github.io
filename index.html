@@ -10,70 +10,70 @@
 </head>
 
 <body>
-    <div class="grid-container">
-        <div class="column-left">
-            <nav>
-                <div>
-                    <img src="img/cards/profile-kitchen.png"/>
-                    <div class="overlay"></div>
-                    <p>about</p>
-                </div>
-                <div>
-                    <img src="img/cards/asemic-danielle-go.png"/>
-                    <div class="overlay"></div>
-                    <p>blog</p>
-                </div>
-                <div>
-                    <img src="img/cards/sheet-music-art-people-too.png"/>
-                    <div class="overlay"></div>
-                    <p>music</p>
-                </div>
-                <div>
-                    <img src="img/cards/korean-beef-bowl.png"/>
-                    <div class="overlay"></div>
-                    <p>cooking</p>
-                </div>
-                <div>
-                    <img src="img/cards/numerai-nftee.png"/>
-                    <div class="overlay"></div>
-                    <p>work</p>
-                </div>
-                <div>
-                    <img src="img/cards/sf-map.png"/>
-                    <div class="overlay"></div>
-                    <p>sf music map</p>
-                </div>
-            </nav>
-        </div>
+    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+    <script>
+        const handleCardClick = e => {
+            const cardName = e.getAttribute("class").split(" ")[0]
 
-        <div class="column-right">
-            <div>
-                <p>lately I've been</p>
-                <ul>
-                    <li>writing orchestral film music</li>
-                    <li>going to concerts in sf: edm, punk, and indie</li>
-                    <li>building data pipelines and ai models at numerai</li>
-                    <li>experimenting with art: generative, digital, and cartographic</li>
-                    <li>furnishing my apartmet -- living w/o roommates for the first time</li>
-                </ul>
+            const prevActiveCard = document.querySelector(".active-card")
+            const mdContent = document.querySelector("div.content md-block")
+            if (e == prevActiveCard) return;
 
-                <br />
-                <p>in past lives I...</p>
-                <ul>
-                    <li>went to university for a month</li>
-                    <li>was obsessed with computer graphics and rendering</li>
-                    <li>competed at canadian nationals for the board game go</li>
-                    <li>lived in the middle of nowhere new mexico with 25 friends</li>
-                </ul>
+            prevActiveCard.classList.remove("active-card")
+            e.classList.add("active-card")
+            mdContent.src = `md-pages/${cardName}.md`
+        }
 
-                <br />
-                <p>some things I’ve made</p>
-                    <ul>
-                        <li>fragment shader music video</li>
-                        <li>procedural terrain generator</li>
-                        <li>graphics rendering engine</li>
-                        <li>sf music map</li>
-                    </ul>
+        // Used for navigating from blog/cooking lists to individual posts
+        const handleLevel2CardClick = e => {
+            const level1CardName = document.querySelector(".active-card").classList[0]
+            const level2CardName = e.getAttribute("class").split(" ")[0]
+
+            const mdContent = document.querySelector("div.content md-block")
+
+            mdContent.src = `md-${level1CardName}/${level2CardName}.md`
+        }
+    </script>
+
+    <div class="container">
+        <div class="grid-container">
+            <div class="column-left">
+                <nav class="card-navigation">
+                    <div class="about active-card" onclick="handleCardClick(this)">
+                        <img src="img/cards/profile-kitchen.png"/>
+                        <div class="overlay"></div>
+                        <p>about</p>
+                    </div>
+                    <div class="blog" onclick="handleCardClick(this)">
+                        <img src="img/cards/asemic-danielle-go.png"/>
+                        <div class="overlay"></div>
+                        <p>blog</p>
+                    </div>
+                    <div class="music" onclick="handleCardClick(this)">
+                        <img src="img/cards/sheet-music-art-people-too.png"/>
+                        <div class="overlay"></div>
+                        <p>music</p>
+                    </div>
+                    <div class="cooking" onclick="handleCardClick(this)">
+                        <img src="img/cards/korean-beef-bowl.png"/>
+                        <div class="overlay"></div>
+                        <p>cooking</p>
+                    </div>
+                    <div class="work" onclick="handleCardClick(this)">
+                        <img src="img/cards/numerai-nftee.png"/>
+                        <div class="overlay"></div>
+                        <p>work</p>
+                    </div>
+                    <div class="sf-map" onclick="handleCardClick(this)">
+                        <img src="img/cards/sf-map.png"/>
+                        <div class="overlay"></div>
+                        <p>sf music map</p>
+                    </div>
+                </nav>
+            </div>
+
+            <div class="content column-right">
+                <md-block src="md-pages/about.md"></md-block>
             </div>
         </div>
     </div>
