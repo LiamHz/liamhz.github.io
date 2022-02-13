@@ -1,21 +1,14 @@
----
-title: "Thai Curry Noodle Soup"
-author: "Liam Hinzman"
-date: "2020-09-21"
-url: "thai-curry-noodle-soup"
-img: "img/cooking/thai-curry-noodle-soup.jpg"
-...
-
 <div class="recipe-image">
-![](../img/cooking/thai-curry-noodle-soup.jpg)
+
+![](img/cooking/thai-curry-noodle-soup.jpg)
 </div>
 
-A healthy version of instant noodles, Thai style. I eat this almost every day for lunch.
+A healthy version of instant noodles, Thai style.
 
 I typically prep 5 jars / servings at a time.
 
 ## Ingredients
-_For 1 jar / serving_\
+_For 1 jar / serving_ \
 _See "Notes" section for items with a \*_
 
 - Half a chicken bouillon cube*

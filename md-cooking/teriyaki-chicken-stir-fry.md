@@ -1,19 +1,12 @@
----
-title: "Teriyaki Chicken Stir Fry"
-author: "Liam Hinzman"
-date: "2020-08-23"
-url: "teriyaki-chicken-stir-fry"
-img: "img/cooking/teriyaki-chicken-stir-fry.jpg"
-...
-
 <div class="recipe-image">
-![](../img/cooking/teriyaki-chicken-stir-fry.jpg)
+
+![](img/cooking/teriyaki-chicken-stir-fry.jpg)
 </div>
 
 Great for meal prep _and_ your taste buds.
 
 ## Ingredients
-_Scale based on the amount of chicken you're cooking._\
+_Scale based on the amount of chicken you're cooking._ \
 _1 lb of boneless chicken breast is enough for ~4 servings._
 
 - 1 lb of boneless chicken breast

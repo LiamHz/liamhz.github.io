@@ -1,17 +1,10 @@
----
-title: "One Hour Pizza"
-author: "Liam Hinzman"
-date: "2020-08-20"
-url: "one-hour-pizza"
-img: "img/cooking/one-hour-pizza.jpg"
-...
-
 <div class="recipe-image">
-![](../img/cooking/one-hour-pizza.jpg)
+
+![](img/cooking/one-hour-pizza.jpg)
 </div>
 
-_You are what you eat_\
-_so I guess I am pizza_\
+_You are what you eat_ \
+_so I guess I am pizza_ \
 _good, I love pizza_
 
 ## Ingredients

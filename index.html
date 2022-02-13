@@ -22,6 +22,7 @@
             prevActiveCard.classList.remove("active-card")
             e.classList.add("active-card")
             mdContent.src = `md-pages/${cardName}.md`
+            mdContent.classList.remove("post")
         }
 
         // Used for navigating from blog/cooking lists to individual posts
@@ -32,6 +33,7 @@
             const mdContent = document.querySelector("div.content md-block")
 
             mdContent.src = `md-${level1CardName}/${level2CardName}.md`
+            mdContent.classList.add("post")
         }
     </script>
 

@@ -97,3 +97,15 @@ ul {
         max-height: 15rem;
     }
 }
+
+.post img {
+    max-height: 20rem;
+    height: 100%;
+    width: auto;
+    display: block;
+    margin: 1rem auto;
+}
+
+.recipe-image img {
+    margin: 1rem 0;
+}
