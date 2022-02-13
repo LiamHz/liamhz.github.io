@@ -1,9 +1,4 @@
----
-title: "Why Rendering a Triangle is Complicated"
-author: "Liam Hinzman"
-date: "2020-07-21"
-url: "vulkan-fundamentals"
-...
+# Why Rendering a Triangle is Complicated
 
 Last week, my dad was asking me why I was proud of this triangle on my laptop.
 

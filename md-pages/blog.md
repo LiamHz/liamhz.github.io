@@ -1,6 +1,10 @@
-- [My 2022 Reincarnation Plan](blog/2022-plans.html)
-- [YouTube rewind 2021 except it's about me and there's no videos](blog/2021-recap.html)
-- [Quotes that shaped me](blog/quotes.html)
-- [Echoes of Love](blog/echoes.html)
-- [Building and Maintaining Communities](blog/community.html)
-- [Why Rendering a Triangle is Complicated](blog/vulkan-fundamentals.html)
+<div class='blog card-navigation'>
+
+- <a class="2022-plans" href="#" onclick="handleLevel2CardClick(this)">My 2022 Reincarnation Plan</a>
+- <a class="2021-recap" href="#" onclick="handleLevel2CardClick(this)">YouTube rewind 2021 except it's about me and there's no videos</a>
+- <a class="quotes" href="#" onclick="handleLevel2CardClick(this)">Quotes that Shaped Me</a>
+- <a class="echoes" href="#" onclick="handleLevel2CardClick(this)">Echoes of Love</a>
+- <a class="community" href="#" onclick="handleLevel2CardClick(this)">Building and Maintaining Communities</a>
+- <a class="vulkan-fundamentals" href="#" onclick="handleLevel2CardClick(this)">Why Rendering a Triangle is Complicated</a>
+
+</div>

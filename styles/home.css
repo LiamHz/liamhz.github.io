@@ -12,7 +12,7 @@ body > div.container {
 .grid-container {
     display: grid;
     grid-gap: 4em;
-    grid-template-columns: min-content auto;
+    grid-template-columns: min-content 70ch;
     width: 100%;
     background-color: #ffff;
     color: #000;
@@ -64,6 +64,14 @@ nav img {
 
 p {
     margin: 0;
+}
+
+.post p {
+    margin-bottom: 1em;
+}
+
+h1 {
+    margin-top: 0;
 }
 
 ul {
