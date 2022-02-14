@@ -7,11 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:ital,wght@0,400;0,600;1,400;1,700&display=swap" rel="stylesheet">
+<!--    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">-->
+<!--    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>-->
+    <link href="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.css" rel="stylesheet"/>
+    <script src="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.js"></script>
 </head>
 
 <body>
     <script type="module" src="https://md-block.verou.me/md-block.js"></script>
     <script>
+        let prevCardName = null
+
         const handleCardClick = e => {
             const cardName = e.getAttribute("class").split(" ")[0]
 
@@ -23,6 +29,21 @@
             e.classList.add("active-card")
             mdContent.src = `md-pages/${cardName}.md`
             mdContent.classList.remove(cardName)
+
+            if (cardName == "sf-map" || prevCardName == "sf-map") {
+                const x = document.getElementById("map");
+                // Using visibility instead of display, as display doesn't
+                // maintain space while hidden, which causes DPI issue with maplibre
+                if (x.style.visibility === "hidden") {
+                    x.style.visibility = "visible";
+                    mdContent.style.visibility = "hidden";
+                } else {
+                    x.style.visibility = "hidden";
+                    mdContent.style.visibility = "visible";
+                }
+            }
+
+            prevCardName = cardName
         }
 
         // Used for navigating from blog/cooking lists to individual posts
@@ -75,10 +96,30 @@
             </div>
 
             <div class="content column-right">
-                <md-block src="md-pages/about.md"></md-block>
+                <md-block src="md-pages/about.md" style="visibility: visible"></md-block>
+                <div id="map" style="visibility: hidden"></div>
             </div>
         </div>
     </div>
+    <script>
+        // mapboxgl.accessToken = 'pk.eyJ1IjoibGlhbWh6IiwiYSI6ImNremtmemhpdzFqcGsydXFyOHBwYWpmbmUifQ.u367CQfQxGV2lSMAPeeIKg';
+        maplibregl.accessToken = 'pk.eyJ1IjoibGlhbWh6IiwiYSI6ImNremtmemhpdzFqcGsydXFyOHBwYWpmbmUifQ.u367CQfQxGV2lSMAPeeIKg';
+
+        // const map = new mapboxgl.Map({
+        const map = new maplibregl.Map({
+            container: 'map',
+            style: 'mapbox://styles/liamhz/ckzkgbgjf000m14o3g73z13px',
+            center: [-122.426418, 37.780929], // [lng, lat], [EW, NS]
+            zoom: 12.6, // starting zoom
+            attributionControl: false, // Disable bottom-right text
+            keyboard: false,
+            dragPan: false,
+            scrollZoom: false,
+            touchPitch: false,
+            touchZoomRotate: false,
+            interactive: false, // Set to true to use map markers
+        });
+    </script>
     <script data-goatcounter="https://liamhinzman.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
 </body>

@@ -151,3 +151,11 @@ nav p {
     line-height: 1em;
 }
 
+#map {
+    width: 100%;
+    height: 60em !important;
+}
+
+.mapbox-logo, .mapboxgl-ctrl-logo {
+    display: none !important;
+}
