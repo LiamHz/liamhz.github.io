@@ -1,0 +1,1 @@
+notes on music theory and song analyses coming soon^tm
