@@ -15,17 +15,46 @@
     <script src="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.js"></script>
 </head>
 
-<body>
+<body onload="handleNavQuery()">
     <script type="module" src="https://md-block.verou.me/md-block.js"></script>
     <script>
         let prevCardName = null
+
+        const getQueryVariable = queryVar => {
+            var query = window.location.search.substring(1)
+            var vars = query.split("&")
+            for (let i=0; i<vars.length; i++) {
+              var pair = vars[i].split("=")
+              if (pair[0] == queryVar) {return pair[1]}
+            }
+            return(false);
+        }
+
+        const handleNavQuery = () => {
+          let navQueryVar = getQueryVariable("nav")
+          if (navQueryVar != false) {
+              let navPath = navQueryVar
+                .split("/")
+                .filter(String)
+                .join("/")
+
+              window.history.pushState('', `${navPath} - Liam Hinzman`, navPath);
+              const mdContent = document.querySelector("div.content md-block")
+
+              // TODO Everything works except reloading blog/ or cooking/ and immediately
+              // after trying to click on a level2 link
+              if (!navPath.includes("/")) {
+                navPath = `pages/${navPath}`
+              }
+              mdContent.src = `../md-${navPath}.md`
+          }
+        }
 
         const handleCardClick = e => {
             const cardName = e.getAttribute("class").split(" ")[0]
 
             const prevActiveCard = document.querySelector(".active-card")
             const mdContent = document.querySelector("div.content md-block")
-            if (e == prevActiveCard) return;
 
             prevActiveCard.classList.remove("active-card")
             e.classList.add("active-card")
@@ -53,7 +82,7 @@
 
         // Used for navigating from blog/cooking lists to individual posts
         const handleLevel2CardClick = e => {
-            const level1CardName = document.querySelector(".active-card").classList[0]
+            const level1CardName = window.location.pathname.split("/")[1]
             const level2CardName = e.getAttribute("class").split(" ")[0]
 
             const mdContent = document.querySelector("div.content md-block")
@@ -61,6 +90,7 @@
             window.history.pushState('', `${level2CardName} - Liam Hinzman`, newUrl)
 
             mdContent.src = `../md-${level1CardName}/${level2CardName}.md`
+            console.log(mdContent.src)
             mdContent.classList.add("post")
         }
     </script>
