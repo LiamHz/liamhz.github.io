@@ -207,7 +207,7 @@ nav li {
   list-style-type: none;
   line-height: 1.2rem;
   margin-bottom: 0.2rem;
-  font-family: "Roboto", "Arial", sans-serif;
+  font-family: "spectral", serif;
   font-size: 1rem;
 }
 
@@ -229,14 +229,14 @@ main a {
 body {
   margin-left: auto;
   margin-right: auto;
-  font-family: "Roboto", "Arial", sans-serif;
+  font-family: "spectral", serif;
   color: #111;
   counter-reset: sidenote-counter; 
 }
 
 h1, h2, h3, h4 {
   font-weight: 600;
-  font-family: "Montserrat";
+  font-family: "spectral", serif;
 }
 
 h1 {

@@ -1,6 +1,6 @@
 body {
-    font-size: 20px;
-    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 18px;
+    font-family: "spectral", serif;
 }
 
 body > div.container {
@@ -12,7 +12,7 @@ body > div.container {
 .grid-container {
     display: grid;
     grid-gap: 8em;
-    grid-template-columns: min-content 60ch;
+    grid-template-columns: min-content 65ch;
     width: 100%;
     background-color: #ffff;
     color: #000;
