@@ -29,6 +29,9 @@
 
             prevActiveCard.classList.remove("active-card")
             e.classList.add("active-card")
+
+            window.history.pushState('', `${cardName} - Liam Hinzman`, `/${cardName}`);
+
             mdContent.src = `md-pages/${cardName}.md`
             mdContent.classList.remove(cardName)
 
@@ -54,8 +57,10 @@
             const level2CardName = e.getAttribute("class").split(" ")[0]
 
             const mdContent = document.querySelector("div.content md-block")
+            const newUrl = `/${level1CardName}/${level2CardName}`
+            window.history.pushState('', `${level2CardName} - Liam Hinzman`, newUrl)
 
-            mdContent.src = `md-${level1CardName}/${level2CardName}.md`
+            mdContent.src = `../md-${level1CardName}/${level2CardName}.md`
             mdContent.classList.add("post")
         }
     </script>

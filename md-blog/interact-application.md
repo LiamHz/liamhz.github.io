@@ -4,7 +4,7 @@ _[Interact](http://interact.org/) is a fellowship for people who "think deeply a
 
 _Unlike my college application essays, my Interact app felt authentic to me. Hopefully I'll get to join the cool kids club this year._
 
-**Think about your three core interests. Why do you care about these things?**
+### What are your three core interests and why do you care about these things?
 
 Music emerges from patterns being layered on top of one another; motifs, harmony, and phrases combining to create something beautiful. The way these patterns evolve and work together feels organic, like they're all communicating with one another. Similarly, the world is made up of patterns: people, relationships, infrastructure, and companies all communicating and interacting with each other in harmony.
 
@@ -21,7 +21,7 @@ Some shared traits of music, cooking, and graphics that I enjoy
 - Universality: there's something primal in people that finds joy in these things, yet there's plenty to learn which leads to new forms of appreciation
 - Collaboration: making things with people is delightful, and is something I'd like to do lots of with the friends I make in Interact
 
-**What has been the biggest change to your beliefs or values in the past two years, and what caused this change?**
+### What has been the biggest change to your beliefs or values in the past two years, and what caused this change?
 
 Throughout high school I was largely focused on myself. Studying AI, learning programming languages, building projects on my own, and trying to get internships.
 
@@ -33,7 +33,7 @@ These two people frequently appear in my pantheon of role models. Thinking “wh
 
 One of the things that excites me most about Interact is that I've heard through friends that the community has a similar ethos of proactive kindness.
 
-**Who would you be the most excited to find out was in Interact? Why?**
+### Who would you be the most excited to find out was in Interact? Why?
 
 Aadil is an amazing, funny, and kind person -- but he's been having a rough time in the pandemic induced semi-isolation in Canada. In the past he's thrived in communities of young people, and I think Interact's community of young technologists would be great for him.
 
@@ -47,7 +47,7 @@ I'd like to get better at proactively bringing people together to create art -- 
 
 I'd like to approach life with more of a spring in my step, creating memories and adventures with friends where otherwise there'd be “the usual”. I admire people who bring energy to a group instead of just matching it, and lately I've been emulating this by inviting friends over for dinner, and taking them with me to concerts and on skateboard journeys to explore the city. I'd like to organize more bonfires / hikes / dinner parties / picnics over the next year.
 
-**What project or initiative were you proudest of in 2021? What is your primary creative, academic, or work goal for 2022?**
+### What project or initiative were you proudest of in 2021? What is your primary creative, academic, or work goal for 2022?
 
 In 2021 I'm most proud of the work I did at Numerai. Over the past ~year I've left college, started working full-time, and learned so much. If I had to pick a project I'm most proud of it would be my research work, but that seems hard to fit into 100 words.
 
