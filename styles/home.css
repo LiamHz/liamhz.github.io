@@ -160,3 +160,24 @@ nav p {
 .mapbox-logo, .mapboxgl-ctrl-logo {
     display: none !important;
 }
+
+@media only screen and (max-device-width: 768px) {
+  .grid-container {
+      display: inline;
+  }
+
+  nav {
+      display: grid;
+      grid-template-columns: 50% 50%;
+      margin-bottom: 1em;
+  }
+
+  nav > div {
+      margin-bottom: 0.5em !important;
+  }
+
+  body > div.container {
+    padding: 0.5em;
+  }
+}
+
