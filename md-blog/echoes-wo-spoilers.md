@@ -1,14 +1,16 @@
 # Echoes of Love
 
+_spoiler-free version_
+
 _2020/12/14_
 
 Murakami's novel, Norwegian Wood, is about all the different ways a relationship can be broken and beautiful.
 
-Toru, the 19 y/o protagonist, goes on countless long walks with Naoko and over time they fall in love with each other. But Naoko's past trauma keeps the two from spending time together. At first, Toru tries to cope with this by sleeping with girls he barely knows, and then by abstaining from sex all together. Months later he meets another girl who he falls in love with, but he's unable to open up to her because a part of him still lives in the past with Naoko.
+Toru, the 19 y/o protagonist, falls in love with somebody - but for reasons out of their control they can't be together. At first, Toru tries to cope with this by sleeping with girls he barely knows, and then by abstaining from sex all together. Months later he meets another girl who he falls in love with, but he's unable to open up to her because a part of him still lives in the past with his first love.
 
 I'm still recovering from breaking up with my ex. We were together for two years, and split because I moved across the continent for university while she stayed behind to finish her last year of high school.
 
-Unlike Toru and Naoko, we were able to have a wonderful relationship together. I feel like that's supposed to make moving on easier - but if anything it's made things harder.
+Unlike Toru and his partner, we were able to have a wonderful relationship together. I feel like that's supposed to make moving on easier - but if anything it's made things harder.
 
 I miss showering with her, cooking with her, and doing small things to make her eyes light up.
 
