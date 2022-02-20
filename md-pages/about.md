@@ -1,11 +1,11 @@
 <div class="about">
 
-lately I’ve been
+lately I've been
 - writing orchestral film music
 - going to concerts in sf: edm, punk, and indie
 - building data pipelines and ai models at numerai
 - experimenting with art: generative, digital, and cartographic
-- furnishing my apartmet -- living w/o roommates for the first time
+- furnishing my apartment -- living w/o roommates for the first time
 
 in past lives I...
 - went to university for a month
@@ -13,7 +13,7 @@ in past lives I...
 - competed at canadian nationals for the board game go
 - lived in the middle of nowhere new mexico with 25 friends
 
-some things I’ve made \
+some things I've made \
   [⧉](https://www.shadertoy.com/view/tlSyzG) fragment shader music video \
   [⧉](https://github.com/LiamHz/Atlas) procedural terrain generator \
   [⧉](https://github.com/LiamHz/Excal) graphics rendering engine \
