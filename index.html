@@ -38,8 +38,6 @@
               window.history.pushState('', `${navPath} - Liam Hinzman`, navPath);
               const mdContent = document.querySelector("div.content md-block")
 
-              // TODO Everything works except reloading blog/ or cooking/ and immediately
-              // after trying to click on a level2 link
               if (!navPath.includes("/")) {
                 navPath = `pages/${navPath}`
               }
