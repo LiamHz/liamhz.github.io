@@ -18,6 +18,10 @@ body > div.container {
     color: #000;
 }
 
+p {
+  margin-top: 0;
+}
+
 h1 + p, h1 + div > p > img, h2 + p {
     margin-top: 0.5em !important;
 }
@@ -31,7 +35,8 @@ h1, h2 {
     height: 100%;
     width: auto;
     display: block;
-    margin: 1rem auto;
+    /*margin: 1rem auto;*/
+    margin: 0;
 }
 
 .recipe-image img {
@@ -146,6 +151,10 @@ ul {
 .content a {
     text-decoration: none;
     color: #007bff;
+    /*
+    background-color: #d0e7f5;
+    color: black;
+    */
 }
 
 nav p {
@@ -161,8 +170,31 @@ nav p {
     display: none !important;
 }
 
+/* image captions */
+img + em,
+img + em + br + em,
+img + em + br + em + br + em,
+video + em
+{
+  font-size: 0.9em;
+}
+
+div.update-grid {
+  display: grid;
+  grid-gap: 0 2em;
+  grid-template-columns: 48% 48%;
+}
+
+div.update-grid img, div.update-grid video {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+/* mobile specific */
 @media only screen and (max-device-width: 768px) {
-  .grid-container {
+  .grid-container, div.update-grid {
       display: inline;
   }
 
@@ -180,4 +212,3 @@ nav p {
     padding: 0.5em;
   }
 }
-
