@@ -1,7 +1,7 @@
 # Butterless Butter Chicken
 <div class="recipe-image">
 
-![](img/cooking/butterless-butter-chicken.jpg)
+![](../img/cooking/butterless-butter-chicken.jpg)
 </div>
 
 A surprisingly easy butter chicken recipe (without butter!) as taught to me by my friend's Pakistani mom.

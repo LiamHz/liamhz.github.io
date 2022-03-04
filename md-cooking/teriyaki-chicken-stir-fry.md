@@ -2,7 +2,7 @@
 
 <div class="recipe-image">
 
-![](img/cooking/teriyaki-chicken-stir-fry.jpg)
+![](../img/cooking/teriyaki-chicken-stir-fry.jpg)
 </div>
 
 Great for meal prep _and_ your taste buds.

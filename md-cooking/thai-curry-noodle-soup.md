@@ -2,7 +2,7 @@
 
 <div class="recipe-image">
 
-![](img/cooking/thai-curry-noodle-soup.jpg)
+![](../img/cooking/thai-curry-noodle-soup.jpg)
 </div>
 
 A healthy version of instant noodles, Thai style.

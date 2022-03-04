@@ -2,7 +2,7 @@
 
 <div class="recipe-image">
 
-![](img/cooking/one-hour-pizza.jpg)
+![](../img/cooking/one-hour-pizza.jpg)
 </div>
 
 _You are what you eat_ \

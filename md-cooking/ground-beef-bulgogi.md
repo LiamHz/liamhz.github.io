@@ -2,7 +2,7 @@
 
 <div class="recipe-image">
 
-![](img/cooking/ground-beef-bulgogi.png)
+![](../img/cooking/ground-beef-bulgogi.png)
 </div>
 
 My family asks me to cook this dish for them all the time.

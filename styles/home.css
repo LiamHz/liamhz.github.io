@@ -65,6 +65,10 @@ h1, h2 {
     height: fit-content;
 }
 
+.cooking.card-navigation > div > p {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
 .cooking.card-navigation div.overlay {
     height: 20%;
 }
@@ -86,7 +90,8 @@ nav img {
 
 .card-navigation p {
     position: absolute;
-    bottom: 0.5em;
+    padding: 0.5em 0;
+    bottom: 0em;
     width: 100%;
     margin: 0;
 
@@ -124,7 +129,7 @@ ul {
 
 .image-gallery img {
     object-fit: cover;
-    width: 90%;
+    width: 100%;
     height: 15rem;
 }
 
