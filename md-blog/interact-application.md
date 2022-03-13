@@ -1,5 +1,3 @@
-_2022-02-14_
-
 _[Interact](http://interact.org/) is a fellowship for people who "think deeply about the role and opportunity of technology in society. Many of my favorite people are part of it._
 
 _Unlike my college application essays, my Interact app felt authentic to me. Hopefully I'll get to join the cool kids club this year._

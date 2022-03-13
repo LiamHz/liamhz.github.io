@@ -1,5 +1,6 @@
 <div class='blog card-navigation'>
 
+- <a class="sf-social-week-03-2022" href="#" onclick="handleLevel2CardClick(this)">Beyond Crypto and YC: Meeting People in SF</a>
 - <a class="2022-02-update" href="#" onclick="handleLevel2CardClick(this)">February 2022 Update</a>
 - <a class="interact-application" href="#" onclick="handleLevel2CardClick(this)">Application for the Interact Fellowship</a>
 - <a class="2022-plans" href="#" onclick="handleLevel2CardClick(this)">My 2022 Reincarnation Plan</a>
