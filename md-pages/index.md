@@ -22,10 +22,10 @@ in past lives I...
 some things I've made
 
 <ul style="list-style: none; margin-inline-start: -1.75em">
-<li>[⧉](https://www.shadertoy.com/view/tlSyzG) fragment shader music video</li>
-<li>[⧉](https://github.com/LiamHz/Atlas) procedural terrain generator</li>
-<li>[⧉](https://github.com/LiamHz/Excal) graphics rendering engine</li>
-<li>[⧉](https://editor.p5js.org/LiamHz/sketches/_HsPhiYXJ) shape rotator</li>
+<li><a href="https://www.shadertoy.com/view/tlSyzG">⧉</a> fragment shader music video</li>
+<li><a href="https://github.com/LiamHz/Atlas">⧉</a> procedural terrain generator</li>
+<li><a href="https://github.com/LiamHz/Excal">⧉</a> graphics rendering engine</li>
+<li><a href="https://editor.p5js.org/LiamHz/sketches/_HsPhiYXJ">⧉</a> shape rotator</li>
 </ul>
 
 </div>
