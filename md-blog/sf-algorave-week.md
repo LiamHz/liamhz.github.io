@@ -1,4 +1,8 @@
-# Beyond Crypto and YC: Meeting People in SF
+---
+title: 'A Week of SF Parties and Algoraves'
+---
+
+# A Week of SF Parties and Algoraves
 
 Every night for the past week I've gone out with friends or to a party. Normally I stay inside and work on art and music; the past few days have been refreshing.
 

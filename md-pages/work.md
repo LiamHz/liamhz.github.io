@@ -1,3 +1,7 @@
+---
+title: Work
+---
+
 **Numerai** - Software Dev \
 _Dec 2020 - Present_
 - King of the <a href="https://twitter.com/numerai/status/1315674670075576320">Numerai Signals</a> data science tournament</li>

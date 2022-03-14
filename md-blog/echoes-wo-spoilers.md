@@ -1,6 +1,8 @@
-# Echoes of Love
+---
+title: Echoes of Love w/o Spoilers
+---
 
-_spoiler-free version_
+# Echoes of Love w/o Spoilers
 
 _2020/12/14_
 

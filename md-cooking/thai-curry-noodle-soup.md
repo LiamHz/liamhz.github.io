@@ -1,3 +1,7 @@
+---
+title: Thai Noodle Soup
+---
+
 # Thai Noodle Soup
 
 <div class="recipe-image">

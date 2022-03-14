@@ -1,3 +1,7 @@
+---
+title: Teriyaki Chicken Stir Fry
+---
+
 # Teriyaki Chicken Stir Fry
 
 <div class="recipe-image">

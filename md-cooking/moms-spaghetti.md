@@ -1,3 +1,7 @@
+---
+title: Mom's Spaghetti
+---
+
 # Mom's Spaghetti
 
 <div class="recipe-image">

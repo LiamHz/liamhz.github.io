@@ -1,3 +1,7 @@
+---
+title: My 2022 Reincarnation Plan
+---
+
 # My 2022 Reincarnation Plan
 
 This year I began my first full-time job at an [AI startup hedge fund](https://twitter.com/LiamHinzman/status/1341064191688364032?s=20), gained a ridiculous amount of programming experience and knowledge, shouldered lots of trust and responsibilities, and delivered value^tm. I put in so much time and effort to make this happen: stressing about progress, late nights hacking away, and waking up on weekends to quash bugs.

@@ -46,7 +46,7 @@ h1, h2 {
     margin: 1em 0;
 }
 
-.cooking.card-navigation > div > img {
+.cooking.card-navigation > div img {
     margin: 0
 }
 
@@ -65,7 +65,7 @@ h1, h2 {
     height: fit-content;
 }
 
-.cooking.card-navigation > div > p {
+.cooking.card-navigation > div p {
     background-color: rgba(0, 0, 0, 0.3);
 }
 

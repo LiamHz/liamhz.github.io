@@ -1,3 +1,7 @@
+---
+title: Why Rendering a Triangle is Complicated
+---
+
 # Why Rendering a Triangle is Complicated
 
 Last week, my dad was asking me why I was proud of this triangle on my laptop.

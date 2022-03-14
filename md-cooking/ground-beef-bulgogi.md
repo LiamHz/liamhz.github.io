@@ -1,3 +1,7 @@
+---
+title: Korean Beef Bowls
+---
+
 # Korean Beef Bowls
 
 <div class="recipe-image">

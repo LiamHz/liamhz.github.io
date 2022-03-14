@@ -1,3 +1,7 @@
+---
+title: Quotes that Shaped Me
+---
+
 # Quotes that Shaped Me
 
 > When you're screwing up and nobody says anything to you anymore, that means they've given up on you. - Randy Pausch, The Last Lecture

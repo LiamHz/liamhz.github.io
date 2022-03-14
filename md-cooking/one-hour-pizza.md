@@ -1,3 +1,7 @@
+---
+title: One Hour Pizza
+---
+
 # One Hour Pizza
 
 <div class="recipe-image">

@@ -1,13 +1,17 @@
+---
+title: Blog
+---
+
 <div class='blog card-navigation'>
 
-- <a class="sf-social-week-03-2022" href="#" onclick="handleLevel2CardClick(this)">Beyond Crypto and YC: Meeting People in SF</a>
-- <a class="2022-02-update" href="#" onclick="handleLevel2CardClick(this)">February 2022 Update</a>
-- <a class="interact-application" href="#" onclick="handleLevel2CardClick(this)">Application for the Interact Fellowship</a>
-- <a class="2022-plans" href="#" onclick="handleLevel2CardClick(this)">My 2022 Reincarnation Plan</a>
-- <a class="2021-recap" href="#" onclick="handleLevel2CardClick(this)">YouTube rewind 2021 except it's about me and there's no videos</a>
-- <a class="quotes" href="#" onclick="handleLevel2CardClick(this)">Quotes that Shaped Me</a>
-- <a class="echoes" href="#" onclick="handleLevel2CardClick(this)">Echoes of Love</a>
-- <a class="community" href="#" onclick="handleLevel2CardClick(this)">Building and Maintaining Communities</a>
-- <a class="vulkan-fundamentals" href="#" onclick="handleLevel2CardClick(this)">Why Rendering a Triangle is Complicated</a>
+- <a href="/blog/sf-algorave-week.html">A Week of SF Parties and Algoraves</a>
+- <a href="/blog/2022-02-update.html">February 2022 Update</a>
+- <a href="/blog/interact-application.html">Application for the Interact Fellowship</a>
+- <a href="/blog/2022-plans.html">My 2022 Reincarnation Plan</a>
+- <a href="/blog/2021-recap.html">YouTube rewind 2021 except it's about me and there's no videos</a>
+- <a href="/blog/quotes.html">Quotes that Shaped Me</a>
+- <a href="/blog/echoes.html">Echoes of Love</a>
+- <a href="/blog/community.html">Building and Maintaining Communities</a>
+- <a href="/blog/vulkan-fundamentals.html">Why Rendering a Triangle is Complicated</a>
 
 </div>

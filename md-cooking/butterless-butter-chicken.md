@@ -1,3 +1,7 @@
+---
+title: Butterless Butter Chicken
+---
+
 # Butterless Butter Chicken
 <div class="recipe-image">
 
