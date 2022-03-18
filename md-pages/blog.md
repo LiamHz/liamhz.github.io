@@ -5,7 +5,7 @@ title: Blog
 <div class='blog card-navigation'>
 
 - <a href="/blog/sf-algorave-week.html">A Week of SF Parties and Algoraves</a>
-- <a href="/blog/2022-02-update.html">February 2022 Update</a>
+- <a href="/blog/2022-02-update.html">Feb 2022: Raves, Furries, and Dating Apps</a>
 - <a href="/blog/interact-application.html">Application for the Interact Fellowship</a>
 - <a href="/blog/2022-plans.html">My 2022 Reincarnation Plan</a>
 - <a href="/blog/2021-recap.html">YouTube rewind 2021 except it's about me and there's no videos</a>
