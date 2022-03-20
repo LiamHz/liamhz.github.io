@@ -4,6 +4,7 @@ title: Blog
 
 <div class='blog card-navigation'>
 
+- <a href="/blog/housewarmings-and-life-beyond-sf.html">Housewarmings, and life beyond sf</a>
 - <a href="/blog/sf-algorave-week.html">A Week of SF Parties and Algoraves</a>
 - <a href="/blog/2022-02-update.html">Feb 2022: Raves, Furries, and Dating Apps</a>
 - <a href="/blog/interact-application.html">Application for the Interact Fellowship</a>
