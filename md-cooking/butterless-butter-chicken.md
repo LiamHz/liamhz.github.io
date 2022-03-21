@@ -38,5 +38,6 @@ Butter chicken spice mix can be find at almost every Indian grocery and convenie
 It'll look something like this.
 
 <div class="recipe-image">
+
 ![](../img/cooking/butter-chicken-spice-mix.jpg)
 </div>
