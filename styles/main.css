@@ -118,7 +118,7 @@ p + ul {
 }
 
 .about p {
-    white-space: pre;
+    /*white-space: pre;*/
 }
 
 h1 {
