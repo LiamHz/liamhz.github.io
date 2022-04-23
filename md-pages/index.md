@@ -4,9 +4,9 @@ title: Home
 
 <div class="about">
 
-data at numerai \
-making art (blender + pencil) \
+data at numerai
 writing music (piano + guitar)
+making art (algorithmic + blender + trad)
 
 the story so far...
 
