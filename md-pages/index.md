@@ -12,7 +12,7 @@ the story so far...
 
 I played the board game go for years, and competed at canadian nationals
 
-shortly after, alphago crushed the world champion and my future career. I worked at AI labs during high school to cope
+shortly after, alphago crushed the world champion and my career dreams. To cope I worked at AI labs during high school
 
 went to university for a month, lived with 25 strangers in the desert, and then dropped out
 
