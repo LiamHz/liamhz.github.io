@@ -14,7 +14,8 @@ body > div.container {
     display: block;
     grid-gap: 8em;
     grid-template-columns: min-content 65ch;
-    width: 100%;
+    width: 65ch;
+    margin: auto;
     background-color: #ffff;
     color: #000;
 }
@@ -80,9 +81,12 @@ h1, h2 {
     width: fit-content;
     text-align: center;
     z-index: 2;
-    /*margin: 0 0 1em;*/
     margin: 0;
     cursor: pointer;
+}
+
+.cooking.card-navigation > div {
+    margin-bottom: 1em;
 }
 
 .card-navigation > div.nav-left-col {
