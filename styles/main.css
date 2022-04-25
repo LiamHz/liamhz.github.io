@@ -10,12 +10,27 @@ body > div.container {
 }
 
 .grid-container {
-    display: grid;
+    /*display: grid;*/
+    display: block;
     grid-gap: 8em;
     grid-template-columns: min-content 65ch;
     width: 100%;
     background-color: #ffff;
     color: #000;
+}
+
+nav.card-navigation {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: 8.5em 8.5em;
+    width: 100%;
+    background-color: #ffff;
+    color: #000;
+    margin-bottom: 0.5em;
+}
+
+.column-right {
+  max-width: 65ch;
 }
 
 p {
@@ -61,13 +76,25 @@ h1, h2 {
 
 .card-navigation > div, .cooking.card-navigation > div {
     position: relative;
-    background: black;
     height: 4em;
     width: fit-content;
     text-align: center;
     z-index: 2;
-    margin: 0 0 1em;
+    /*margin: 0 0 1em;*/
+    margin: 0;
     cursor: pointer;
+}
+
+.card-navigation > div.nav-left-col {
+  height: 8.5em;
+}
+
+.card-navigation > div.nav-right-col > div {
+  height: 4em;
+}
+
+.card-navigation > div.nav-right-col {
+  height: fit-content;
 }
 
 .cooking.card-navigation > div {
@@ -86,10 +113,14 @@ nav img {
     height: 4em;
 }
 
+nav div.nav-left-col img {
+    height: 8.5em;
+}
+
 .card-navigation div.overlay {
     position: absolute;
     bottom: 0;
-    height: 50%;
+    height: 2em;
     width: 100%;
 
     background: black;
@@ -226,3 +257,19 @@ div.update-grid img, div.update-grid video {
     padding: 0.5em;
   }
 }
+
+.nav-right-col > div.blog {
+  margin-bottom: 0.5em;
+}
+
+.nav-right-col > div {
+  position: relative;
+}
+
+div.content div.about {
+  background-image: url("/img/glitch-totoro.png");
+  background-position: right bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
