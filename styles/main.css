@@ -294,12 +294,24 @@ sub {
   width: 100%;
 }
 
-.ahs-pics {
+.ahs-pics > p {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+  justify-content: center;
 }
 
 .ahs-pics img {
-  width: 30%;
+  width: 33%;
+}
+
+.ahs-update h2 {
+  margin-bottom: 0;
+  font-size: 1.2em;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .ahs-pics img {
+    width: 50%;
+  }
 }

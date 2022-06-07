@@ -21,6 +21,7 @@ dropped out
 joined numerai as a data eng in 2020
 
 nurturing my soul by creating
+- [food](/cooking.html)
 - vr games with friends
 - orchestral music
 - 3d art with blender

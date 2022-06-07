@@ -1,8 +1,8 @@
 ---
-title: Art Home School
+title: "Art Home School: Overview and Syllabus"
 ---
 
-# Art Home School
+# Art Home School: Overview and Syllabus
 "Art home school" is my plan / process / syllabus for learning art at home, in a focused and structured manner, while working a full-time job in a non-art industry.
 
 It's largely based on these two resources
@@ -14,16 +14,7 @@ So far my entire art experience is only ~30 hours of gesture and figure drawing 
 ![](https://pbs.twimg.com/media/FS68SedUAAMBO5F?format=jpg&name=large)
 
 ## The Process
-Unit: 96 hours (e.g Head anatomy 1)
-Term: three units over 8 weeks
-
-I'll be interleaving units I work on throughout the week. The other option is to focus on a single unit for weeks at a time, but I hope that this spaced repetition makes the process more engaging.
-
-Example unit schedule for a week
-- Monday and Wednesday: Figure drawing 1
-- Tuesday and Thursday: Head anatomy 1
-- Friday and Saturday: Perspective 1
-- Sunday: Figure drawing 1 and Head anatomy 1
+Each week I'll work on a different unit. Units are focused on a single topic (e.g Head anatomy 1), and take ~100 hours of practice spread across 3 to 4 weeks.
 
 Time breakdown
 - 4 hours on weekdays, 2 in the morning, 2 at night
