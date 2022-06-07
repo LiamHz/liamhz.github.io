@@ -17,9 +17,9 @@ So far my entire art experience is only ~30 hours of gesture and figure drawing 
 Each week I'll work on a different unit. Units are focused on a single topic (e.g Head anatomy 1), and take ~100 hours of practice spread across 3 to 4 weeks.
 
 Time breakdown
-- 4 hours on weekdays, 2 in the morning, 2 at night
-- 8 hours on weekends, 4 in the morning, 4 in the afternoon
-- 36 hours a week total, 12 hours a week for each unit
+- 3 hours on weekdays
+- 5 hours on weekends
+- 25 hours a week total
 
 I'll be time tracking everything using [Timelines](https://timelines.app/)
 

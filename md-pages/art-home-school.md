@@ -2,7 +2,7 @@
 title: Art Home School
 ---
 
-Learning art at home, ~20 hours a week, while working a full-time job
+Learning art at home, 25 hours a week, while working a full-time job
 
 <div class='blog card-navigation'>
 

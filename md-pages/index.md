@@ -6,7 +6,7 @@ title: Home
 
 data eng at numerai \
 writing music (piano + guitar) \
-making art (algorithmic + blender + trad)
+[learning art at home](/art-home-school.html), 25 hours a week
 
 the story so far...
 
