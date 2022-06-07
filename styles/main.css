@@ -288,3 +288,18 @@ sub {
   position: relative;
   top: 0.4em;
 }
+
+/* art home school */
+.ahs-description {
+  width: 100%;
+}
+
+.ahs-pics {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.ahs-pics img {
+  width: 30%;
+}
