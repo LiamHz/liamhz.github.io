@@ -305,6 +305,10 @@ sub {
   width: 33%;
 }
 
+.ahs-pics img.large {
+  width: 50%;
+}
+
 .ahs-update h2 {
   margin-bottom: 0;
   font-size: 1.2em;

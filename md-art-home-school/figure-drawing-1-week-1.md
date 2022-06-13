@@ -1,10 +1,10 @@
 ---
-title: Art Home School - Week 1, Figure Drawing 1
+title: Art Home School - Figure Drawing 1, Week 1
 ---
 
 <div class="ahs-update">
 
-# Week 1, Figure Drawing 1
+# Figure Drawing 1, Week 1
 Week of May 30 \
 11h 42m of drawing
 
