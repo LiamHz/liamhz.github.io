@@ -38,6 +38,7 @@ No drawing, spent the evening with my gf at a board game cafe
 
 ## Wednesday
 <div class="ahs-description">
+
 3h 15m \
 Watched a few more Proko videos on the Loomis method, then got lost in the flow of time while drawing two dozen heads. It was fun to alternate between deliberate practice of the Loomis method and doodling in hair, eyes, and other features. 
 </div>
@@ -60,6 +61,7 @@ No drawing, went to Covet's live show with my gf. Had to leave a bit early, but 
 
 ## Saturday and Sunday
 <div class="ahs-description">
+
 3h 15m \
 Spent the weekend at my gf's house in the East Bay.
 
