@@ -5,6 +5,13 @@ title: Cooking
 <div class='image-gallery cooking card-navigation'>
 
 <div>
+<a href="/cooking/spicy-cashew-tofu.html">
+  <img src="/img/cooking/spicy-tofu.jpeg">
+  <p>Spicy Cashew Tofu</p>
+</a>
+</div>
+
+<div>
 <a href="/cooking/greek-lemon-chicken-and-potatoes.html">
   <img src="/img/cooking/greek-lemon-chicken.jpeg">
   <p>Greek Lemon Chicken and Potatoes</p>
