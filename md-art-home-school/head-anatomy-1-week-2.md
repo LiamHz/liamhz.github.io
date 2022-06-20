@@ -13,10 +13,10 @@ Week of June 13 \
 > and then the third day you do a drawing \
 > and none of it adds up to anything
 >
-> all you're doing is laying a single brick of a million different houses and expecting that one day it'll magically become a mansion
-> > [struthless](https://youtu.be/M6NsEDwHHiE)
+> all you're doing is laying a single brick of a million different houses and expecting that one day it'll magically become a mansion \
+> \> [struthless](https://youtu.be/M6NsEDwHHiE)
 
-The past year or so I've tried learning how to make music, play guitar, do game dev, skateboard, and render with blender -- but I didn't reach a significant level with proficiency with any of these because I kept switching between all of them.
+The past year I've tried learning how to make music, play guitar, do game dev, skateboard, and render with blender -- but I didn't reach a significant level with proficiency with any of these because I kept switching between all of them.
 
 Drawing is the first thing in a while that I believe I'll stick with and get really good at.
 
