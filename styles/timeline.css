@@ -1,0 +1,115 @@
+body {
+    overscroll-behavior-x: none;
+    overscroll-behavior-y: none;
+}
+
+.timeline-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: max-content;
+    height: calc(100vh - 8em);
+    padding-top: 4em;
+    padding-bottom: 4em;
+    padding-right: 4em;
+}
+
+.timeline-container h1 {
+    font-size: 2em;
+}
+
+.timeline-container h1, h2 {
+    margin-block-start: 0;
+}
+
+.timeline-container .column-left {
+    position: sticky;
+    height: 100%;
+    padding: 4em;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: max-content;
+    row-gap: 0.1em;
+    background-image: linear-gradient(
+        to right,
+        white 90%,
+        rgba(255, 255, 255, 0)
+    );
+}
+
+.timeline-container .month-column {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 0.1em;
+    margin-right: 50px;
+    width: 55ch;
+}
+
+.timeline-container .column-left p {
+    margin-bottom: 0;
+}
+
+.timeline-container .column-left nav {
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.timeline-container a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.timeline-container .month-column img {
+    max-width: 100%;
+}
+
+@media only screen and (max-device-width: 768px) {
+    body {
+        font-size: 1em;
+    }
+    .timeline-container ul {
+        padding: 0;
+        list-style: none;
+        margin-inline-start: 0;
+    }
+    .timeline-container li {
+        display: inline;
+    }
+    .timeline-container .month-column li:after {
+        content: " || "
+    }
+    .timeline-container .month-column li:last-child:after {
+        content: ""
+    }
+    .timeline-container {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        width: auto;
+        height: max-content;
+        padding: 2em;
+        row-gap: 2em;
+    }
+    .timeline-container h1 {
+        font-size: 1.4em;
+    }
+    .timeline-container .column-left {
+        padding: 0;
+        position: relative;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+        width: max-content;
+        row-gap: 0.1em;
+        background-image: none;
+    }
+
+    .timeline-container .month-column {
+        width: 100%;
+    }
+}
