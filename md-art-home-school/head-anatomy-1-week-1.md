@@ -25,9 +25,9 @@ The next big improvement in my figure drawings won't come until I start working 
 
 <div class="ahs-pics">
 
-![1](../img/art-home-school/week-2/mon-1.jpeg)
-![2](../img/art-home-school/week-2/mon-2.jpeg)
-![3](../img/art-home-school/week-2/mon-3.jpeg)
+![1](../img/art-home-school/head-anatomy-1/week-1/mon-1.jpeg)
+![2](../img/art-home-school/head-anatomy-1/week-1/mon-2.jpeg)
+![3](../img/art-home-school/head-anatomy-1/week-1/mon-3.jpeg)
 </div>
 
 ## Tuesday
@@ -44,7 +44,7 @@ Watched a few more Proko videos on the Loomis method, then got lost in the flow 
 </div>
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/week-2/wed-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-1/wed-1.jpeg" /></p>
 </div>
 
 ## Thursday
@@ -74,6 +74,6 @@ Was able to get a fair bit of drawing done in the evenings. I drew the eye and n
 Next week I'll work through the Proko tutorials on lips, ears, and hair -- and then draw a dozen or so heads putting together the Loomis methods with these features in different head orientations.
 </div>
 <div class="ahs-pics">
-<p><img class="large" src="../img/art-home-school/week-2/sun-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-1/sun-1.jpeg" /></p>
 </div>
 </div>

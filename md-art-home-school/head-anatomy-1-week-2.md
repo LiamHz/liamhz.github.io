@@ -31,7 +31,7 @@ Cooked dinner and hung out with friends, but I still manage to squeeze in some t
 </div>
 
 <div class="ahs-pics">
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/mon-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/mon-1.jpeg" /></p>
 </div>
 
 ## Tuesday
@@ -49,7 +49,7 @@ I posted some of my notes on FZD [here](https://gist.github.com/LiamHz/310516f30
 
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/tue-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/tue-1.jpeg" /></p>
 </div>
 
 ## Wednesday
@@ -62,7 +62,7 @@ I like how having a fixed challenge, in this case drawing 100 heads from a list 
 
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/wed-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/wed-1.jpeg" /></p>
 </div>
 
 ## Thursday
@@ -73,7 +73,7 @@ I like how having a fixed challenge, in this case drawing 100 heads from a list 
 
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/thu-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/thu-1.jpeg" /></p>
 </div>
 
 ## Friday
@@ -85,7 +85,7 @@ First time using a blending stick. I love how the two old men look.
 
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/fri-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/fri-1.jpeg" /></p>
 </div>
 
 ## Saturday
@@ -97,7 +97,7 @@ Really happy with the shading of the two on the left
 
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/sat-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/sat-1.jpeg" /></p>
 </div>
 
 ## Sunday
@@ -109,5 +109,5 @@ Got stuck at a party that I didn't want to be at, so it was nice to be able to d
 
 <div class="ahs-pics">
 
-<p><img class="large" src="../img/art-home-school/head-anatomy-1-week-2/sun-1.jpeg" /></p>
+<p><img class="large" src="../img/art-home-school/head-anatomy-1/week-2/sun-1.jpeg" /></p>
 </div>
