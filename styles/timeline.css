@@ -115,11 +115,6 @@ a {
         scroll-snap-align: start;
         scroll-margin-left: 1em;
     }
-    /*
-    div.timeline-container:nth-child(2) h1:after {
-        content: " (swipe left!)"
-    }
-    */
     h1 {
         font-size: 1.4em;
     }
@@ -136,6 +131,7 @@ a {
 
     .timeline-container .month-column {
         width: 100%;
+        align-items: flex-start;
     }
 
     .mobile-only {
