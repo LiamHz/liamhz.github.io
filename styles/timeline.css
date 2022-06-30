@@ -8,10 +8,7 @@ body {
     align-items: center;
     flex-direction: row;
     width: max-content;
-    height: calc(100vh - 8em);
-    padding-top: 4em;
-    padding-bottom: 4em;
-    padding-right: 4em;
+    height: 100vh;
 }
 
 .timeline-container h1 {
@@ -25,7 +22,7 @@ body {
 .timeline-container .column-left {
     position: sticky;
     height: 100%;
-    padding: 4em;
+    padding: 0 4em;
     left: 0;
     display: flex;
     justify-content: center;
@@ -40,8 +37,8 @@ body {
 }
 
 .timeline-container .month-column {
+    margin: auto;
     display: flex;
-    justify-content: center;
     flex-direction: column;
     row-gap: 0.1em;
     margin-right: 50px;
