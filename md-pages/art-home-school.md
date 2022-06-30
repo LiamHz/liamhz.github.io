@@ -6,6 +6,7 @@ Learning art at home, 25 hours a week, while working a full-time job
 
 <div class='blog card-navigation'>
 
+- <a href="/art-home-school/head-anatomy-1-week-3.html">Head Anatomy 1, Week 3</a>
 - <a href="/art-home-school/head-anatomy-1-week-2.html">Head Anatomy 1, Week 2</a>
 - <a href="/art-home-school/head-anatomy-1-week-1.html">Head Anatomy 1, Week 1</a>
 - <a href="/art-home-school/figure-drawing-1-week-1.html">Figure Drawing 1, Week 1</a>
