@@ -1,25 +1,38 @@
 body {
+    background-color: white;
     overscroll-behavior-x: none;
     overscroll-behavior-y: none;
+}
+
+.mobile-only {
+    display: none !important;
 }
 
 .timeline-container {
     display: flex;
     align-items: center;
     flex-direction: row;
-    width: max-content;
+    width: 100vw;
     height: 100vh;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
 }
 
-.timeline-container h1 {
+.timeline-container > div {
+    flex-shrink: 0;
+    scroll-snap-align: start;
+    scroll-margin-left: 60ch;
+}
+
+h1 {
     font-size: 2em;
 }
 
-.timeline-container h1, h2 {
+h1, h2 {
     margin-block-start: 0;
 }
 
-.timeline-container .column-left {
+.column-left {
     position: sticky;
     height: 100%;
     padding: 0 4em;
@@ -45,18 +58,18 @@ body {
     width: 55ch;
 }
 
-.timeline-container .column-left p {
+.column-left p {
     margin-bottom: 0;
 }
 
-.timeline-container .column-left nav {
+.column-left nav {
     margin-bottom: 0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
-.timeline-container a {
+a {
     text-decoration: none;
     color: #007bff;
 }
@@ -83,19 +96,34 @@ body {
     .timeline-container .month-column li:last-child:after {
         content: ""
     }
+    .column-left.mobile-only {
+        padding: 1em;
+        padding-bottom: 0;
+    }
     .timeline-container {
         display: flex;
         align-items: flex-start;
-        flex-direction: column;
-        width: auto;
+        flex-direction: row;
+        width: calc(100vw - 2em);
         height: max-content;
         padding: 1em;
         row-gap: 2em;
+        scroll-margin-left: 0;
     }
-    .timeline-container h1 {
+    .timeline-container > div {
+        flex-shrink: 0;
+        scroll-snap-align: start;
+        scroll-margin-left: 1em;
+    }
+    /*
+    div.timeline-container:nth-child(2) h1:after {
+        content: " (swipe left!)"
+    }
+    */
+    h1 {
         font-size: 1.4em;
     }
-    .timeline-container .column-left {
+    .column-left {
         padding: 0;
         position: relative;
         display: flex;
@@ -109,4 +137,13 @@ body {
     .timeline-container .month-column {
         width: 100%;
     }
+
+    .mobile-only {
+        display: block !important;
+    }
+
+    .desktop-only {
+        display: none !important;
+    }
 }
+
