@@ -92,7 +92,7 @@ body {
         flex-direction: column;
         width: auto;
         height: max-content;
-        padding: 2em;
+        padding: 1em;
         row-gap: 2em;
     }
     .timeline-container h1 {
