@@ -62,7 +62,7 @@ h1, h2 {
     margin-bottom: 0;
 }
 
-.column-left nav {
+nav {
     margin-bottom: 0;
     display: flex;
     flex-direction: row;
@@ -76,6 +76,39 @@ a {
 
 .timeline-container .month-column img {
     max-width: 100%;
+}
+
+.logs-container {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+
+.logs-container .header {
+  width: 35ch;
+}
+
+.logs-container h1 {
+  font-size: 1.4em;
+}
+
+.logs-container h2 {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.logs-container p, li, nav {
+  font-size: 0.9em;
+}
+
+.logs-row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logs-row-container .column {
+  width: 35ch;
 }
 
 @media only screen and (max-device-width: 768px) {
