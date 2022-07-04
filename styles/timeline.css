@@ -115,6 +115,7 @@ a {
     body {
         font-size: 1em;
     }
+    /*
     .timeline-container ul {
         padding: 0;
         list-style: none;
@@ -129,6 +130,7 @@ a {
     .timeline-container .month-column li:last-child:after {
         content: ""
     }
+    */
     .column-left.mobile-only {
         padding: 1em;
         padding-bottom: 0;
