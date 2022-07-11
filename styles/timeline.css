@@ -79,13 +79,18 @@ a {
 }
 
 .logs-container {
+  /*
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  */
+  margin: auto;
   padding: 1em;
+  max-width: 60ch;
 }
 
 .logs-container .header {
   width: 35ch;
+  padding-bottom: 1em;
 }
 
 .logs-container h1 {
@@ -95,20 +100,30 @@ a {
 .logs-container h2 {
   font-size: 1.1em;
   font-weight: 600;
+  margin: auto;
 }
 
 .logs-container p, li, nav {
+  /*
   font-size: 0.9em;
+  */
+}
+
+.logs-week-container {
+  margin-bottom: 3em;
+  display: flex;
+  flex-direction: column-reverse;
 }
 
 .logs-row-container {
+  /*
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
+  */
 }
 
-.logs-row-container .column {
-  width: 35ch;
+.logs-container .column {
 }
 
 @media only screen and (max-device-width: 768px) {
