@@ -37,7 +37,7 @@ Drawing ellipses feels meditative.
 ![1](../img/art-home-school/perspective-1/week-1/tue-1.jpeg)
 ![2](../img/art-home-school/perspective-1/week-1/tue-2.jpeg)
 ![3](../img/art-home-school/perspective-1/week-1/tue-3.jpeg)
-![4](../img/art-home-school/perspective-1/week-1/tue-3.jpeg)
+![4](../img/art-home-school/perspective-1/week-1/tue-4.jpeg)
 ![5](../img/art-home-school/perspective-1/week-1/tue-5.jpeg)
 </div>
 
