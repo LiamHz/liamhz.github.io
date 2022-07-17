@@ -14,6 +14,7 @@ This week I drew 130 boxes
 <div class="ahs-description">
 
 2h 5m \
+In January of this year I spent a week doing [Draw a Box](https://drawabox.com/), and stopped just before the 250 boxes challenge. Feels nice to surpass past me.
 </div>
 
 <div class="ahs-pics">
@@ -56,7 +57,6 @@ This week I drew 130 boxes
 
 1h 10m \
 
-Drawing ellipses feels meditative.
 </div>
 
 <div class="ahs-pics">
