@@ -302,13 +302,17 @@ sub {
   justify-content: center;
 }
 
-.ahs-pics img {
-  width: 33%;
+.ahs-pics > p {
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
 
+/*
 .ahs-pics img.large {
-  width: 50%;
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
+*/
 
 .ahs-update h2 {
   margin-bottom: 0;

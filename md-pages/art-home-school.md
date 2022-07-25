@@ -6,6 +6,7 @@ Learning art at home, 15 hours a week
 
 <div class='blog card-navigation'>
 
+- <a href="/art-home-school/perspective-1-week-3.html">Perspective 1, Week 3</a>
 - <a href="/art-home-school/sketching-1-week-1.html">Sketching 1, Week 1</a>
 - <a href="/art-home-school/perspective-1-week-2.html">Perspective 1, Week 2</a>
 - <a href="/art-home-school/perspective-1-week-1.html">Perspective 1, Week 1</a>
