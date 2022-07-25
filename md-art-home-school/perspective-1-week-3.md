@@ -79,4 +79,4 @@ Textures: once more!
 </div>
 
 <img class="large" src="../img/art-home-school/perspective-1/week-3/sun-1.jpg"/>
-<img class="large" src="../img/art-home-school/perspective-1/week-3/sun-2.jpg"/>
+<img class="x-large" src="../img/art-home-school/perspective-1/week-3/sun-2.jpg"/>

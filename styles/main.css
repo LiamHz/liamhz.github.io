@@ -308,6 +308,13 @@ sub {
   margin: auto
 }
 
+img.x-large {
+  object-fit: contain;
+  max-height: 24em;
+  height: 24em;
+  margin: auto
+}
+
 .ahs-update h2 {
   margin-bottom: 0;
   font-size: 1.2em;
