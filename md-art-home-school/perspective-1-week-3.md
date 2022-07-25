@@ -5,7 +5,7 @@ title: Art Home School - Perspective 1, Week 3
 <div class="ahs-update">
 
 # Perspective 1, Week 3
-Week of July 4 \
+Week of July 18 \
 8h 5m of drawing
 
 After last week's diversion to get comfortable with drawing on the iPad, I'm back to working through [Draw a Box](https://drawabox.com/)
