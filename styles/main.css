@@ -302,19 +302,24 @@ sub {
   justify-content: center;
 }
 
+.ahs-pics img {
+  object-fit: contain;
+  max-height: 16em;
+  margin: auto
+}
+
+.ahs-update h2 {
+  margin-bottom: 0;
+  font-size: 1.2em;
+}
+
 .ahs-pics > p {
   display: grid;
   grid-template-columns: 50% 50%;
 }
 
-/*
-.ahs-pics img.large {
-  display: grid;
-  grid-template-columns: 50% 50%;
-}
-*/
-
-.ahs-update h2 {
-  margin-bottom: 0;
-  font-size: 1.2em;
+@media only screen and (max-device-width: 768px) {
+  .ahs-pics > p {
+    display: block;
+  }
 }

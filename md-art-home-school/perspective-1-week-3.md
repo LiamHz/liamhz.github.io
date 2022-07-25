@@ -14,7 +14,7 @@ After last week's diversion to get comfortable with drawing on the iPad, I'm bac
 <div class="ahs-description">
 
 1h 10m \
-The reference I drew from today was actually one I drew 3 weeks ago. In the pencil/paper sketch I didn't want to shade the left half b/c I was worried I'd mess up the sketch. Comparing the two is a nice example how I'm more willing to attempt shading more boldly on the iPad since erasing is so much easier digitally
+The reference I drew from today was actually one I drew 3 weeks ago. In the pencil/paper sketch I didn't want to shade the left half b/c I was worried I'd mess up the sketch. Comparing the two is a nice example of how I'm more willing to shade more boldly on the iPad since erasing is so much easier digitally
 </div>
 
 <div class="ahs-pics">
