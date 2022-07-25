@@ -1,10 +1,10 @@
 ---
-title: Art Home School - Perspective 1, Week 2
+title: Art Home School - Perspective 1, Week 3
 ---
 
 <div class="ahs-update">
 
-# Perspective 1, Week 2
+# Perspective 1, Week 3
 Week of July 4 \
 8h 5m of drawing
 
