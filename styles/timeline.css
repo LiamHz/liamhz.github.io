@@ -103,12 +103,12 @@ a {
   margin: auto;
 }
 
+/*
 .logs-container p, li, nav {
-  /*
   font-size: 0.9em;
-  */
 }
 
+/*
 .logs-week-container {
   margin-bottom: 3em;
   display: flex;
@@ -116,15 +116,11 @@ a {
 }
 
 .logs-row-container {
-  /*
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  */
 }
-
-.logs-container .column {
-}
+*/
 
 @media only screen and (max-device-width: 768px) {
     body {
