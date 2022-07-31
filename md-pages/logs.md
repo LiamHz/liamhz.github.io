@@ -96,10 +96,6 @@ But shared time is rare, life is short, and I've been putting in a lot of effort
 All that being said, I'm grateful for the past 9 months together and all the ways I've grown because of that. Those months matters more to me than the past week or two. Life gets busy, close friends make mistakes, and yet I will happily choose to love them regardless over and over again.
 
 ## Saturday, July 23
-I finally told MP that I'll be leaving Numerai in October. After a short pause, his first response was "I'm happy for you" -- there was a bit of silence after since we didn't know what else to say, but after a minute or two we started making jokes about it while lifting at the gym.
-
-He mentioned that he'd feel a bit bad if I was leaving to join another tech company or hedge fund, but seems quite happy for me that I'm going on sabbatical to explore art and other things.
-
 Went to Marufuku ramen and then watched Nope with JW, MP, and BB
 
 ## Friday, July 22
