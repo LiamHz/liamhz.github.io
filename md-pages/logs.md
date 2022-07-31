@@ -5,6 +5,65 @@ title: Logs
 <div class="logs-container">
 
 # July, Week 3
+
+## Saturday, July 30
+Drew in the morning, went climbing with JW and AA, then drew some more.
+
+I’m feeling a lot better than I have the past few days. Hoping that I’m out of the post-death funk.
+
+## Friday, July 29
+After I told CTO yesterday that I'd be leaving, he said that I was one of the smartest people he's worked with, and appreciated my outlook on life over the past two years. This was really nice, but I wasn't sure how much of it was hollow flattery. Today he asked me to let him invest $30k whenever I start a company. It's nice to have others believe in me.
+
+My ex posted a life update on Substack, and wrote a few blurbs about how our relationship didn't work out, and how she thinks it's due to previous emotional trauma that she's been trying to work out since then. I messaged her to see if she wanted to call and catch up on life since we parted ways, and sent a similar message to the girl I went to a few concerts with the month before meeting my ex. Feels like I'm slowly saying goodbye to SF and the people who defined it for me.
+
+The past few days I've been unmotivated to do much in the evenings, I'm accepting this as a temporary lull. Dog's owner sent out an obituary email, and thanked me and Angela for helping. Cried a bit, then drew for the first time since the potluck.
+
+## Thursday, July 28
+Still don't feel great, but a bit better than yesterday.
+
+Told RC and CTO that I'd be leaving Numerai in October. They were both sad, but overall took it really well. RC appreciated me giving him such a large heads up, and we did a bit of an exit interview. RC also asked some good questions about if I thought I'd become complacent as a middling artist and not end up with much a legacy — in the long-term, I don't think so.
+
+I'm happy focusing on improving my skill at art for the next year or so, but I know the itch to make a name for myself will come back sooner or later. This is also why I'm not too concerned about making money, I know that I'll end up working at some point, and whatever it is I do I'll do it very very well.
+
+Finished reading Tigana
+
+## Wednesday, July 27
+Sometimes when I'm on public transit my brain will zone out, and I won't be present.
+
+I wasn't present at any point today.
+
+I feel so hollow and disconnected. Every time I became aware of my surroundings again I'd think of the dog, slowly dying in my arms, and I'd flinch away from that thought and immediately go back to zoning out.
+
+After failing to get work done for a few hours, I wrote a letter and skateboarded down to drop it off with flowers. When I saw the owner, I just started crying. I couldn't find any words to say, so we just hugged for a bit.
+
+Went to the gym, and right after I got back Kipply asked if I wanted to play DDR with her at Ghirardelli. It was a nice distraction.
+
+## Tuesday, July 26
+Took the day off from work and drew at the Cohere office, and later on WeWork with JW, JP, and SA
+
+Went to a potluck at TR's, arrived early to cook spicy cashew tofu and caught up with him about
+- Me leaving tech to do art
+- His feelings on how the engineer mindset is to mindlessly execute, with minimal creative self expression — and how the nature of game dev / film studios necessitates the opposite
+- Synthesis school grievances, seems like he'll also go on sabbatical soon
+
+Ended up making a new friend, Angela Fan, talked about our experiences in…
+- finance and how it made us realize we don't care much for money
+- software dev (me) and product design (her), and how we grew to feel that this isn't what we wanted our legacy to be
+
+Also asked her if any of her artist friends managed to make ends meet while doing what they love. Her artist sphere is more experimental than commercial (few concept / studio artists). Most of them are struggling financially, but a few have landed residences or built a lucrative following.
+
+One thing that stuck with me is that the good life for an artist is just being able to do their job while being financially stable. This is in stark contrast to engineers where having a job is assumed. Making art leads to a more frugal life, but I think also indicates that it's more rewarding.
+
+At the dinner party, me and the dog would run down the stairs every time the doorbell rang to let in people. After a few hours, most people had gone upstairs to talk, while me, Angela, and two other stayed downstairs.
+
+I was petting the dog, and became a bit concerned since it seemed so lethargic. Angela started petting the dog and also was wondering if it had a stomach ache. After a few more minutes I decided to get the owner. He called the vet, while the dog's breathing got weaker and weaker.
+
+I kept petting and petting, while breathing with the dog because I was terrified that he'd stop at any moment. Eventually the dog pooped itself while still on the ground, and shortly after we carried it downstairs. When we got him into the car, his breathing was very weak, and shortly after he started gasping and spasming.
+
+The owner drove his dog to the vet, and the rest of us stayed behind to clean up for a bit.
+
+Angela drove me home, and while en route I got a call that the dog died.
+
 ## Monday, July 25
 RC reemerged after a week of no-contact to announce that he's moved to NYC. Feel bad that both me and him have left MP -- I hope he does alright.
 
@@ -75,7 +134,7 @@ Went to a TKS dinner party. To a former TKS director: "I'm leaving tech for a bi
 
 I want to become the Hayao Miyazaki of video games. A medium and genre defining prolific creator.
 
-This is what I want my art practice to eventually lead to, but I’m in no rush to get there. 
+This is what I want my art practice to eventually lead to, but I'm in no rush to get there. 
 
 The plan is to still study art, but I definitely want to play some games published by Annapurna Interactive (the A24 of video games), experimental interactive fiction with unique art styles and mechanics, and participate in a game jam every other month or so
 
@@ -170,7 +229,7 @@ In Vegas for RC's birthday party
 
 There was a dozen times tonight where in the middle of talking to someone they'd do a line of coke.
 
-I’m on the peak of a mountain that I do not want to be on
+I'm on the peak of a mountain that I do not want to be on
 
 I do not want to be around these people, talk about money, or do drugs
 
