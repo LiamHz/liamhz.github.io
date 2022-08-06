@@ -4,7 +4,73 @@ title: Logs
 
 <div class="logs-container">
 
+# August Week 1
+## Friday, August 6
+Ever since living in New Mexico, whenever I leave a place I called home, I listen to [The Making of a Paracosm by Kasbo](https://open.spotify.com/album/4yrjPmonSHiJIHum5TrqEe?si=bevvX9QBTNyiidC9tCqMxw) on the plane. The euphoric synths and vocals in the first 4 songs of the album capture the melancholy I feel when closing a chapter of life.
+
+While on the plane I found my mind drifting to my exes: BG and NZ. They were defining parts of the person I was the past two years in SF while working at Numerai. Defining parts of this life I'm leaving behind.
+
+Landed in NYC at midnight.
+
+## Thursday, August 5
+Said goodbye to all my coworkers who come to the office in-person, and to our massage therapist.
+
+Got dinner with MP, Jonathan, and Ben (coworkers) at Burma Superstar, then went to a bar and talked for a few hours. I got kicked out of the bar for being under aged, so I ended up leaning against the railing while the lads drank at a table on the patio. At one point I grabbed my glass of water to drink, the bartender saw and ran out to tell me to stop, and I chugged the glass while staring him in the eyes.
+
+## Wednesday, August 4
+Finished packing and completely emptied out my apartment
+
+Watched Ghost in the Shell (1995) at the Cohere office with JW
+
+I love how it was a slow film that threw you into the middle of everything
+
+Largely vibe driven, with a plot that you have to slowly piece together
+
+The three interlude scenes, where there was no dialogue and only music with shots of the city felt magical
+
+![](img/gits-bedroom.jpg)
+
+## Tuesday, August 3
+Completed a significant refactor of the Numerai tournament website that I started yesterday -- all the engineers were surprised and happy with it when I presented the changes
+
+Played League of Legends at f.inc with JW, AA, JP, and SA for a few hours.
+
+Slept over at the Cohere office
+
+## Monday, August 2
+Posted this on Twitter
+
+![](../img/texture-sausage-tweet.png)
+
+Jay responded with this
+
+![](../img/jay-anime-training-tweet.png)
+
+Leaving everything behind to live a different life is exciting, I'm optimistic about this next arc of my anime.
+
+Drew intersecting boxes for the first time. There was a solid 20 minutes where I couldn't figure out how to do it properly (the tutorial wasn't very helpful) and almost called it a night, so when it clicked it felt euphoric.
+
+![](../img/intersecting-boxes.jpeg)
+
 # July, Week 3
+## Sunday, July 31
+Went on a 2 hour walk with a girl that I hung out with for a month, then stopped talking to back in May. We caught up on life, her recent trauma, my sabbatical plans, and sketched out plans to backpack Europe or Thailand if I'm up for it next January or July.
+
+At the end we played DDR for an hour.
+
+It was really nice to catch up, and have some closure with the last person I wanted to say goodbye to in SF.
+
+Got a response from BG, my first ex, on the email I sent her a few days ago -- it's our second email exchange since breaking up (the first being on her birthday last month) and haven't talked outside of these letters. I've realized that I'd like her to be part of my life, even if it's just as friends so I'll keep sending her letters every 2 to 4 weeks.
+
+Sold my mattress.
+
+Went to f.inc and played League of Legends with JW and AA for a few hours. It was my 3rd time playing and was so much fun. But it also reminded of my fear of being a CS student at Waterloo addicted to gaming.
+
+I'm happy to play in person with friends whenever the opportunity arises, and I'll just resist the urge to watch videos and git good.
+
+At midnight, while the moon was obscured by clouds, JW and AA helped me hack apart my sleeper sofa and illegally dump it outside.
+
+Slept over at the Numerai office
 
 ## Saturday, July 30
 Drew in the morning, went climbing with JW and AA, then drew some more.
