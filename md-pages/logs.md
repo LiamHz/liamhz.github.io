@@ -4,7 +4,130 @@ title: Logs
 
 <div class="logs-container">
 
+# August Week 2
+## Sunday, August 14
+Had to do Numerai work for 5 hours to wrap up things before starting my two weeks of vacation, since I didn't work much on Thursday and Friday because of Interact's symposium
+
+Went bouldering with JW, then headed to Interact's after-after party
+- Unfortunately most of my friends had already left NYC
+- Ate shake shack under the brooklyn bridge
+- Played ping pong while tipsy with JW
+- Corey lived on this [farm](http://bethelfarm.org/spiritual-bb/) during Covid, and suggested that I do the same for two months during my art sabbatical next year
+
+## Saturday, August 13
+Day 3 of Interact's symposium was filled with people in the residency program presenting their work from the past 2 months
+
+*Mammoths and the Post-Anthropocene with Wendi Yan* \
+Seeing Wendi present on her film (read logs from prev. day for context) was a joy. She showed an 8 minute short film which was fun to be entranced by, despite her saying that none of this footage would end up in the final cut.
+
+*Technological Literacy with Anna-Sofia* \
+One panelist was the former managing editor at TechCrunch. He mentioned that the number of clicks your media gets isn't a good measure of audience, since most of those people don't actually give a shit beyond momentary entertainment. Preaching to the choir isn't that appealing, so audience is the small amount of people you can convince to deeply care.
+
+*The Neighborhood New York City with Priya* \
+A strong case for East Williamsburg, near Lorimer station, being the best neighborhood in NYC was made: it's on the L line, near Vital climbing, and has several coliving houses nearby. Also learned that NYC local governance is surprisingly easy: you only need ~1000 signatures to turn an area into a "slow street", and it's easy to get free materials from city agencies (e.g. planting trees and providing trash bins)
+
+*RFID Tags and New Computing with Omar Rizwan*
+
+*Structuring Digital Information Flows with Saffron Huang* \
+I was only in the person in the audience of two dozen who did the pre-readings of a 15 page research paper and Saffron's substack post on privacy, so I came prepared with questions! Asked her how she thinks we'll ever get to a world where large consumer companies respect privacy, since they have no incentive to adopt privacy preserving technologies.
+
+After a bit of thought she responded that new technology enables new regulations. E.g. for certain risky areas, government can demand audit of algorithms via ZK in a way that preserves IP.
+
+It's also not necessarily the case that privacy is a tradeoff between utility and morals, since privacy tech enables new forms of expression. E.g. being able to discuss online and show credentials such as your research h-index without revealing your identity
+
+Talked with Saffron for a bit afterwards about what she thinks she'll end up doing in privacy. There's a spectrum between building applications, doing research, and advocating for regulatory changes -- she leans towards doing research with organizations like [OpenMined](https://www.openmined.org)
+
+*In the evening...* \
+Got dinner with TB and met Linus Lee for the first time. At one point I asked what Linus has been up to lately, and TB asked "wait, do you not know who he is". I said yeah, but didn't want to be the lame fan person who says "omg I love Oak, how are you so prolific"
+
+Played Chess with Interact people. Said hi to the person next to me, we exchanged names and for a hot second we were perplexed, since we recognized each other, but weren't sure from where. Eventually I mentioned that I was going on art sabbatical, she exclaimed that she was too, then we realized I had DMd her about her thread on sabbaticals a month ago
+
+Talked with Weiwei for two hours about sabbaticals, being lost while exploring life, and her work at Dynamic Land & current startup
+
+*Parting thought* \
+On the way to the symposium in the morning I had the realization that nearly every conversation I have goes incredibly well, yet I still have a fear of talking to new people. I'm happy with how I pushed myself to talk to more new people today, but need to keep this in mind for the future as well.
+
+## Friday, August 12
+Day 2 of Interact's symposium was filled with panels \
+I took lots of notes, but will just include the one thing that stuck with me the most from each
+
+*What education could be with Matthew Jordan* \
+Education as a means (to get a job) vs as an end (for the love of the craft). People who end up defining new paradigms are the latter, and this usually includes them learning the history of their craft, so they can build upon it.
+
+*State of venture capital with Kevin Kwok* \
+YC is just business school that's palettable to engineers. \
+The real VC is the friends we made along the way, since everyone went into VC
+
+*Models for co-living with Jason Benn and Devon Zuegel* \
+Jason Benn started the best group house, The Archive, and is now working on [The Neighborhood SF](http://neighborhoodsf.com) which one of my favorite projects in the world. I've followed him for a while, but hearing him speak in person has made me a believer: scenius will form around him.
+
+*Why are we so wimpy with Molly Mielke* \
+One panelist was asked "when was the time you felt most courageous" and they responded that it was when they decided to go back to university in Ireland and enjoy life instead of following their peer group to become a founder in SF and raise millions of dollars.
+
+I spoke to him afterwards, and told him that I felt similar, and was making a similar decision w/r/t leaving AI to pursue art. He said that my blog post on the shallowness of SF parties matched his experience, I said "wtf, how did you find that". Turns out he saw me drawing yesterday, thought that was interesting, and looked up my name / website via the Symposium's group chat. New friend! He's the first person I've met in person who's also read Infinite Jest.
+
+In the evening, walked to shake shack with Marley, Santi, Brunella, and Priya -- the last of whom is following in Jason Benn's footsteps and organinzing The Neighborhood for NYC.
+
+## Thursday, August 11
+Interact is hosting a symposium from today through Saturday, and thanks to AY I got an invite.
+
+Skateboarded through Brooklyn for the first time, and after arriving I drew for two hours.
+
+Attended the circle on "empact", a discussion on how to turn emotions you feel from impactful media into real world action. They showed a short animated film on the grief of parents who live on after their child dies in a school shooting.
+
+The discussion started off pretty dull, so I talked about
+- My recent experience with the death of a dog
+- How I feel silly about only being able to think about my own little problem rather than the larger national issue
+- How you have to choose to not be jaded to be moved by art
+
+After the session ended, I ended up going on a 20 minute walk with one of the two organizers and got to hear about their frustration on their inability to get people to act. In all of the sessions she's run like this, everybody says how much they're affected by the film and how they wish they could do more, but almost nobody clicks on the QR code / links she provides at the end.
+
+The disconnect that many have between pretending to care about topics to appear pro-social and actually caring when on one's own bothers me.
+
+In the evening, went wandering the neighborhood with Brunella (new friend!) for an hour, shared life stories, and then found ourselves in the basement of the Interact residency house where [Wendi Yan](https://wendiyan.com) was presenting early work on her in progress sci-fi documentary.
+
+It was such a unique experience
+- Dark basement, lit by flashlights that dangled from the ceiling
+- Disjointed footage of the arctic and Unreal Engine motion graphics
+- Haunting singing in a foreign language with heavy reverb
+- A table of artifacts, sci-fi world building documents, books that inspired her work, and the work journal she's used the past 3 months
+
+## Wednesday, August 10
+Coworked at Verci with JW and TA, and then sat in on the first live session for [Kenzo's life drawing study group](https://community.lovelifedrawing.com/the-life-drawing-study-group). I really like his way of teaching, and will probably stick with this study group until the end of the year.
+
+In the evening we walked for two hours walking through Washington square park, Noho, and Soho for two hours. Eventually made our way down to the arcade at Chinatown Fair and played DDR for a bit.
+
+When visiting new cities some people like sampling restaurants, and others tour museums. Mine will be dancing at arcades.
+
+Went to a Jazz bar and caught up with TB -- my drawing progress and his experience with synthesis school.
+
+## Tuesday, August 9
+Worked from home. Went to a cafe's chess club, and met up with the PUA person I met on the same night as AY. His dating startup failed, and he's now a dating coach for middle aged men, going out with them to bars and making $150/hour. A fun reminder of how different the lives of I've interacted with can be.
+
+Played chess for a few hours with Bushwick hipsters, then went to a PC cafe.
+
+## Monday, August 8
+Went to the NYC main library's Rose room to work, and as soon as I walked in I had flashbacks to the last fall when I was here and all the fun I had with AY and JJ.
+
+Wandered up 5th avenue with JW, and bought some shorts at Uniqlo because I was unprepared for the East coast heat wave.
+
+Cooked spaghetti for the house while TA played Smash. Every now and then I'd glance over to see how he was doing, and for the first time viscerally understood the "are ya winning son" meme 
+
 # August Week 1
+## Sunday, August 7
+Walked through Bushwick for the first time with TA while doing laundry and buying groceries. I really really like it here, so much more than SF. Streets are busy and grungy in that perfect way in which they feel lived in by people from all types of backgrounds.
+
+Had the song [I Think I'm Gonna like it Here](https://youtu.be/xsQHuiLTgp4), from the 2014 version of Annie, playing in the back of my head while walking the streets despite not having this film for years.
+
+Went bouldering at MetroRock Bushwick with TA and JW. Glad to see that I'm still a V3 climber on the east coast.
+
+## Saturday, August 6
+Caught up on sleep. TA arrived at the Airbnb, then we went downtown for a concert
+
+Seeing Polyphia live was so good. Tim Henson is fun to watch in person, and the songs (and probably metal music in general) get me and the crowd so amped up.
+
+Walking back home at midnight we saw so many hot young people out and at bars. Streets being vibrant at night is something I didn't realize how much I was missing while in SF until now.
+
 ## Friday, August 6
 Ever since living in New Mexico, whenever I leave a place I called home, I listen to [The Making of a Paracosm by Kasbo](https://open.spotify.com/album/4yrjPmonSHiJIHum5TrqEe?si=bevvX9QBTNyiidC9tCqMxw) on the plane. The euphoric synths and vocals in the first 4 songs of the album capture the melancholy I feel when closing a chapter of life.
 
