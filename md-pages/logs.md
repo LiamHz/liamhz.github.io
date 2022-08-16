@@ -92,6 +92,10 @@ It was such a unique experience
 - Haunting singing in a foreign language with heavy reverb
 - A table of artifacts, sci-fi world building documents, books that inspired her work, and the work journal she's used the past 3 months
 
+Some stills from her film
+
+![](../img/logs/wendi-posters.png)
+
 ## Wednesday, August 10
 Coworked at Verci with JW and TA, and then sat in on the first live session for [Kenzo's life drawing study group](https://community.lovelifedrawing.com/the-life-drawing-study-group). I really like his way of teaching, and will probably stick with this study group until the end of the year.
 
