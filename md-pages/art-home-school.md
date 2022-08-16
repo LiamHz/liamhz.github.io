@@ -2,7 +2,9 @@
 title: Art Home School
 ---
 
-Learning art at home, 15 hours a week
+I left my tech job to study art \
+Training to get a job in animation \
+Each week I post everything I've drawn
 
 <div class='blog card-navigation'>
 
