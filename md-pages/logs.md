@@ -40,6 +40,8 @@ Weiwei observed that my desire to do art has similar motivations. Being great at
 
 > Everybody is identical in their secret unspoken belief that way deep down they are different from everyone else - David Foster Wallace
 
+I ended up staying late at Weiwei's because TA and JW had the keys and were at a showing of Hamilton. Her gf came back and was feeling stressed since her lead investor had pulled out, so while Weiwei was on a work call we painted and followed art TikTok tutorials for an hour.
+
 ## Tuesday, August 16
 Had a call with Weiwei, and agreed to work on Roller for a day or two this week
 
