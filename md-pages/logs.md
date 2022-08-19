@@ -4,6 +4,58 @@ title: Logs
 
 <div class="logs-container">
 
+# August Week 3
+## Thursday, August 16
+While cooking lunch for the house this morning, MP called me and told me that "we think you should leave Numerai in the next week -- since you'll be happy to leave early"
+
+I was originally going to leave November 4th, to save up money before starting my sabbatical
+
+For the next 4 hours I was pissed, yet doing everything I could to figure out how I'd manage to pay rent for the rest of the year
+- Put together a spreadsheet to figure out how screwed I was financially
+- Wrote a multi-paragraph note to the CTO and CEO imploring them to let me stay
+- Messaged four friends asking for part-time or 8 week contract projects
+  - Had a call with Weiwei asking if I could work full-time
+  - Set up two meetings for potential employment
+
+Then at 3pm, CEO sent me a note saying that he has no idea what's going on, and that me leaving was entirely MP's idea.
+
+Turns out that MP thought he was doing me a favor by giving me an out to leave early. I don't know why he's so terrible at communicating, but it is what it is -- he called me a second time saying that I'd have to be in-person to stay, and when I said I wouldn't be able to make that work he said he'd talk to the CEO
+
+When I got CEO's note, and realized that it was all miscommunication and silliness from MP, I felt a huge weight of stress lift -- it felt euphoric.
+
+## Wednesday, August 16
+Got lunch with Weiwei and design coworker by the water.
+
+The topic of favorite books came up, and she recommended [Understanding Comics](https://www.goodreads.com/book/show/102920.Understanding_Comics), a book that  explores the history and techniques of comics. Apparently it's been a large influence on she approaches UI and UX design
+
+I recommended [The Art of Learning by Josh Waitzkin](https://www.goodreads.com/book/show/857333.The_Art_of_Learning). Generally I feel that most advice is very domain specific and doesn't generalize well (e.g. Chess masters don't actually know the secrets to success in life and business), but I love this memoir because Waitzkin became the junior world chess champion, he dove into Tai Chi Chuan (combat version of Tai Chi) and after several years won the world championship for this. He tries to piece together the common things that helped him reach mastery in these two areas.
+
+Weiwei observed that my desire to do art has similar motivations. Being great at programming isn't enough, I feel the need to become great at something very different (art) to affirm the belief I'm special
+
+> Everybody is identical in their secret unspoken belief that way deep down they are different from everyone else - David Foster Wallace
+
+## Tuesday, August 16
+Had a call with Weiwei, and agreed to work on Roller for a day or two this week
+
+Went to her apartment to cowork. It was fun to see web apps for early stage startups are set up (a mess of NextJS, Prisma, and React) and quickly grok the code base so I could start building
+
+Went bouldering underneath the brooklyn bridge with TA and JW, and then walked across the bridge together
+
+## Monday, August 15
+Day 1 of vacation!
+
+I haven't taken time off in a year, it'll be nice to take a break from work at Numerai for the next two weeks
+
+Life will get in the way, but my goals for the week are to...
+- Draw for 30 hours
+- Learn how to ollie up a curb
+- Go to museums: MET / MOMA / MOMI
+- Go kayaking and [bouldering underneath the brooklyn bridge](https://www.dumbo.thecliffsclimbing.com/)
+
+Went to the MOMA with JW, some favorite pieces below
+
+![](../img/moma-faves-2022.jpg)
+
 # August Week 2
 ## Sunday, August 14
 Had to do Numerai work for 5 hours to wrap up things before starting my two weeks of vacation, since I didn't work much on Thursday and Friday because of Interact's symposium
