@@ -23,6 +23,12 @@ Turns out that MP thought he was doing me a favor by giving me an out to leave e
 
 When I got CEO's note, and realized that it was all miscommunication and silliness from MP, I felt a huge weight of stress lift -- it felt euphoric.
 
+I feel a bit silly, but overall I think I handled this entire situation really well
+- I resisted the urge to send angry messages bemoaning how after everything I've done I’m being let go like this
+- I wrote a kind and thorough message explaining my point of view.
+- I was reminded of all the friends I have who'd be happy to help and work with me
+- I acted fast, instead of wallowing and letting the world happen to me
+
 ## Wednesday, August 16
 Got lunch with Weiwei and design coworker by the water.
 
