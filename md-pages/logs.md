@@ -10,6 +10,8 @@ My ex [roasted me on Substack](https://nancyzuo.substack.com/p/an-anti-love-poem
 
 I love the [new Valorant music video](https://youtu.be/DqgK4llE1cw), especially from 2:26 onwards where they animate a figure sprinting and every few frames the character & clothes change, while the gesture remains fluid throughout.
 
+[Ars Longa, Vita Brevis](https://youtu.be/bFWaRqkL84s) is my other favorite Valorant video
+
 I got good at drawing 2-minute gestures again
 
 <div class="ahs-pics">
