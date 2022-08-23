@@ -4,8 +4,39 @@ title: Logs
 
 <div class="logs-container">
 
+# August Week 4
+## Monday, August 22
+My ex [roasted me on Substack](https://nancyzuo.substack.com/p/an-anti-love-poem)
+
+I love the [new Valorant music video](https://youtu.be/DqgK4llE1cw), especially from 2:26 onwards where they animate a figure sprinting and every few frames the character & clothes change, while the gesture remains fluid throughout.
+
+I got good at drawing 2-minute gestures again
+
+<div class="ahs-pics">
+
+![](../img/art-home-school/figure-drawing-2/week-3/mon-2.jpeg)
+![](../img/art-home-school/figure-drawing-2/week-3/mon-3.jpeg)
+</div>
+
 # August Week 3
-## Thursday, August 16
+## Sunday, August 21
+Led a rock climbing expedition under the Brooklyn bridge with a dozen hack lodge housemates
+
+Designed and implemented design in p5 of Runic Records - my Midi music visualizer hackathon project for the week
+
+## Saturday, August 20
+Moved out of LES AirBnB and into hack lodge
+
+## Friday, August 19
+Moved out of my Bushwick AirBnB and into a sketchy room in the lower east side for the night.
+
+Went on a 2-hour walk with some friends I reached out to for part-time work yesterday. They pitched me on building AI tools for their VC fund -- I don't have much interest in doing this, but felt obligated to hear them out after they were gracious enough to answer my call for help.
+
+Went to a library and read Red Winter in one sitting, a graphic novel about an adulterous romance that develops in the middle of winter of communist Sweden in the 70s
+
+![](../img/red-winter-page.jpeg)
+
+## Thursday, August 18
 While cooking lunch for the house this morning, MP called me and told me that "we think you should leave Numerai in the next week -- since you'll be happy to leave early"
 
 I was originally going to leave November 4th, to save up money before starting my sabbatical
@@ -29,7 +60,7 @@ I feel a bit silly, but overall I think I handled this entire situation really w
 - I was reminded of all the friends I have who'd be happy to help and work with me
 - I acted fast, instead of wallowing and letting the world happen to me
 
-## Wednesday, August 16
+## Wednesday, August 17
 Got lunch with Weiwei and design coworker by the water.
 
 The topic of favorite books came up, and she recommended [Understanding Comics](https://www.goodreads.com/book/show/102920.Understanding_Comics), a book that  explores the history and techniques of comics. Apparently it's been a large influence on she approaches UI and UX design
