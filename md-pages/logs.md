@@ -5,6 +5,59 @@ title: Logs
 <div class="logs-container">
 
 # August Week 4
+## Sunday
+Moved out of Hack Lodge at noon, and stayed at the library until my evening flight back to Toronto.
+
+I read the first half of [Blankets by Craig Thompson](https://www.goodreads.com/book/show/25179.Blankets), a 600 page award winning graphic novel -- it's an autobiographical story of faith, siblings, and first love. I really enjoyed both the art and the honesty of the stories depicted.
+
+## Saturday
+Demo day at Hack Lodge!
+
+I finished the [music video](https://youtu.be/bCVw1h_NJoE) I had been working on all week early in the day, and spent a few hours relaxing.
+
+At demo night AY whispered to me "don't look now, but your ex is here. Don't worry, your demo's really good" -- which I found hilarious
+
+I'm really happy with how my project turned out, and I think people enjoyed it
+
+## Friday
+Worked on music video.
+
+Learned how to draw those animated glowing lines that you see in 10-second dance video clips -- turns out you just have to draw frame by frame
+
+![](../img/astro-in-the-ocean-lines-amv-still.png)
+
+![](../img/doja-lines-amv-still.png)
+
+## Thursday, August 25
+Worked on music video.
+
+Learned how to make Valorant style animated typography in After Effects which is something I've wanted to try for a long time (tl;dr fractal noise + time displacement)
+
+![](../img/too-sexy-amv-still.png)
+
+## Wednesday, August 24
+Worked on music video.
+
+Spent many hours learning After Effects and making rotoscoped scenes from [Thot Shit](https://www.youtube.com/watch?v=KynkMn5Hv3Q) and [Money](https://youtu.be/dNCWe_6HAM8)
+
+![](../img/thot-shit-amv-still.png)
+
+![](../img/money-amv-still.png)
+
+## Tuesday, August 23
+Drew for most of the day, wasn't motivated to work on my project -- it feels like I'm not learning much from building it, and just need time to bang out code to make it come to life, which feels a bit too much like my job.
+
+I'm also not a huge fan of the people and "vibe" of many of the people at Hack Lodge.  It's very much socially underdeveloped nerds who make too many tech jokes, and want to be SaaS founders because it sounds interesting or find most of their self-esteem through being technically competent.
+
+Relevant [tweet](https://twitter.com/jaiyagill/status/1560004132659871745?s=20&t=byb-y-OaCNKbqDRRF2lDXg)
+> I fuck with the cool half of the nerdy people and the nerdy half of the cool people
+
+Was wrestling  with the decision of whether to fly back to Toronto tomorrow and just draw for the rest of my vacation week, or change my project
+
+Tonight was the first demo night for hack lodge, people really enjoyed my demo, and I realized that all I really want to accomplish this week is make a memorable demo that brings a smile to people's faces.
+
+In the evening I decided to ditch coding for the rest of the week, and instead make an animated music video in After Effects for the first two minutes of this [2021 pop music mashup](https://www.youtube.com/watch?v=8jlGJnrh_f0)
+
 ## Monday, August 22
 My ex [roasted me on Substack](https://nancyzuo.substack.com/p/an-anti-love-poem)
 
@@ -19,6 +72,12 @@ I got good at drawing 2-minute gestures again
 ![](../img/art-home-school/figure-drawing-2/week-3/mon-2.jpeg)
 ![](../img/art-home-school/figure-drawing-2/week-3/mon-3.jpeg)
 </div>
+
+Built a MIDI music visualizer in p5js. I've had this idea in my head for a few months now, and unfortunately it's not working as well as it did in my head -- I think largely due to the graphical limitations of p5js
+
+This is the first personal project I've worked on in a while. It's crazy to realize that I've been working full-time at Numerai the past ~2 years without any sort of break
+
+![](../img/runic-record-demo.png)
 
 # August Week 3
 ## Sunday, August 21
