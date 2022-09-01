@@ -4,13 +4,37 @@ title: Logs
 
 <div class="logs-container">
 
+# September Week 1
+## Wednesday, August 31
+After a few days of work I've made a research breakthrough for Numerai that will significantly improve our performance once I productionize it -- tl;dr is I figured out how to integrate our secondary tournament (the one I was in charge of last year) with our trading algorithm. AY said "this is the end credits where it's just one name over and over" which tickled me.
+
+Practiced a [piano arrangement of Everything Goes On](https://www.youtube.com/watch?v=GCgmlVl7va4) and finally nailed down all the tricky parts. It's been a while since I've properly learned a song that I really like on the piano. Feels good
+
+This week my dad's had to leave early and stay late for work. Whenever he gets home he just eats dinner with the family, watches sports on TV for an hour then goes to sleep. Tonight I took him rock climbing and weight lifting with me -- it was nice
+
+## Tuesday, August 30
+The first half of the [new Valorant esports video](https://youtu.be/W3FV9Cjb2oE) is pure After Effects doodle editing wizardry, similarly to what I made last week but 1000x better. I love how the more I learn, the more I appreciate art.
+
+The first half of the new Valorant esports video is pure After Effects doodle editing wizardry, similarly to what I made last week but a 1000x better. I love how the more I learn, the more I appreciate art.
+
+Finished reading [Blankets by Craig Thompson](https://www.goodreads.com/book/show/25179.Blankets). I realized that the relationship depicted in the book mirrors my past so closely, something that feels perfect but ends for reasons outside of either person's control. I so strongly felt the need for a happy ending, craving a reunion -- and when the book ended with a time jump, showing that this never happened and life just went on, I felt shattered.
+
+Breaking up with Brianna is the most selfless thing I've ever done (I knew she'd be a lot more social and grow more if she wasn't in a relationship), but deep down I know it's also the biggest mistake I've made in my life.
+
+## Monday, August 29
+Went on a walk with a founder. Did 10 minutes of sleuthing before so I could ask fun questions about the pursuit that made him exceptional in high school -- was a nice way to set the tone away from work.
+
+After an hour of talking, and me telling about leaving tech to study art, I could see him reach a tipping point in trust internally, and he opened up to me about how he's thinking of leaving his company to go explore. His thought process mirrored my own.
+
+I wonder if this crisis of meaning is something that most people encounter after ~3 years working (Hack Lodge mentor was going through something similar), or something especially common in tech, or something most people today who grew up with financial safety in the US / Canada feel (e.g. your material needs are satisfied and so you start thinking about self-actualization)
+
 # August Week 4
-## Sunday
+## Sunday, August 28
 Moved out of Hack Lodge at noon, and stayed at the library until my evening flight back to Toronto.
 
 I read the first half of [Blankets by Craig Thompson](https://www.goodreads.com/book/show/25179.Blankets), a 600 page award winning graphic novel -- it's an autobiographical story of faith, siblings, and first love. I really enjoyed both the art and the honesty of the stories depicted.
 
-## Saturday
+## Saturday, August 27
 Demo day at Hack Lodge!
 
 I finished the [music video](https://youtu.be/bCVw1h_NJoE) I had been working on all week early in the day, and spent a few hours relaxing.
@@ -19,7 +43,7 @@ At demo night AY whispered to me "don't look now, but your ex is here. Don't wor
 
 I'm really happy with how my project turned out, and I think people enjoyed it
 
-## Friday
+## Friday, August 26
 Worked on music video.
 
 Learned how to draw those animated glowing lines that you see in 10-second dance video clips -- turns out you just have to draw frame by frame
