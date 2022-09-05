@@ -5,6 +5,42 @@ title: Logs
 <div class="logs-container">
 
 # September Week 1
+plants
+
+![](../img/art-home-school/perspective-2/week-1/mon-1.jpg)
+
+## Sunday
+Practiced guitar, started learning [Adventure Spirit by Yvette Young](https://www.youtube.com/watch?v=zyrOgFfbACA).
+
+Wasted a fair bit of time on YouTube, and eventually decided to download [ColdTurkey](https://getcoldturkey.com/) and block YouTube / Twitter / Reddit during the day
+
+Got Pakistani food with family for dinner
+
+## Saturday
+Met up with AY and JJ to go hiking in High Park, but within 5 minutes JJ tripped and twisted her ankle. We ended up getting ramen and ice cream, and talked a bit about stable diffusion / AI replacing artists.
+
+AY's worried that most artists and filmmakers will be obsolete within the next 5 years, whereas I'm a staunch believer that it'll become a tool used by artists, and people who don't have artistic talent will only be able to create second-rate art with AI.
+
+## Friday
+Hung out with AY and JP downtown. I felt incredibly happy: being with close friends in-person is so rare, and just existing together, not being in a rush to do anything is nice. Wandered around downtown for a bit, then worked and played chess at a library.
+
+## Thursday
+Drew some figures, I've improved so much since May :)
+
+![](../img/art-home-school/figure-drawing-2/week-4/thu-1.jpg)
+
+Went to Odesza's concert with AY and her sister
+
+The visuals were breathtaking: CGI visuals, fireworks, drumlines and live brass. I was reminded that the reason I first got into Blender (which led to drawing months later) was because of visuals at concerts like this one.
+
+![](../img/odesza-tlg.jpeg)
+
+Riot posted their [list of internships](https://twitter.com/LifeAtRiot/status/1565414439695929345?s=20&t=7BNx9cAxoXmWTPymYnKggw) for summer 2023. There's two 2D art roles, concept art and illustration -- getting the concept art internship would be a dream come true.
+
+Applications, which require an art portfolio, close January 6th. From now until I leave my job on November 4th I'll continue self-study as I have -- but after that I want to sprint towards creating an internship portfolio.
+
+Realistically there's no way I'll get accepted. Internships, especially at major studios like Riot, are more competitive than entry level jobs -- but having something to shoot for is a great catalyst.
+
 ## Wednesday, August 31
 After a few days of work I've made a research breakthrough for Numerai that will significantly improve our performance once I productionize it -- tl;dr is I figured out how to integrate our secondary tournament (the one I was in charge of last year) with our trading algorithm. AY said "this is the end credits where it's just one name over and over" which tickled me.
 
