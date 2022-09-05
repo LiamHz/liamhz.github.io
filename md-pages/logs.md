@@ -4,27 +4,30 @@ title: Logs
 
 <div class="logs-container">
 
-# September Week 1
+# September Week 2
+## Monday, September 5
 plants
 
 ![](../img/art-home-school/perspective-2/week-1/mon-1.jpg)
 
-## Sunday
+
+# September Week 1
+## Sunday, September 4
 Practiced guitar, started learning [Adventure Spirit by Yvette Young](https://www.youtube.com/watch?v=zyrOgFfbACA).
 
-Wasted a fair bit of time on YouTube, and eventually decided to download [ColdTurkey](https://getcoldturkey.com/) and block YouTube / Twitter / Reddit during the day
+Wasted a fair bit of time on YouTube. Eventually decided to download [ColdTurkey](https://getcoldturkey.com/) and block YouTube / Twitter / Reddit during the day
 
 Got Pakistani food with family for dinner
 
-## Saturday
+## Saturday, September 3
 Met up with AY and JJ to go hiking in High Park, but within 5 minutes JJ tripped and twisted her ankle. We ended up getting ramen and ice cream, and talked a bit about stable diffusion / AI replacing artists.
 
 AY's worried that most artists and filmmakers will be obsolete within the next 5 years, whereas I'm a staunch believer that it'll become a tool used by artists, and people who don't have artistic talent will only be able to create second-rate art with AI.
 
-## Friday
+## Friday, September 2
 Hung out with AY and JP downtown. I felt incredibly happy: being with close friends in-person is so rare, and just existing together, not being in a rush to do anything is nice. Wandered around downtown for a bit, then worked and played chess at a library.
 
-## Thursday
+## Thursday, September 1
 Drew some figures, I've improved so much since May :)
 
 ![](../img/art-home-school/figure-drawing-2/week-4/thu-1.jpg)
