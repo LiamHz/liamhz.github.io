@@ -4,9 +4,54 @@ title: Logs
 
 <div class="logs-container">
 
+# September Week 3
+## Monday
+Am struggling to figure out how to draw insects using similar construction methods as last week. Insects are like flowers in that they flow through space, but differ in that their component parts take up volume unlike flat leaves.
+
+I remember last week when I sent JW a picture of a leaf I drew. He complimented it, but I remember feeling pretty mid about it, yet still being confident that by the end of the week my flowers would look great.
+
+Insects will be great by the end of the week!
+
 # September Week 2
-## Monday, September 5
-plants
+## Sunday
+Drew at the library while JW's friends were going through course work -- uni study group / laid back social dynamics are fun
+
+Compiled all the flowers I drew this week into a single page.
+
+![](../img/art-home-school/perspective-2/week-1/flowers.jpg)
+
+I'm so happy with the drawings and progress I made this week
+- I got used to using construction methods for drawing flat shapes (leaves) that flow through 3D space
+- Learned how to use clipping masks and non-destructive blending modes in Procreate
+- Figured out a coloring workflow that I like
+
+## Saturday
+JJ came over to do a second coat of bleach on my hair. I'm a big fan of how it turned out
+
+Went to the Waterloo startup event that AY organized. Wasn't feeling the vibe of people there, so I found myself a corner and drew. Had a good time making art and talking to anybody who seemed interested.
+
+## Friday
+What a wonderful day
+- Went rock climbing with JJ and crew
+- Got high speed internet installed at home
+- Cracked a Numerai problem I was stuck on
+- Bleached my hair white with JJ
+
+## Thursday
+Worked, drew, and did some brainstorming on stable diffusion / 
+
+## Wednesday
+For the past ~4 months I've kept it a secret from AY that I was gonna live in Waterloo from September through December, and convinced her that I was gonna be living in NYC. There's been so many close calls the past month where the surprise almost got ruined, but I was able to knock on her door and surprise her tonight
+
+Drew and worked next to a grand piano in one of the student engineering buildings. Good vibes
+
+## Tuesday
+Moved to Waterloo and walked around campus for a bit. It's nice to see so many kids with backpacks walking around
+
+Went rock climbing with JW (my roommate for the third month / city in a row) and grabbed dinner at Osmow's
+
+## Monday
+Drew plants for the first time
 
 ![](../img/art-home-school/perspective-2/week-1/mon-1.jpg)
 
