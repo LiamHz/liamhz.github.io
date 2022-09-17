@@ -5,6 +5,46 @@ title: Logs
 <div class="logs-container">
 
 # September Week 3
+## Thursday
+I’m very close to the most influential people in tech, and feel like I may be making a mistake by walking away
+
+What would I use this influence for?
+
+I don’t think engineering is suited for the type of things I want to accomplish in life
+
+Better production of goods won’t improve life satisfaction for people in North America. Better stories can. The lack of compelling narratives makes people feel less agency / self-narrative / courage
+
+I want to create art, not tools \
+I want to tell stories that move people
+
+What stories have moved me? \
+What do I want to say?
+
+I want to inspire people to live their life to the fullest. Joy / kindness / passion / determination / love / responsibility 
+
+I should do this for myself more, and find art / stories that inspire me to do so
+
+I should live, travel, talk, and read more \
+I should be more playful and spark joy for others more often
+
+I care about helping people solve personal problems and find fulfillment. I want people to have all the deeply meaningful warm fuzzies
+
+I should sprint towards storytelling with art via animation / comics this winter, rather than only doing it once my drawing fundamentals are “ready”
+
+> One thing about drawing is that, if you put in serious effort, you will become good at it. But that’s all the more reason to study a variety of things that interest you while you have time, before you enter the professional world in order to develop such fundamentals as your own viewpoint and way of thinking.
+>
+> If you don’t do this, your life will be treated as just another disposable product... Should you ever relinquish what you truly hold dear, the only path left to you will be that of a pencil-pusher—the type of animator whose sense of self- worth is determined by the numerical amount of his earnings, or who cycles between joy and despair over the high or low ratings his work receives. -- Hayao Miyazaki
+
+##  Wednesday
+
+## Tuesday
+Messaged the art Discord I've been a part of for a few months, and asked for help on how to make my insects feel less flat
+
+I got great feedback, and they even redrew the same reference I used to illustrate their advice. Feel really grateful that an internet stranger put in so much effort to help me
+
+![](../img/art-discord-first-feedback.jpeg)
+
+Watched the first 20 minutes of [Design Cinema 90 by Feng Zhu](https://youtu.be/r5nvzsslajk)
 ## Monday
 Am struggling to figure out how to draw insects using similar construction methods as last week. Insects are like flowers in that they flow through space, but differ in that their component parts take up volume unlike flat leaves.
 
