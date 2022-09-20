@@ -5,7 +5,40 @@ title: Logs
 <div class="logs-container">
 
 # September Week 3
+## Sunday
+AY called me in the morning to tell me that the past two days she's been fighting with her bf. She was given the ultimatum of breaking up with him, or never talking to me again. She chose the latter.
+
+I've never felt more sad in my life than now.
+
+I met AY 368 days ago, and since then she's been such a big part of my life.
+- The only person my age who I admire every aspect of
+- The person I came to with every thought and question that felt important to me
+- The reason why I had the imagination and courage to leave tech to pursue art
+- The thing that pushes me to improve and flourish in life has been her
+
+I hope she lives a great life.
+
+I wish I could be part of it.
+
+## Saturday
+I was wandering around the engineering building, looking for a place where I could draw while enjoying hackathon vibes, when I walked by the girl I spent countless hours with and had a crush on back in grade 11.
+
+We spent the day together catching up, wandering, talking, and climbing.
+
+Was nice to be able to reconnect with somebody who important in my past, while not feeling hung up or confused about anything. Was a good day with an old friend, without the expectation of staying in touch after.
+
+Went rock climbing, and ran into somebody AY introduced me to at last week's startup event. Spent an hour together climbing, lifting, and talking. New friend :)
+
+## Friday
+Day 1 of Hack the North.
+
+Drew for a few hours while people arrived and ate dinner. A few people asked me what I was up to, and while I was gesturing wildly and pointing at my iPad explaining some art stuff, I noticed an event photography start slowly panning around me while filming. I chatted with him a bit, and for the rest of the weekend we'd fist bump whenever we saw each other.
+
+Wandered around Waterloo and talked with AL 1 on 1 for the first time -- was a good time
+
 ## Thursday
+Started watching Cyberpunk Edgerunners, the first TV show I've watched in many months.
+
 I’m very close to the most influential people in tech, and feel like I may be making a mistake by walking away
 
 What would I use this influence for?
