@@ -5,6 +5,13 @@ title: Logs
 <div class="logs-container">
 
 # September Week 4
+## Wednesday
+Finished V0 of Pico last night, started on building Chunky today. We're aiming to demo at a stable diffusion meetup on Saturday evening.
+
+Realized that this AI / SF / Paris adventure is actually 3 weeks long (I'll be in Paris for two weeks). Two weeks, what I previously thought the length of this was, is the max I can maintain hackathon levels of focus while neglecting health, so I need to live a bit more sustainably. I've been cooking every night, stocked up on some snacks today, and am doing my best to draw for two hours every day. Gonna start going to the gym every other day as well.
+
+Still sad, but life goes on.
+
 ## Tuesday
 I love the animation style in [Kiriko's origin story](https://youtu.be/LLsJaMzLltE), the video for Overwatch's new hero. Each sentence is accompanied by an illustrated sketch that's animated by the elements being rapidly drawn in and filled by color, as if a paint brush is creating each frame in a few seconds.
 
