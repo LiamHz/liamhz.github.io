@@ -5,6 +5,13 @@ title: Logs
 <div class="logs-container">
 
 # September Week 4
+## Thursday
+Notes to fill in later
+- Went into Equinox for the first time. Main difference is that there's huge hallways everywhere. Rich people love that shit
+- Called AY for 90 minutes, good closure
+- Finished V0 of Chunky
+- Got lowballed on pay for Pico + Chunky. Sent a counteroffer (2x what TR first offered) backed by spreadsheets and booked my own flights. Feel proud about consistently going into super responsible / do the right thing / high gear mode when the need arises. Other examples: dog dying, applying to 4 jobs within 4 hours of thinking I was fired, and surprising AY in Waterloo
+
 ## Wednesday
 Finished V0 of Pico last night, started on building Chunky today. We're aiming to demo at a stable diffusion meetup on Saturday evening.
 
