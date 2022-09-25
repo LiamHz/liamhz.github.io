@@ -5,6 +5,57 @@ title: Logs
 <div class="logs-container">
 
 # September Week 4
+## Sunday
+This morning I found myself, once again, watching CalArts [student](https://youtu.be/b4_dq_e4KGs) [films](https://youtu.be/XCawr8qHbHE) and dreaming about studying there -- and then being rudely awakened when I'm reminded that it costs $60k USD / year to attend.
+
+All of the top ranking US schools for art are very expensive, but for the first time I looked at international rankings, and was surprised to see that Sheridan (in Ontario) was #2 in the world for animation -- behind only CalArts.
+
+Their [student films](https://youtu.be/TlBy39aHM_o) are amazing, and all of the big animated films in recent years have had [alumni involved](https://www.sheridancollege.ca/newsroom/news-releases/2022/06/sheridan-top-animation-school-in-canada-for-fourth-straight-year) in some capacity (directed Pixar films Turning Red + Bao, won best storyboarding at the 2021 Annie's for Soul etc etc)
+
+Tuition + housing is only $13k USD / year at Sheridan before scholarships, which is less than my planned rent while self-studying art.
+
+Spent an hour looking at application requirements (portfolios due ~February) and put together a plan for the next few months to sprint towards this: largely the same as my previous art study schedule.
+
+It's nice to finely have a near-term game day to act as a guiding star in art. Riot summer internships felt unobtainable, this feels hard but possible.
+
+Portfolios are scored out of 100, the breakdown for each section is
+- 10 Figure Drawing
+- 10 Hand Drawing
+- 15 Character Rotation
+- 15 Short Animation
+- 20 Storyboarding
+- 15 Perspective Line Drawing
+- 15 Personal Work
+ 
+The cutoff for domestic applicants the past two years has been 87
+
+### Sheridan portfolio prep schedule
+October
+- Finish work: Numerai and Pico
+- Perspective 2
+- Figure drawing 2
+- Start attending Waterloo life drawing sessions and draw on paper
+
+November
+- Learn how to draw hands
+- Character design (Blaise)
+- Storyboarding course (Ruddy)
+
+December
+- Practice Hand / figure / gesture drawing
+- Perspective 3
+  - I need to be able to draw objects / rooms / natural environments in perspective)
+  - Fundamentals of animation course (Blaise)
+ - Figure drawing 3
+  - If I need to drop one thing to make time, it should be this. Figure drawing is only 10% of the application's marks, and I'll be decent after figure drawing 2
+    
+January
+- Create a board for each section, containing accepted and rejected pieces with their scores -- and identify what the common mistakes are
+- Create application portfolio
+  - The quality of all drawings before this month doesn't matter. Focus on learning, not quick results
+- Ask Alex Huneycutt for feedback
+- Aim for many attempts and iterations for each section
+
 ## Saturday
 Had to write a bio for the Fey computing festival (conference I'm going to in Paris with TR) -- came up with this
 
