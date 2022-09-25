@@ -5,9 +5,28 @@ title: Logs
 <div class="logs-container">
 
 # September Week 4
+## Saturday
+Had to write a bio for the Fey computing festival (conference I'm going to in Paris with TR) -- came up with this
+
+> I used to build systems for Numerai (AI hedge fund) and make experiments in graphics programming. Now, I'm creating animistic chat bots, and interfaces to explore the latent space of images with Taylor Rogalski. Soon, I'll be going on a yearlong sabbatical to study art, storyboarding, and animation.
+
+Went to Neo Genesis (group house / mansion in South Bay) because there was a stable diffusion hackathon going on. Andrej Karpathy, stable diffusion creator, and other cool people were there -- but I just wasn't vibing with it.
+
+Part of me feels like doing this 3 week AI project sprint was a mistake. Paris / conference / building will be fun, but I also really just want to focus on art and make friends in Waterloo.
+
+Sigh.
+
+## Friday
+Hung out with Shrav. I don't think we'll become close friends, but we became friends back in April when I first started drawing and was very supportive, so she holds a special place in my mind. We coworked at SF commons for a few hours, then grabbed In-n-Out and played DDR.
+
+Towards the end she said "right now I'm feeling happy for the first time in a while" (she's been stressed about work lately) and that made my week.
+
+Listened to Odesza songs at max volume while she drove me back home.
+
 ## Thursday
 Notes to fill in later
 - Went into Equinox for the first time. Main difference is that there's huge hallways everywhere. Rich people love that shit
+- Every founder I live + work with doesn't take care of themselves, and I end up becoming an au pair who cleans and cooks
 - Called AY for 90 minutes, good closure
 - Finished V0 of Chunky
 - Got lowballed on pay for Pico + Chunky. Sent a counteroffer (2x what TR first offered) backed by spreadsheets and booked my own flights. Feel proud about consistently going into super responsible / do the right thing / high gear mode when the need arises. Other examples: dog dying, applying to 4 jobs within 4 hours of thinking I was fired, and surprising AY in Waterloo
