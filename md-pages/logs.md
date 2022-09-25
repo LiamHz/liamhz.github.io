@@ -10,7 +10,7 @@ This morning I found myself, once again, watching CalArts [student](https://yout
 
 All of the top ranking US schools for art are very expensive, but for the first time I looked at international rankings, and was surprised to see that Sheridan (in Ontario) was #2 in the world for animation -- behind only CalArts.
 
-Their [student films](https://youtu.be/TlBy39aHM_o) are amazing, and all of the big animated films in recent years have had [alumni involved](https://www.sheridancollege.ca/newsroom/news-releases/2022/06/sheridan-top-animation-school-in-canada-for-fourth-straight-year) in some capacity (directed Pixar films Turning Red + Bao, won best storyboarding at the 2021 Annie's for Soul etc etc)
+Their [student films](https://youtu.be/TlBy39aHM_o) are amazing, and all of the big animated films in recent years have had [alumni involved](https://www.sheridancollege.ca/newsroom/news-releases/2022/06/sheridan-top-animation-school-in-canada-for-fourth-straight-year) in some capacity (directed Pixar films Turning Red + Bao, wrote + directed How to Train Your Dragon, won best storyboarding at the 2021 Annie's for Soul etc etc)
 
 Tuition + housing is only $13k USD / year at Sheridan before scholarships, which is less than my planned rent while self-studying art.
 
