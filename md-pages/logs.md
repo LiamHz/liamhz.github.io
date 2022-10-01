@@ -4,6 +4,45 @@ title: Logs
 
 <div class="logs-container">
 
+# September Week 5
+## Friday
+Got a second tutor for Sheridan animation (8-person study group, two lectures a week + assignments). It's kinda crazy how much I've improved at art while being entirely intrinsically motivated -- but know that having friends with who inspire me and push me to achieve more is really important.
+
+AY was this.
+
+Just gotta do what I can, to find something just like this (cue Chris Martin).
+
+Spent a few hours doing figure drawing assignments for the study group.
+
+Feeling the beginnings of stir craziness from living on my own and not interacting with any friends this week. I should host a dinner party for friends this weekend.
+
+## Thursday
+Practiced storyboarding on the bus to and from work
+
+## Wednesday
+Presented at Numerai OKRs this morning, RC yelled at me about research details, but MP was very happy with it since my research is one of the most impactful things this year. Good to have someone in your corner.
+
+After the presentation, I realized that I deal with my dad’s and RC’s yelling in the same way, just tuning out emotions and responding from the head only.
+
+Spent the rest of the day doing art stuff
+- Watched the first few lectures in a course on [storyboarding](https://creatureartteacher.com/product/storyboard-course-with-lyndon-ruddy/)
+- Got a Sheridan animation student to tutor me once a week
+- Found a spreadsheet of [Sheridan 2021 portfolios](https://docs.google.com/spreadsheets/d/1-dMMZ6EYUTH8PRYAW4K-wzbaFRLPD94OXvyBKSpFo1E/edit#gid=0) with scores
+- Downloaded a dozen portfolios as PDFs, then wrote a bash script to convert each page into a jpeg file
+- Made a [Figma board](https://drive.google.com/file/d/12EU79i-86F15TP_JeSzqOD1sF4Eyamzm/view?usp=sharing) organizing the portfolio submissions by category and score. I have a much better sense of what I need to learn, where I need to be by February, and common mistakes people make
+
+Seeing all of the student portfolios honestly has me feeling a bit overwhelmed. There's so much I need to learn in the next 4 months to have a chance of getting into Sheridan. It's also really exciting, even if I don't get in I'll have gotten so much better at character design / storyboarding / illustration / animation by shooting for this.
+
+## Tuesday
+Went into the Numerai office to work. When I left SF in August, I thought I'd never be  here again, being back feels surreal.
+
+Overall thought is that I'm glad I'm leaving. Almost the entire office is remote, and I feel like the joy of working at Numerai evaporated over the summer after I went remote.
+
+## Monday
+Turns out I can't go to Paris, my emergency passport isn't valid to go to Europe. Honestly feel pretty relieved, Numerai + Pico + Paris conference was overwhelming and making me stressed through the weekend.
+
+Gonna be living in TR's house all on my own for the next week or so
+
 # September Week 4
 ## Sunday
 This morning I found myself, once again, watching CalArts [student](https://youtu.be/b4_dq_e4KGs) [films](https://youtu.be/XCawr8qHbHE) and dreaming about studying there -- and then being rudely awakened when I'm reminded that it costs $60k USD / year to attend.
