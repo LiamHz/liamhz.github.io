@@ -4,6 +4,18 @@ title: Logs
 
 <div class="logs-container">
 
+## 2022.09.27
+> I'd like to build more of a machine like we're done with UW Startups and Socratica where we don't really have to ask people to come to events... How do I do something similar for film?
+
+I think short film club could be cool. Have people submit one short film / YT video, watch them together, and if people have something they've made or learnt they can give a little screening / presentation.
+
+## 2022.09.25
+> I've been planning a pseudo-curriculum for myself re:film stuff...
+
+I never quite figured out what areas you needed to grow in to make film / docu-journalism feel like a real career possibility were. It seems like you should be doing mini versions of projects that you would do on sabbatical _now_, but maybe you already are.
+
+Film curriculum seems like a step in this direction. Hope you're able to follow through on it, or find someone to help you do so. Maybe start small (30 second film per week, quality doesn't matter) and ask JZ to hold you accountable?
+
 ## 2022.09.24
 > Reading the "Early Life" section of Wikipedia pages for people I admire is chicken soup for the soul
 
