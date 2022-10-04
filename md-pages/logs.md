@@ -4,7 +4,37 @@ title: Logs
 
 <div class="logs-container">
 
+# October Week 1
+## Monday
+Attended my first Kaz class. Was a critique session of other students' original character designs, with a focus on shape language and storytelling.
+
+Will write up some more notes tomorrow, but one interesting thing I learned was the difference in character designs between Western and Eastern 2D animation.
+
+Generally, Eastern character designs are much more detailed, but the animations are less intricate, often animating on every 3rd or 4th frame instead of 2s.
+
+Western character designs are more simplified, with more exaggerated shape language to compensate, and the animation is on 2s and more detailed.
+
+Kaz recommended studying the designs of Western animated shows (e.g. Avatar and Spiderverse), as this is the style that Sheridan teaches and looks for in portfolios.
+
+Stayed up late doing character design studies. Slept over at the office.
+
 # September Week 5
+## Sunday
+Spent a few hours doing character design studies for Kaz. Assignment for last week (I'm still catching up) was to pick 30 images of characters, and for each do a trace-over focusing on 2D shape language, a trace-over focusing on 3D form, and finally drawing the image from memory.
+
+I really enjoyed doing this, drawing fan art is fun.
+
+Did some drawing at a Pakistani restaurant, while listening to two old white men talk about how their college roommate used to be a man-ho / chad -- and is now super gay.
+
+Watched an animated Batman film from 1993, Mask of the Phantasm. Animation / character design / music / story were all pretty good
+
+Under the Red Hood and Return of the Joker seem to be the other two well regarded animated Batman movies.
+
+## Saturday
+4 hours of drawing in one day, new record!
+
+Mostly figure and character design studies for Kaz.
+
 ## Friday
 Got a second tutor for Sheridan animation (8-person study group, two lectures a week + assignments). It's kinda crazy how much I've improved at art while being entirely intrinsically motivated -- but know that having friends with who inspire me and push me to achieve more is really important.
 
