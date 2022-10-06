@@ -5,6 +5,13 @@ title: Logs
 <div class="logs-container">
 
 # October Week 1
+## Wednesday
+Screen-shared while doing character design work in Kaz's Discord server. Had 3 people join me for a few hours. Everybody's from Canada (one in Toronto!) -- fun to chat and cowork with new friends.
+
+Feels like I've ascended to a new level of work ethic for art -- I've done >3 hours a day for the past week, while doing more Numerai work more than usual. Intrinsic + extrinsic (Kaz) motivation >>>
+
+Did character design until 1am, and slept over at the office.
+
 ## Monday
 Attended my first Kaz class. Was a critique session of other students' original character designs, with a focus on shape language and storytelling.
 
