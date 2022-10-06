@@ -1,8 +1,25 @@
 ---
-title: Logs
+title: Annotated AY Logs
 ---
 
 <div class="logs-container">
+
+## 2022.10.01 to 2022.10.05
+I really like these logs! They feel a lot more reflective than usual
+
+Seems like you're really busy, hope you're finding time to breathe and touch every building in Waterloo
+
+# 2022.10.03
+> There is a weird cultural dichotomy that splits people between makers and connectors... The distinction holds elements of truth, but ultimately feels unsatisfactory to me... That being said, I haven't been making enough time to be creative. This is especially true because personal relationships can feel pressing in a way that working on AfterEffects for 4 hours may not.
+
+I think the last sentence here is the resolution to this "weird dichotomy". People can, and quite often are both, but what you identify with primarily is what you end up prioritizing.
+
+Seems like you're somewhat aware of this and trying to shift from self-identifying as connector to maker which I'm glad to see -- will probably take a while for this to feel natural.
+
+# 2022.10.01
+> I think a reason to stay more low profile is because I hate excluding people. If you don't advertise a hangout you can be more selective about who attends. This goes for Socratica and other life things.
+
+Big agree. Weird thing is that most of the groups / communities we hear about are by definition the ones that are less exclusive -- so it's easy to unconsciously model our own social groups in this (lesser) mold
 
 ## 2022.09.27
 > I'd like to build more of a machine like we're done with UW Startups and Socratica where we don't really have to ask people to come to events... How do I do something similar for film?
