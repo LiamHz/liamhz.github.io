@@ -4,9 +4,103 @@ title: Logs
 
 <div class="logs-container">
 
-# October Week 1
+# October Week 3
+## Tuesday
+Losing AY has been hard
+
+I've been depressed since then. Sometimes I'll have good evenings because of art progress, but within 24 hours I'll be feeling rock bottom again.
+
+Coming to SF was supposed to be a great distraction from what happened, but working two jobs ended up being stressful, and Paris didn't happen which led to me being socially stranded in SF for 3 weeks
+
+Depression and loneliness in SF has been really conducive to putting in hours studying art. I know I'm distracting myself, but at least I'm productive
+
+I stopped updating logs and using Curius / Twitter / Instagram because I don't want AY to be able to peer into my life.
+
+I catch myself in negative thought spirals -- e.g. "how is it fair that AY posed an ultimatum a month ago, JZ picked both -- and yet JZ's ultimatum doesn't have both as an option".
+
+I hate how literally every moment I have alone with myself I catch myself in a thought spiral or disassociating to avoid the pain. I haven't had wandering thoughts about anything else in weeks.
+
+I catch myself flinching away from developing friendships because I'm scared to experience echos of loss: cherishing somebody in my life, and then them leaving me.
+
+I don't have anybody that I can open up to and talk about all of this with
+
+I can't bring myself to listen to Noah Kahan's new album
+
+That's a lot... what's been good lately?
+- I'm excited to leave Numerai and start studying art full-time
+- Art progress since joining Kaz's study group two weeks ago has been incredible
+- I'm glad that when I exit thought spirals my resentment towards AY quickly fades. She's an amazing person, I'm glad she was part of my life for the past year, and I can't wait to see what she does this year
+- I'm looking forward to being back in Waterloo, living with JW, and being surrounded by friends. Life has been devoid of color lately, but I'm hopeful that campus life will saturate things
+
+I just want to cry and eat ice cream with AY :/
+
+## Monday
+Had a call with Jason Benn to see if I'd be a good fit for the Neighborhood's residency program in 2023. Rambled about Go, School 2.0, working in tech, social life in SF, studying art, and the recent renaissance of style in high-budget Western animation (all while gesturing wildly) for half an hour
+
+It's nice to know that I can still invigorate people I respect and make them really like me by being myself -- good pick me up since I've been feeling pretty meh about life since moving back to SF.
+
+Did timed figure drawing in Discord with Jason and Jade (Kaz students) -- I like hanging out with them, and I think we'll do this frequently. My first art friends :)
+
+# October Week 2
+## Sunday
+Went to a private AI dinner thanks to RC's invite. Theme was AI art disrupting the film industry lmao -- conversation with the founders and VCs around me while eating was whatevs, I'm happy I'm leaving SF
+
+## Saturday
+Read Chapter 6 of Understanding Comics and had the biggest lightbulb moment of the past few months -- it made explicit a framework that underlies my thoughts on self-actualization, my career in tech and why I want to leave, and my aspirations for my future career in art. Went on a 30 minute walk to sit with these thoughts.
+
+Kaz class was good, main feedback was that I've improved an incredible amount since I drew my first character design two weeks ago, and that I need a bit more mileage on the current round of designs. I agree with both
+
+Spent the evening driving around SF while listening to EDM, getting burgers, and looking down on all the buildings that make up the city from the top of Corona Heights with Shrav.
+
+## Friday
+Got lunch with Will Bryk and a bunch of others for his birthday
+
+Drew another 5 character designs that I like. Quality is good, but I want to be able to create ‘em faster. Today’s designs also felt a lot more intentional than previous
+
+RC: "Are you optimizing for career success or happiness the next few year?"
+
+My initial response was both, but after a bit more thought the answer is definitely career. Many people have assumed that I'd be travelling a lot, since this is how most people spend their sabbaticals -- but doing this has barely even crossed my mind. I want to become great at drawing and animation, make wonderful pieces of art, and immerse myself in new social circles and value systems.
+
+## Thursday
+Kaz lesson. Feeling good about my character designs. I’m still one of the weaker students that n his class, but definitely not the worst anymore — and my improvement in the past two weeks for anatomy and design in characters has been a ton.
+
+Got some good feedback on my designs, mainly: now that I can draw characters that look believable and appealing, I should be intentional about design elements and what they say about my character’s world, personality, and story.
+
+A few hours after the session ended, me, Kaz, and two other students hung out on a call and for the first time talked with cameras turned on. Good vibes :)
+
+Cowboy Bebop episodes 1 through 4 have been great, chock full of swagger and style. Tonight I watched ep 5 — turns out this show also has _substance_. Glad I get to watch this for the first time
+
 ## Wednesday
-Screen-shared while doing character design work in Kaz's Discord server. Had 3 people join me for a few hours. Everybody's from Canada (one in Toronto!) -- fun to chat and cowork with new friends.
+The past week I've been productive for both Numerai and art, which makes me happy -- but all the other things I enjoy about life (AY, friends, exercise, new experiences) are missing
+
+## Tuesday
+First 1 on 1 art tutoring session with Kye (2nd year Sheridan animation student). She's a great teacher! Hour long sessions are a ton of time for individual feedback, but she doesn't assign homework -- which complements Kaz's study group really well.
+
+## Monday
+Good day for art practice. Funny how it only took 3 days for me to go from feeling depressed to happy with my character designs.
+
+Learned how to play "I Really Want to Stay at Your House" from Cyberpunk Edgerunners on the piano at the office
+
+# October Week 1
+## Sunday
+Worked at Richard’s. Fun throwback to be doing research side by side with him, while talking art over Uber Eats meals
+
+## Saturday
+Kaz class. Got really good feedback about my designs, and how to apply basic figure drawing principles to my designs to make them look more appealing
+
+Watched episode 1 of cowboy bebop. This show exudes so much style. I adore the final chase sequence that’s paired with muted scene audio and soulful jazz.
+
+## Friday
+Spent the day doing original character designs for Kaz, and slowly fell into a well of despair.
+
+I drew over 40 designs, and only 5 of them look remotely good. I feel so much worse than the other student’s in Kaz’s class
+
+New Charlie Puth album came out -- I really like it despite (or maybe because) every song makes me think of AY
+
+Cooked dinner while singing along
+
+## Wednesday
+Screen-shared while doing character design work in Kaz's Discord server. Had 3 people join me for a few hours. Everybody's from Canada (one in Toronto!) -- fun to chat and cowork with people my age with the same goals.
 
 Feels like I've ascended to a new level of work ethic for art -- I've done >3 hours a day for the past week, while doing more Numerai work more than usual. Intrinsic + extrinsic (Kaz) motivation >>>
 
