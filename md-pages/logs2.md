@@ -5,6 +5,101 @@ title: Logs
 <div class="logs-container">
 
 # October Week 3
+## Sunday
+Watched some 4-year olds run a 200 meter race before going to Socratica for the first time this morning. To be honest, I was a bit disappointed. In my head Socratica was where the types of people I really admire would gather, but everybody I met was more or less your average CS student who's done a few internships and is interested in doing their own startup, but not particularly passionate about anything.
+
+One fun moment. Later in the day, I saw that the UW Startups account posted about Socratica on Instagram, inviting more people to join, and my instant reacting was "oh shit, it's gonna decline in quality"
+
+Watched [The End of Art: An Argument Against Image AIs](https://www.youtube.com/watch?v=tjSxFAGP9Ss) by Steven Zappata. I got a lot out of this because it comes from the perspective of an expert artist, and he doesn't get any of the relevant high-level details about AI wrong.
+
+The thrust of his argument is that the image datasets used to train generative AI models use the copyrighted works of artists -- and that the end goal of these systems isn't to be a tool to aid artists, but rather replace them.
+
+Despite what I've said to AY in the past about AI probably not replacing the top 2% of artists / film-makers, I'm not so confidant that's true 10 years from now. This makes me pretty sad, but two things keep me optimistic about my current life path.
+
+In the worst case, I think I'll still have a fulfilling art career for 5 years (until ~2030). This is plenty of time, and I'd be happy to reskill and work in a new industry.
+
+I also really fucking love making art
+
+Look at what I've drawn in the past week alone
+
+![](../img/art-home-school/character-design-1/sprint-1-finals.jpg)
+![](../img/art-home-school/layout-1/spiderverse-mono-comp-1.jpg)
+![](../img/art-home-school/layout-1/layout-studies-2.jpg)
+
+Wendy Xu [put it eloquently](https://ko-fi.com/post/fuck-AI-art-I2I7FKDJH)
+
+> I love art. I love art more than anything else in the entire world, and the most laughable thing about these tech dick sucking idiots is that they think they are sticking it to Big Art with their little algorithms. As though artists would stop making art if they couldn't get paid for what they do. If I was in the middle of the woods with no paper or pencil, I would make a fire and burn a stick into charcoal and start drawing on tree bark. I would take mud and smear it on stone walls, like they did in the days of cave painting.
+>
+> If I couldn't make a living with my art, I would simply pick up another day job, like I've done repeatedly fresh out of college (nonprofit, theatre school admin, attorney office, acupuncturist's office, publishing editorial) and draw under the front desk while answering phones, as I have always done.
+>
+> \[...] I would still draw my fantasy comics and post them to where people can stumble upon them, regardless if an algorithm thought they were worth promoting or not. I was never a teen prodigy with tens of thousands of DeviantArt followers, and it didn't matter a fucking thing. Those numbers didn't bother me then, because I had friends who I wrote stories with and drew all of our characters and our worlds and we shared them privately with each other, and that was the best feeling in the world, and I hold onto that feeling as an adult professional artist, and I constantly chase that feeling of PERSONAL validation.
+
+The lasting change in worldview I have from all of this is that I just want to live my life to the fullest
+- I want to draw, get really fucking good at it, work on a beautiful TV show or film, tell stories through comics / animatics / animations independently
+- I want to make art for and with my friends, and do fun shit together
+- I'd rather become industry ready in 3-years and enjoy life, than in 2 and be miserable the whole time
+
+Once AY gets back to Waterloo, I'll ask her if there's any way if we can salvage our friendship. Most likely the answer will be no, and I'll move on with my life
+
+I don't think I'll ever be a fan of the social scene at Waterloo or any other university that isn't focused on my areas of interest. Socratica underscored this for me -- these environments aren't conducive to people's agency or thoughtfulness, and everyone's at an earlier stage of life than me. By Christmas I'll move move out of here and won't come back.
+
+Whether I end up in Montreal, Brooklyn, or LA, I'll join a bunch of in-person groups and make new friends :)
+
+Wrote this thank you note to Kaz
+
+> Just wanted to say that joining your class has been one of the best things I've been a part of in a long time
+>
+> Obviously I'm hoping that I'll get into Sheridan, but to be honest I care much more about becoming better at the craft of art and expanding the breadth of things I can express -- and you've been a big help with that already
+>
+> I am
+> - a big fan of your energy
+> - learning so much from your assignments and feedback
+> - way more motivated to study during the week (I'm spending twice as many hours a week drawing than I was before joining)
+> - so happy to be working late into the night with Jason and Jade -- I didn't really have peers who had the same goals as me before
+>
+> Looking forward to learning more, and trauma-bonding trauma with everyone through portfolio season :)
+
+It's nice to be reminded that friendships and communities aren't formed through social media announcements or "scalable communication", but rather a few people working together on their silly little projects and sharing their silly little stories about life.
+
+## Saturday
+Went rock climbing and lifted at the gym -- feels good to be able to do this after a few weeks away in SF.
+
+Worked on layout studies for Kaz's class
+
+Kaz's class was great as usual. One thing he helped me realize is that the point of studies is to learn -- the visual quality of studies barely matters. What's important is the observations, notes, and annotations the study helps you make. Which means that for many studies, it's fine to trace.
+
+After class, me, Jade, and Jason stayed on the call -- after a few minutes Kaz came in, noted "it's alway you three", and said we're like "Harry, Hermione, and Ron". Stayed up late into the night talking and drawing.
+
+Here's a picture of us from last week
+
+![](../img/kaz-crew.jpg)
+
+Got a new daily high score for time spent drawing today, 5 hours and 15 minutes!
+
+## Friday
+Back in Waterloo! Slept in, then finished up work stuff until 5pm. After this, the entire evening I felt a bit listless and didn't know what to do.
+
+Reached out to 5 friend to hang out, but everybody's out of town or busy studying for mid-terms right now. This plus me being home alone with JW in SF for the next week means I gotta watch out for my well-being.
+
+Things I should do every day to not be depressed this week
+- Go climbing / lifting / skateboarding
+- Do my best to hang out with somebody
+- Work and draw at E7 instead of staying at home
+- Block YouTube / Twitter etc during the day
+- Cook / shower / clean / read
+
+Enjoyed reading [ACX - Another Bay Area House Party](https://astralcodexten.substack.com/p/another-bay-area-house-party)
+
+Watched [Miyazaki - On Your Mark AMV](https://vimeo.com/394801904). Beautiful short film, and I liked how it was Miyazaki's first dark work after the Nausicaa manga was completed, and served as his transition from more peaceful films like Totoro to Princess Mononoke.
+
+## Thursday
+Spent the day flying back to Toronto. Did character designs on the plane for a few hours, and after I landed I used up all my data for the month to join Kaz's lesson while on the Uber to Waterloo. Glad that we're moving on from characters to layout designs and composition / perspective.
+
+## Wednesday
+Last day with coworkers at the office. Kinda crazy that I won't see MP, RC, and others for at least a year. Bit sad that me and MP barely spent time together this past month in SF, think things never went back to normal after he almost fired me.
+
+Went to trivia night at a bar with coworkers -- after a tragic one point loss we placed 2nd.
+
 ## Tuesday
 Losing AY has been hard
 
