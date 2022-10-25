@@ -8,7 +8,9 @@ title: Logs
 ## Sunday
 Watched some 4-year olds run a 200 meter race before going to Socratica for the first time this morning. To be honest, I was a bit disappointed. In my head Socratica was where the types of people I really admire would gather, but everybody I met was more or less your average CS student who's done a few internships and is interested in doing their own startup, but not particularly passionate about anything.
 
-One fun moment. Later in the day, I saw that the UW Startups account posted about Socratica on Instagram, inviting more people to join, and my instant reacting was "oh shit, it's gonna decline in quality"
+One fun moment. Later in the day, I saw that the UW Startups account posted about Socratica on Instagram, inviting more people to join, and my instant reaction was "oh shit, it's gonna decline in quality"
+
+I think it's really good that Waterloo has something like Socratica, it's just not the right place for me, and that's fine.
 
 Watched [The End of Art: An Argument Against Image AIs](https://www.youtube.com/watch?v=tjSxFAGP9Ss) by Steven Zappata. I got a lot out of this because it comes from the perspective of an expert artist, and he doesn't get any of the relevant high-level details about AI wrong.
 
@@ -38,8 +40,6 @@ The lasting change in worldview I have from all of this is that I just want to l
 - I want to draw, get really fucking good at it, work on a beautiful TV show or film, tell stories through comics / animatics / animations independently
 - I want to make art for and with my friends, and do fun shit together
 - I'd rather become industry ready in 3-years and enjoy life, than in 2 and be miserable the whole time
-
-Once AY gets back to Waterloo, I'll ask her if there's any way if we can salvage our friendship. Most likely the answer will be no, and I'll move on with my life
 
 I don't think I'll ever be a fan of the social scene at Waterloo or any other university that isn't focused on my areas of interest. Socratica underscored this for me -- these environments aren't conducive to people's agency or thoughtfulness, and everyone's at an earlier stage of life than me. By Christmas I'll move move out of here and won't come back.
 
