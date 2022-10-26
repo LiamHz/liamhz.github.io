@@ -4,6 +4,26 @@ title: Logs
 
 <div class="logs-container">
 
+## Tuesday
+Showed up at the bus stop to surprise AY on her arrival back from SF. Glad I could scheme one last time.
+
+Drew a lot.
+
+Realized that I should say the last goodbye to AY today.
+
+We called for an hour.
+
+Came to the conclusion that 6 months from now I'll message JZ and ask him if me and AY can be friends again. AY seemed optimistic about this, and I feel so much better because of it. Until then, the plan is to have no contact with each other. This'll be hard, but infinitely better than never being friends again.
+
+Rambled on the phone because neither of us wanted to hang up.
+
+Thank you for everything.
+
+See you soon.
+
+## Monday
+Scheming
+
 # October Week 3
 ## Sunday
 Watched some 4-year olds run a 200 meter race before going to Socratica for the first time this morning. To be honest, I was a bit disappointed. In my head Socratica was where the types of people I really admire would gather, but everybody I met was more or less your average CS student who's done a few internships and is interested in doing their own startup, but not particularly passionate about anything.
