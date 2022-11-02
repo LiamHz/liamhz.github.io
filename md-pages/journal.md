@@ -39,7 +39,7 @@ JW came back from sf today!
 Went to Anjing's -- my second ever college party. Had a good time being pleasantly drunk around JW's friends.
 
 ## Thursday
-Got lunch with AL. Talked about her experience with interviewing for tech company internships. Part that stuck with me the most was how she had never felt smaller than when at a tech recruiting event for uni students -- feeling like a replaceable part in the machine. I'm interested in her romantically (first person since Nancy!) but I want to take things slow for now and just get to know each as friends for a while.
+Got lunch with AL. Talked about her experience with interviewing for tech company internships. Part that stuck with me the most was how she had never felt smaller than when at a tech recruiting event for uni students -- feeling like a replaceable part in the machine. Glad to have a new friend.
 
 Kaz class -- main feedback from Kaz was "your 10 minute gestures are great, but you need to be able to produce the same quality drawings in 3 minutes instead". Very motivating :)
 
