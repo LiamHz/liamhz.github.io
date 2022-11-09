@@ -47,7 +47,7 @@ In April of 2022 I watched [an interview](https://youtu.be/XbmVKmAA2XU) with a s
 
 For years I had enjoyed making creative tech projects, but this interview was the first time I felt that art, without the tech side, was something I could get better at. All it would take would be countless hours of practice.
 
-Getting home from a long day of work, and readying myself to draw for 3 hours, knowing that all the art I'd make wouldn't be close to my internal standards was a challenging experience. It was the first time I was diving into a non-STEM area in years, and being confronted with my lack of skill day in and day out was daunting.
+Getting home from a long day of work, and readying myself to draw for 3 hours, knowing that all the art I'd make wouldn't be close to my standards was a challenging experience. It was the first time I was diving into a non-STEM area in years, and being confronted with my lack of skill day in and day out was daunting.
 
 But I enjoyed the challenged, and loved every moment of making art!
 
@@ -64,7 +64,7 @@ I also read [a collection of essays](https://www.goodreads.com/book/show/6342111
 
 Even while surrounded by a flood of lifeless mediocre art, we still need to drink a good glass of water once in while.
 
-I really want to create animated films, comics, and stories that are refreshing -- that inspire people to change their life for the better or just bring a smile to their face.
+I want to create animated films, comics, and stories that are refreshing -- that inspire people to change their life for the better, or that just bring a smile to their face.
 
 Leaving a successful career might be unwise, but I think that to make a successful career change, you have to go all-in, rather than just chipping away in the evenings. The worst case outcome with me leaving my job to study art full-time is that I become really good at something I love, I don't enjoy working in the art industry, and I go back to my previous career.
 
