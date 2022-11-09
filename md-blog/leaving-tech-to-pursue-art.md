@@ -31,23 +31,19 @@ Found a startup, with the hope of
 - Creating meaningful impact on the world
 - Becoming someone both themselves and others will admire
 
-Moving to a more meaningful sub-industry of tech (e.g. bio-tech)
-
 **Money**: I grew up poor, but I don’t particularly care about making money. Beyond paying for rent and groceries I don’t have many material desires. The past two years I worked at an AI hedge fund in San Francisco, found myself surrounded by millionaires, and saw that they weren't notably happier than my broke college friends. I really enjoy creating things, and know that this will be true for the next few decades, so working a soulless job to retire early doesn't appeal to me.
 
 **Founder**: I need to learn more, and experience more of the world before I’m capable of bringing a meaningful vision of the world into reality. The problems I’m currently able to solve (CRMs, tools for developers etc) aren't problems that I care about.
 
-**Moving to a new sub-industry**: Working in longevity is a common aspiration for people in tech who want to accomplish meaningful work while staying in tech. But if you want to do more than technical grunt work, you have to deeply study that field for years. Most people who are already working aren't willing to shoulder the financial, social, and spiritual challenges that switching industries entails.
+I also want to get out of the bubble I currently live in and experience new ways of living.
 
-The last option is something I could see myself doing. But I also want to get out of the bubble I currently live in and experience new ways of living.
+I've been immersed in tech since I started high school. It’s shaped what I value in myself and others (raw analytical thinking), what I think about (abstract issues and systems), and how I think about these things (optimizing for outcomes).
 
-I've been immersed in tech since I started high school. It’s shaped what I value in myself and others (analytical thinking and raw intelligence), what I think about (abstract issues and systems), and how I think about these things (optimizing for outcomes).
+I think there’s a lot of merit to the "tech way of life". But I also want to try living with different values (kindness and creativity), think about different things (history, culture, and art), and change how I think about these things (emotions and aesthetics).
 
-I think there’s a lot of merit to the “tech way of life”. But I also want to try living with different values (kindness and creativity), think about different things (history, culture, and art), and change how I think about these things (emotions and aesthetics).
+To make a successful career change, you have to go all-in, rather than just chipping away in the evenings. The worst case with this approach is that I become really good at something I love, don't enjoy the industry, and go back to my previous career for money.
 
 Like everybody, I grew up with a secret unspoken belief that way deep down I was different from everyone else. That I would go on to achieve great things with my life. I’m 20 years old, and if the rest of my 20s went by in a blur of startups and ever increasing salary -- I’d feel like I had wasted my potential.
-
-Maybe I'm naive and art isn't the answer. But my worst case is I become really good at something I love, don't enjoy the industry, and go back to my previous career for money.
 
 "I'm just afraid that if I died today, then my life would have amounted to nothing" - Soul, Pixar
 
