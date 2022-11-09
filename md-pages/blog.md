@@ -4,6 +4,7 @@ title: Blog
 
 <div class='blog card-navigation'>
 
+- <a href="/blog/leaving-tech-to-pursue-art.html">Why I Left Tech to Pursue Art</a>
 - <a href="/blog/art-home-school.html">Art Home School</a>
 - <a href="/blog/people-parties-and-whispers-of-sf.html">People, Parties, and the Whispers of SF</a>
 - <a href="/blog/sf-algorave-week.html">A Week of SF Parties and Algoraves</a>

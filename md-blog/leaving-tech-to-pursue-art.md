@@ -1,8 +1,8 @@
 ---
-title: "Why I'm Leaving Tech to Pursue Art"
+title: "Why I Left Tech to Pursue Art"
 ---
 
-# Why I'm Leaving Tech to Pursue Art
+# Why I Left Tech to Pursue Art
 Today, I left my job at a tech startup to study art full time.
 
 I've spent 100s of hours the past 6 months drawing, and I'm eager to go all-in. I'm planning to apply to Sheridan's animation undergrad program in February, and have been busy preparing a portfolio for it. Here's some of my recent work, and a [lil music video](https://twitter.com/LiamHinzman/status/1589660449271959552?s=20&t=svNe1i7jQQbYhdQahR1WVg).
