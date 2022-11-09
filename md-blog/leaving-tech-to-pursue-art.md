@@ -1,30 +1,37 @@
 ---
-title: "Why I’m Leaving Tech to Pursue Art"
+title: "Why I'm Leaving Tech to Pursue Art"
 ---
 
-# Why I’m Leaving Tech to Pursue Art
-Today, I left my job at a tech startup to self-study art full time.
+# Why I'm Leaving Tech to Pursue Art
+Today, I left my job at a tech startup to study art full time.
 
 I've spent 100s of hours the past 6 months drawing, and I'm eager to go all-in. I'm planning to apply to Sheridan's animation undergrad program in February, and have been busy preparing a portfolio for it. Here's some of my recent work, and a [lil music video](https://twitter.com/LiamHinzman/status/1589660449271959552?s=20&t=svNe1i7jQQbYhdQahR1WVg).
 
 ![](../img/art-home-school/character-design-1/characters-final.jpeg)
 
-The past 7 years the thing that has remained constant in my life is programming. I grew up building AI and computer graphics projects for fun. I skipped class in high school to work at startups, and haven’t stopped since then.
+In middle-school I competed in Canadian nationals for the board game Go, and gave up on my dreams on going pro when AI defeated the world champion.
+
+In the 7 years since then, the thing that has remained constant in my life is programming. I grew up building AI and computer graphics projects for fun. I skipped class in high school to work at startups, and haven’t stopped since then.
+
+I worked on early versions of Midjourney in September of 2021. I'm aware of the irony of pursuing an art career now.
 
 I've really enjoyed these years, but I want to explore more of what life has to offer.
 
-I don’t enjoy working in tech anymore. I’m good at it, am compensated well, and the job is fairly painless. But when I started my first full-time job two years ago, I thought “is this really what the rest of my life will be like? churning out code to solve problems I don’t care about?” and that feeling never quite went away.
+I don't enjoy working in tech anymore. I'm good at it, am compensated well, and the job is fairly painless. But when I started my first full-time job two years ago, I thought "is this really what the rest of my life will be like? churning out code to solve problems I don't care about?" and that feeling never quite went away.
 
-I've met many people who really enjoy their jobs, both engineers and founders. I’m happy for them, but it’s not a good fit for me.
+I've met many people who really enjoy their jobs, both engineers and founders. I'm happy for them, but it's not a good fit for me.
 
-I've also met many young people in tech who feel dissatisfied. Many go through their career attempting to
-1. Earn as much money as possible, with the hope of
-  - Finding happiness through wealth
-  - Retiring by age 30
-2. Found a startup, with the hope of
-  - Creating meaningful impact on the world
-  - Becoming someone both themselves and others will admire
-3. Moving to a more meaningful sub-industry of tech (e.g. bio-tech)
+I've also met many young people in tech who feel dissatisfied. Many go through their career attempting to...
+
+Earn as much money as possible, with the hope of
+- Finding happiness through wealth
+- Retiring by age 30
+
+Found a startup, with the hope of
+- Creating meaningful impact on the world
+- Becoming someone both themselves and others will admire
+
+Moving to a more meaningful sub-industry of tech (e.g. bio-tech)
 
 **Money**: I grew up poor, but I don’t particularly care about making money. Beyond paying for rent and groceries I don’t have many material desires. The past two years I worked at an AI hedge fund in San Francisco, found myself surrounded by millionaires, and saw that they weren't notably happier than my broke college friends. I really enjoy creating things, and know that this will be true for the next few decades, so working a soulless job to retire early doesn't appeal to me.
 
