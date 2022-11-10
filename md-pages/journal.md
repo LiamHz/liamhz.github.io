@@ -4,13 +4,78 @@ title: Logs
 
 <div class="logs-container">
 
+# November Week 2
+## Wednesday
+Woke up to 6000+ page views, 100+ comments, and a dozen DMs from kind strangers
+
+Drew for a few hours at the Wombo office, and replied to people's messages. Also finished off the 2nd half of my blog post, focusing a bit more on "why art" and less "why leave tech"
+
+## Tuesday
+Took the train to Toronto with EU. Drew her while she slept, and played "we're not really strangers" when she work up.
+
+Hung out and ate dinner with family and great grandma.
+
+Hung out with TA in the evening. I think he's the closest friend I have in my life now. We only talk once every few months, but I really enjoy spending time with him, and I respect him and his thoughts.
+
+We talked a bit about girls. I mentioned how I was interested in a few, but was sad that I wouldn't be staying in Waterloo long enough to have a relationship. He said "live life and embrace its temporary-ness! I agree with him.
+
+Called AL about the HN drama below, and asked if she wanted to go to the arcade together on Friday. I'll make a move, and either sparks will fly or I'll get rejected. Looking forward to it either way.
+
+Right before going to bed, a mentor I hadn't talked to in 3 years messaged me, congratulating me for having my blog post on Hacker News. I have not written a blog post recently -- \*panic*. Turns out that in the morning Vincent bookmarked my draft and Curius, and a mutual acquaintance then posted that to HN.
+
+I quickly replaced the article with a V2 I had laying in drafts that better captures my thoughts -- only 2000 people saw the original version.
+
+## Monday
+Posted art sabbatical announcement music video on Twitter -- it's been a while since I have a banger tweet, feels good.
+
+Went to the arcade with EU. We talked and played arcade games together for two hours.
+
+Also, THEY HAVE DDR
+
 # November Week 1
+## Sunday
+Updated my Hacklodge music video to be an art sabbatical announcement video while at Socratica. Demo'd at the end, and people were speechless afterwards. A lot of people came up to me and said they had chills while watching -- feels good :)
+
+Walked home with Kellie while happily babbling together.
+
+## Saturday
+During class Kaz mentioned that he showed my art schedule and hourly updates to his other study group, and their reaction was "who the heck is this guy!?"
+
+Inspiring awe in a group of people is something I love, and that I haven't done since leaving college to work at Numerai. Other times in my life were TKS from "paper a day" onwards, and when I was the grind rapidly improving at Go.
+
+Feels so good to be a man on a mission again.
+
+Watched League of Legend world finals with 50 people on TV monitors, hosted by the Waterloo esports club. Had such a good time watching and yelling with the crowd. I'll never forget when Guma stole Baron in Game 5, and we all erupted in incoherent yelling.
+
+Right as the match ended, AL messaged me and we ended up going on a 40-minute walk. Conversation meandered towards what we look for in romantic partners, fears and desires in life etc. I'm always really happy when we spend time together.
+
+## Friday
+Followed Kaz's art schedule, drew for 4 hours today, sent hourly updates to our Discord server.
+
+Good climbing session, flashed a bunch of oranges and came within touching distance of my first pink
+
+Called with NZ for an hour and a half. Caught up on life, talked a bit about how we both really enjoyed our time together while we were in-person, despite eventually breaking up. I'm glad I have good relationships with all of my exes :)
+
+I love esports, I love the Overwatch League -- I watched the grand finals tonight which were hype. Was in a really good mood the whole time while watching them watching them.
+
+## Thursday
+Kaz class
+- Daily art schedule, unrealistic for anybody to follow except for me lmao
+- Got some feedback on figures, good shapes but gotta improve my 3D form
+
+## Wednesday
+
+## Tuesday
+Grateful that I'm leaving Numerai now. Coworker did a [feature release](https://forum.numer.ai/t/daily-tournaments/5766) last week that is breaking a ton of things, and making people wake up at 6am every morning -- and will probably continue to for the next month. Dealing with the mess today was a lot
+
+Hanging out with JW and AL on campus was fun. Talked about his girl drama for a bit
+
 ## Monday
 Watched Proko's videos on [the Force method](https://www.youtube.com/watch?v=IyuCq6VWVeA) of figure drawing
 
 Spent a few hours trying out these methods, and really liked how my 2-minute figures turned out. The whole process feels a lot more expressive and enjoyable with these method.
 
-![](../img/art-home-school/character-design-1/oct-31-force-figures.jpeg)
+All the people I want to be friends with in Waterloo are both unavailable due to midterms prep and flaky as hell :/
 
 # October Week 4
 ## Sunday
