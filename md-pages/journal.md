@@ -4,7 +4,62 @@ title: Logs
 
 <div class="logs-container">
 
+# November Week 3
+## Sunday
+Socratica! Finished my Contrary fellowship application , and then drew for a bit. Wanted to give other people the chance to shine, so today was my first session without doing a demo.
+
+After the session, me and a few others went to the gym. Was talking to one girl, and she sheepishly admitted that she had read all of my blog posts recently. We got lunch afterwards, and then went to E7 to study -- played a bit of piano
+
+## Saturday
+Spent an hour looking through piano covers of EDM songs. Found a few songs I wanted to learn. Practiced "I like me better", "Crawl Outta Love", and "Someone like you" on the public piano at Laurier.
+
+I'm happy to be playing piano, and learning new pieces again.
+
+Realized that I haven't started any personal art pieces for Sheridan yet. I need to think through what I want to do. Current ideas include: Blender NPR photo recreation of Brianna walking on the railroad, painting study of Faker looking at Keria crying at Worlds 2022, and Spiderverse style background painting.
+
+## Friday
+Spent the morning and early afternoon drawing, then went to the gym.
+
+In the evening I felt a bit listless. JW's visiting Toronto, and all my friends are busy studying. Played a bit of League, and read Crime and Punishment -- also tried using Blender and got frustrated.
+
+## Thursday
+Had a call with Santi about finding housing in NYC. Turns out he wants to be roommates with me! Very glad to not have to live with Craigslist randos
+
+Feeling comfortable in all the areas of Sheridan’s portfolio application. Last week I hadn't started hand anatomy at all, and was procrastinating over scene layouts and character design. Making good progress on everything now :)
+
 # November Week 2
+## Sunday
+Demo’d my first week of hand drawn animations at Socratica. Anson listened to my feedback from last week’s session, and the demos this week were a lot better, my favorite session so far.
+
+My hope is that within the next month my weekly demo won’t be the best one
+
+My kindle is finally working again. Made a new reading list, and read the first third of Murukami’s “What I Talk About When I Talk About Running”. Him describing switching from running a jazz bar to becoming a novelist, and the lifestyle changes that entailed connects very deeply with me. 
+
+I’m really happy to be reading books again after a month without
+
+I’ve felt this for a while now, but I need to move off Twitter. It gets my brain focused on news I don’t care about long-term (this week being FTX and Elon’s Twitter takeover) and I check it too compulsively.
+
+Switching to the non-algorithmic feed is probably the right long term move, but for the next week I’m gonna Twitter fast, and copy all my artist follows to IG. I want a platform where people share little life updates and art, instead of memes and news. Instagram seems like the better place for this. Maybe I'm a boomer and just want Facebook?
+
+Corridor Digital AI Spiderverse video is the first AI video that blew me away with its quality. Feeling a bit existential about my future career.
+
+## Saturday
+Awake, but too tired to be productive
+
+Got an hour of animation in
+
+Listened to Midnights by Taylor Swift
+
+Kaz gave me 1on1 feedback about my recent figure drawings after class. Said he really wants to help me because he sees me putting in the work and wants to support my career change. This made me very happy :)
+
+I want to make AY and Kaz proud :)
+
+## Friday
+Am sick. Slept literally all day. Was conscious for 3 hours total
+
+## Thursday
+Dinner with family, then took the train back to Waterloo
+
 ## Wednesday
 Woke up to 6000+ page views, 100+ comments, and a dozen DMs from kind strangers
 
