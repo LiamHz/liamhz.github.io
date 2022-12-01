@@ -78,7 +78,7 @@ At the beginning of this year I resolved that 2022 would be my "year of art" -- 
 
 Decided that I'll quit my job by the end of the year.
 
-This month I started drawing, going to parks and restaurants to draw people in a sketchbook. Reading Starting Point, a collection of essays by Hayao Miyazaki, and watching <a href="https://youtu.be/vFPMUJwSYXE" target="_blank">this interview</a> with an artist at Riot Games inspired me to keep drawing.
+This month I started drawing, going to parks and restaurants to draw people in a sketchbook. Reading Starting Point, a collection of essays by Hayao Miyazaki, and watching <a href="https://youtu.be/XbmVKmAA2XU" target="_blank">this interview</a> with an artist at Riot Games inspired me to keep drawing.
 
 ![](/img/art-home-school/figures-gg-bridge.jpg)
 
