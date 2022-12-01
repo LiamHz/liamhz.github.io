@@ -198,7 +198,7 @@ I spend a lot of time drawing
 
 ![](/img/art-home-school/character-design-1/characters-final.jpeg)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1F0sijgNaJdgit?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ERkBcmoKxRAgnIwAbCBSC?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'm really grateful for my friends: Anson for helping me dream bigger and give shape to my thoughts, Jim for being a great roommate and gym buddy, and SF for being sunny
 
