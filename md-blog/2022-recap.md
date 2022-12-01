@@ -4,6 +4,8 @@ title: Spotify Wrapped 2022 except it's about me and there's a playlist for each
 
 # Spotify Wrapped 2022 except it's about me and there's a playlist for each month
 
+![](/img/spotify-wrapped-2022-splash.jpg)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/69Vcj0bwxE73UCzynNrpGa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Inciting incident: I lose my passport while living with my best friend on a blueberry farm, and find myself trapped in the freezing cold of a Canadian winter. Meanwhile, my coworkers are enjoying a sunny January in SF.
@@ -77,6 +79,8 @@ At the beginning of this year I resolved that 2022 would be my "year of art" -- 
 Decided that I'll quit my job by the end of the year.
 
 This month I started drawing, going to parks and restaurants to draw people in a sketchbook. Reading Starting Point, a collection of essays by Hayao Miyazaki, and watching <a href="https://youtu.be/vFPMUJwSYXE" target="_blank">this interview</a> with an artist at Riot Games inspired me to keep drawing.
+
+![](/img/art-home-school/figures-gg-bridge.jpg)
 
 Seeing my musical hero, Jacob Collier, perform live felt like a celebration of everything that makes live music magical: singing as he conducts us, him running around the stage playing countless instruments, and a toddler loudly proclaiming their love for him. 
 
@@ -170,7 +174,9 @@ Drawing for countless hours helps me make it through the month.
 
 I do my best to move on from last month.
 
-I leave my job to study art full-time, and make an [animated music video](https://twitter.com/LiamHinzman/status/1589660449271959552) to share the news.
+I leave my job to study art full-time.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">today I left my job to study art<br><br>made a music video to celebrate <a href="https://t.co/hW8DCIQ4It">pic.twitter.com/hW8DCIQ4It</a></p>&mdash; LiamHz (@LiamHinzman) <a href="https://twitter.com/LiamHinzman/status/1589660449271959552?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Someone shares an [unfinished draft](https://liamhz.com/blog/leaving-tech-to-pursue-art) of my blog post about why I left tech to pursue art. It gets on the front page of Hacker News, 1000s of people read it, and dozens of people reach out with well wishes.
 
@@ -184,6 +190,10 @@ I start playing piano again, learning new pieces for the first time in months. E
 
 I get really good at making new friends -- before initiating conversation used to fill me with anxiety, but my insecurities seem to have melted away after experiencing last month's loneliness.
 
+I spend a lot of time drawing
+
+![](/img/art-home-school/character-design-1/characters-final.jpeg)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1F0sijgNaJdgit?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'm really grateful for my friends: Anson for helping me dream bigger and give shape to my thoughts, Jim for being a great roommate and gym buddy, and SF for being sunny
@@ -192,4 +202,3 @@ I'm excited for 2023: to draw, live in Brooklyn, apply to art school, make new f
 
 Lastly, thanks for reading! If anything struck or chord with you, or there's a song you want to share, send me a message on <a href="https://twitter.com/LiamHinzman" target="_blank">Twitter</a>
 
-![](/img/spotify-wrapped-2022-custom.jpg)
