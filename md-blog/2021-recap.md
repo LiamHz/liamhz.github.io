@@ -20,7 +20,7 @@ To this end I set up 30+ hour long 1 on 1 walks with people in my school. I took
 - Coit Tower
 - Twin Peaks
 
-I also organized weekly movie nights where I'd cook dinner for everyone -- slowly finding my [favorite recipes](https://liamhinzman.com/cooking.html).
+I also organized weekly movie nights where I'd cook dinner for everyone -- slowly finding my [favorite recipes](/cooking).
 
 Exploring San Francisco was fun, but after spending dozens of hours with my classmates in an accelerated period of "getting to know each other", I knew that I didn't want them to be my entire peer group for the next 4 years.
 
@@ -35,7 +35,7 @@ I spent 100s of hours on graphics programming projects
 - Built a ray tracer following [Peter Shirley's guide](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - Inspired by the [demoscene](https://github.com/psenough/teach_yourself_demoscene_in_14_days), I made some [fragment shaders](https://www.shadertoy.com/view/tlSyzG)
 - Learned Vulkan and built a [rendering engine](https://github.com/LiamHz/Excal) and Perlin noise terrain generator
-- Wrote an article about how [Vulkan and the graphics pipeline work](https://liamhinzman.com/blog/vulkan-fundamentals.html)
+- Wrote an article about how [Vulkan and the graphics pipeline work](/blog/vulkan-fundamentals)
 
 The article [did well](https://www.reddit.com/r/programming/comments/hxoekp/fundamentals_of_the_vulkan_graphics_api_why/) and I started getting Twitter DMs from companies asking if I wanted to do internships with them.
 
@@ -56,7 +56,7 @@ Meeting new people that you really like is exhilarating, and this group house ha
 
 In our first month together we ate lunch and dinner together every day. Meals lasted for hours since it was the only time we could socialize in groups for the two weeks we all quarantined.
 
-I was in love with co-living, and started to read a lot about [building and maintaining communities](https://liamhinzman.com/blog/community.html)
+I was in love with co-living, and started to read a lot about [building and maintaining communities](/blog/community.html)
 
 After quarantine we started doing weekly demo nights. At my first demo night I made a CLI that found similar patents given a description of a patent (using universal sentence encoders and the Google Patents API). The following week I learned Figma and hacked together a web app for this project.
 
@@ -94,7 +94,7 @@ And lots of outdoor adventures
 
 My favorite was a 24 hour road trip to the [White Sands](https://www.nps.gov/whsa/index.htm), the sand dunes look like snow!
 
-This trip is also when I read Norwegian Wood, a book that's shaped a lot of [how I think about relationships](https://liamhinzman.com/blog/echoes.html) and what being a good person means.
+This trip is also when I read Norwegian Wood, a book that's shaped a lot of [how I think about relationships](/blog/echoes) and what being a good person means.
 
 ## December 2020
 I finished my contract at Reduct Video, and started working full-time at [Numerai](https://numer.ai) which is where I still work.
