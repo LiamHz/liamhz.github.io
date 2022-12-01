@@ -106,6 +106,10 @@ I compile my favorite orchestral, pop, and EDM songs into separate playlists for
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37ZrpVbXTyezDzqyq1hhQI?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+I break up with my gf. It was so much fun in person, but while doing long-distance she realized that she needed a bit of space, and I was happy to go our separate ways. Even though it only lasted 2 months I'm glad we briefly lived life together.
+
+(Future Liam in December 2022 chiming in). We still talk and share art every now and then :)
+
 Spent a lot of time drawing, skateboarding, and playing Dance Dance Revolution every day at an arcade near my home.
 
 Listening to rap music in a foreign language gives all of the swagger with none of the lyrical distraction.
