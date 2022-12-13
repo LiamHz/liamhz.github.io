@@ -4,6 +4,71 @@ title: Logs
 
 <div class="logs-container">
 
+# November Week 4
+## Sunday, December 4
+Went to Socratica with Eesha
+
+## Saturday, December 3
+I forgor
+
+## Friday, December 2
+Tonight was Socratica's symposium!
+
+I finished drawing two hours before the event started to hang out with Aadil and Jim, and at that point I started feeling incredibly anxious. Joss put me as the first person to present -- I knew I was gonna talk about why I left Numerai to study art, and show my [year of art video](https://www.youtube.com/watch?v=wquO5Rc8Ldo), but I guess I was nervous because it's been years since I've presented in front of dozens of strangers.
+
+I spent an hour writing a script, then another hour at the venue rehearsing and revising it.
+
+My presentation went amazing -- I think it was the best of the night by a fair margin.
+
+Seeing Anson allude to all the things she's done the past few months in preparation for her film sabbatical made me both happy for her, but also sad that I missed out on seeing her rise to the occasion here.
+
+Talked to a bunch of people after the presentations were done
+- "I read your blog posts the other day. If art doesn't work out as a career, you should become a writer. Your 2022 recap gave me Murukami vibes"
+- "You're one of those geniuses, aren't you?"
+- "Let's go climbing in Brooklyn next year"
+
+Went home and played Mario Kart and Pico Park while singing along to Hamilton with Aadil and Jim.
+
+## Thursday, December 1
+Nicole wanted to go the gym on back to back days. Lifted, and then walked for an hour and a half.
+
+We were talking about how ghosting people you've gone on a date with feels wrong, and I suggested that the same holds true with anyone you've spent a few hours 1 on 1 with.
+
+She asked if we were close enough, that if either of us disappeared we should send an explanation to the other. Despite only knowing each other for a few days, the 6 hours together the past two days made us agree that we should.
+
+Was a nice roundabout way of saying that we care about each other.
+
+## Wednesday, November 30
+Went to life drawing with Joss and Lagan. We all sat next to each other while in the session, and once we were done we moved outside and compared our drawings.
+
+Went to the gym with Nicole. Afterwards we were walking and talking about life, and when we got to the place where we go our separate ways she asked "can we keep walking?" -- we walked through Laurier, I played her piano, and when we completed our first lap, back to the splitting point, we wordlessly continued on for our second lap.
+
+We end up walking for an hour and a half. It's freezing cold the whole time, and my hands are freezing because I'm carrying around my skateboard.
+
+It's my first time experiencing the playful flirting banter that I've heard described so many times before. Our chemistry is off the charts, but she has a boyfriend. I'm more than happy to just be friends though.
+
+What a wonderful night.
+
+## Tuesday, November 29
+Last night I sent a slightly suggestive joke to my gym crush, and woke up to this message
+
+> Wow, I’m flattered, but I thought we were leaning more towards being platonic?
+
+Felt sad and couldn't focus for two hours, but afterwards was happy to realize that I just see it as a funny story now. Being able to flirt without over-worrying about consequences is nice.
+
+Anson texted me (after not talking at all for a few weeks) out of the blue asking if we could talk at a cafe. Turns out a friend of her's had unexpectedly died last week, and she went to her funeral this morning. Anson felt the same as I did after the dog died in my arms, an overwhelming sense of wanting to be in each other's lives after being reminded of mortality. It was nice to chat for two hours, but I don't think anything between us will change in the near term
+
+Today was exactly a year since the last "emotional pour" when I visited her in Vancouver. Guess the last Tuesday of November is a recurring tradition now.
+
+Went to Indian dancing (Bhangra) again. The choreography this week was easier than last week's, and the session was way more fun as a result. Danced with Lagan as my partner, and chatted about art and life afterwards while walking back home.
+
+Kellie / Binal / Nicole (gym crush) / Lagan -- I'm happy to see that I've gotten a lot better at chatting to girls this month. Think the main realization is that I just have to initiate conversation, but what that thing isn't doesn't matter all too much: just asking about one of their interests or a random observation is enough to get the ball rolling. 
+
+## Monday
+Chatted to Joss while she was planning Socratica's Symposium presentations. She put me as the first presenter, and noted that it's really nice to have somebody doing something artistic, and it's funny to note how much working at Numerai for 2 years legitimizes my new pursuit of art to people -- I'm not some rando doing art in their eyes, I'm "one of them", highly accomplished, and doing something they think is cool and different.
+
+Went to the gym and lifted / chatted with my gym crush (Nicole) for an hour. She's not "exceptional" (or I haven't found out how she is yet), but she's cute. Talking with her comes naturally. Fun times :)
+
 # November Week 3
 ## Sunday
 Socratica! Finished my Contrary fellowship application , and then drew for a bit. Wanted to give other people the chance to shine, so today was my first session without doing a demo.
