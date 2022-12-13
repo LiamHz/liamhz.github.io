@@ -4,6 +4,73 @@ title: Logs
 
 <div class="logs-container">
 
+# December Week 2
+## Monday, December 12
+First day working through the big art todo list for the week I made after Kaz's portfolio feedback. Spent most of the day drawing hands and animation key frames on campus.
+
+Decided that I'd block Instagram, Reddit, and Twitter for the week. Partly because I want to reclaim my attention span, but also because I don't want to read about AI art every single fucking day.
+
+Today was also Anson's birthday. I wrote her a letter, and dropped it off along with a copy of A Little Life outside her door. Managed to not think about her through the day, but at night I wasn't able to fall asleep and started feeling sad about the past.
+
+The next morning I woke up to a text from her, sent at 2am, saying "thank you for the book -- I'm 150 pages in and annotating"
+
+# December Week 1
+## Sunday, December 11
+Met up with Nicole and her friends to go thrifting. Her friend was driving us, and at a light that was red she kept accelerating until we were partway through the intersection before slamming on the breaks. We were all fine, but the driver was really shaken. After half an hour of her shaking while others comforted her we decided to head back home.
+
+Watched The Hangover, I drew some hands while enjoying the other's enjoying this movie for the first time.
+
+Me and Nicole went to the gym, started our usual post-workout walk, and then ended up back at her place to watch "Before Sunrise" -- I had mentioned it as my favorite film after EEAAO to her last week.
+
+The film is about two people who meet on a train, and decide to spend the night walking through Vienna before one of them has to fly back home.
+
+The film doesn't have a strong plot or any conflicts, and is instead focused on the conversations between the two. We paused the movie a bunch of times to talk, and share our takes on the ideas they were sharing.
+
+At some point she asked me how many times I've been in love. When I said twice, she correctly guessed Brianna and Anson. Mention of the latter led the topic of emotional cheating to come up, and she mentioned that she didn't really see that as a thing -- that only physical intimacy was seen as cheating in her eyes.
+
+I think this is what she believes (and me as well as long as you're honest with your partner), but I think it was also her way of acknowledging how close we are, saying that she's comfortable with it, while still setting a line in the sand.
+
+At the end of the film, the two characters separate, and it's ambiguous whether they'll ever see each other again.
+
+Despite us only knowing each other for two weeks we had both thought of me leaving for Brooklyn in February, and if we'd still be friends after. If I get into Sheridan I'll come visit her.
+
+## Saturday, December 10
+Drew for most of the day.
+
+Got a portfolio review from Kaz for the first time in two weeks. I got so much good feedback, took a bunch of notes, and then spent an hour turning these notes into a todo list for the week.
+
+I haven't felt great about my drawing productivity the past two weeks, so this feels like a good nudge to shift into high gear again.
+
+## Friday, December 9
+Lifted with Nicole, then walked for an hour. Talked about the book, which characters we saw ourselves and each other in, and the things that weigh on us the most right now (Anson for me, lack of ambition for her)
+
+I think we'll spend a lot of time together in Toronto until I leave for Brooklyn. It's nice to have a new close friend.
+
+## Thursday, December 8
+Drew at the library for the day, and then went to Jim's office for the party. Talked to people a bit, danced in the front row while watching [Good Kid](https://www.youtube.com/watch?v=2t9TxR4IolM) perform
+
+Didn't want to sleep at my family's place (on the tiny mattress in my sister's room) so I took the late-night bus back to Waterloo.
+
+Read A Little Life for most of the journey home.
+
+I finished part 3 of the book in bed, which ended with this quote
+
+> the only trick of friendship, I think, is to find people who are better than you are—not smarter, not cooler, but kinder, and more generous, and more forgiving—and then to appreciate them for what they can teach you, and to try to listen to them when they tell you something about yourself, no matter how bad or good it might be, and to trust them, which is the hardest thing of all. but the best, as well.
+
+...and sobbed for the first time in a month. I miss Anson
+
+## Wednesday, December 7
+Took the train to Toronto with Jim and Anjing -- his office party and my mom's birthday are tomorrow.
+
+Showed up at home without prior announcement -- my parents were happy to see me.
+
+## Monday, December 5
+Started reading A Little Life because of Nicole's recommendation. The first few pages were terribly written with poor prose and heavy handed exposition, and since I went into this book blind (and Nicole mentioned that she hadn't read much the past two years) I was worried that this was some YA trash.
+
+Looked it up on Goodreads, and this book has a 4.3 rating with 402k reviews -- and it's a Man Booker prize finalist.
+
+Read chapter two, and by that point I was hooked.
+
 # November Week 4
 ## Sunday, December 4
 Went to Socratica with Eesha
