@@ -5,6 +5,76 @@ title: Logs
 <div class="logs-container">
 
 # December Week 2
+## Thursday December 14
+Who to reach out to
+- Anson, didn’t pick up
+- Brianna, didn’t pick up
+- Amy, busy with exams
+- Nicole, got back from sister’s graduation, don’t want to ruin her night
+- Jim, busy with exams
+- Joss, busy with exams
+- Jay, didn’t pick up
+
+Talha? I feel embarrassed \
+Parents? I feel embarrassed \
+Nancy? I don’t trust her enough
+
+Sarah? \
+Ju? \
+^ I don’t think we’re close enough. They’d comfort me, but I’d feel like a burden
+
+I need to talk to somebody I trust, feel comfortable at them seeing me at my lowest, and has context on the Anson situation 
+
+**[9:50pm]** \
+I think I’ve been having a panic attack from 8:50pm onwards
+
+I don’t know what’s happening \
+I’m scared \
+What’s wrong with me?
+
+I’m short of breath, and my mind feels like it’s racing
+
+I tried cooking spaghetti to distract myself, but couldn’t chop garlic
+
+I’m gripping on to things tightly, as if I’m trying to anchor myself to the present moment
+
+I can’t play piano, Laurier campus is closed due to freezing rain
+
+I feel like going on a run would help, but the ground is frozen outside
+
+Should I go play piano at E7?
+
+**[10:00pm]** \
+Is there really nobody I trust who can help me right now? I feel so alone
+
+I want to crawl under my bed and fall asleep 
+
+I sobbed after reading the quote about friendship in A Little Life last Thursday, and think I’ve been deeply sad since then
+
+Being around Nicole helped, but I last saw her on Sunday and now she’s in Toronto
+
+Reading today’s chapter, about a character dealing with the loss of a loved one broke me. I sobbed while hyperventilating, wasn’t able to focus for the rest of the day, and when I got home and read more I kept crying again and again
+
+Dog, SF post-Anson, now: Jim’s abandoned me every time I needed him
+
+I know this is unfair to him. I’m good at reaching out to friends, except when something really bad happens, at which point I retract into myself. It’s not his responsibility to read my mind when this happens
+
+**[10:30]** \
+Just finished calling with Anson for 20 minutes. I feel terrible for calling her. She’s busy with exams, and I’m just making it harder to forget each other forever.
+
+Part of me wants to give up on my ambitions, and work a full-time job again so I’m can distract myself with 12 hour work days 
+
+Last name night Jim told me that Aadil said he thought Anson and Jacky are gonna break up soon because of the ultimatum. The thought of this happening, and Anson forever resenting me because I’m the reason why scares me
+
+**[10:40]** \
+I think the panic attack is over
+
+Talking to Anson helped a lot, as did breathing along with the gif (although the latter made me feel like a child)
+
+I’m gonna try and sleep now, or at least lay in the dark while listening to the ambient playlist Anson sent
+
+The one thing I want to remember to do tomorrow (what I wanted to do right before the panic attack started). Tell Anson that I haven’t been doing great, and am worried about living alone / with family in Toronto, and if she has any thoughts on what I should do to not self-destruct
+
 ## Monday, December 12
 First day working through the big art todo list for the week I made after Kaz's portfolio feedback. Spent most of the day drawing hands and animation key frames on campus.
 
