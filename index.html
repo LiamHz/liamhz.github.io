@@ -10,12 +10,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
 <style>
 /* Compensate for sticky header wrt anchor links */
 html {
+  scroll-behavior: smooth;
   scroll-padding-top: 5em;
 }
 
@@ -42,6 +44,7 @@ body {
   align-items: center;
   justify-content: space-between;
 
+  margin-right: 4ch;
   margin-bottom: -4em;
   position: sticky;
   top: 0;
@@ -68,6 +71,11 @@ body {
 
 .header nav a {
   text-decoration: none;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.header nav a.active {
+  text-decoration: none;
   color: black;
 }
 
@@ -93,7 +101,7 @@ nav.months-list a {
 }
 
 nav.months-list .nav-month a {
-  color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.3);
 }
 
 nav.months-list .active a {
@@ -175,13 +183,14 @@ img {
 <div class="container">
   <div id="header-color"></div>
   <div class="header">
-    <h2>LiamHz</h2>
+    <h2 style="font-weight: normal">LiamHz</h2>
     <nav>
-      <a href="/index">Home</a>
+      <a href="/index" class="active">Home</a>
       <a href="/art-home-school.html">Art</a>
       <a href="/blog.html">Blog</a>
       <a href="/cooking.html">Recipes</a>
-      <a href="https://twitter.com/LiamHinzman" target="_blank">Twitter</a>
+      <a href="https://twitter.com/LiamHinzman" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://instagram.com/LiamHinzman" target="_blank"><i class="fa fa-instagram"></i></a>
     </nav>
   </div>
   <nav class="months-list">
@@ -453,6 +462,7 @@ img {
             const activeMonth = e.getAttribute("id")
             const activeNav = document.getElementById(`l-${activeMonth}`);
             activeNav.classList.add("active")
+            //window.location.hash = `#${activeMonth}`;
           }
         })
       });
