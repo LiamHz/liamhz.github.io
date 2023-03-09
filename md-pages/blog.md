@@ -4,6 +4,7 @@ title: Blog
 
 <div class='blog card-navigation'>
 
+- <a href="/blog/quotes-from-starting-point">My favorite Hayao Miyazaki quotes from Starting Point</a>
 - <a href="/blog/2022-recap">Spotify Wrapped 2022 except it's about me and there's a playlist for each month</a>
 - <a href="/blog/leaving-tech-to-pursue-art">Why I Left Tech to Pursue Art</a>
 - <a href="/blog/art-home-school">Art Home School</a>
