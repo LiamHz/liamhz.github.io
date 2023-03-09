@@ -1,36 +1,181 @@
+
 <!DOCTYPE html>
 <html>
 <head>
   <title>Home | LiamHz</title>
+  <!--
   <link rel="stylesheet" href="styles/main.css" type="text/css" />
   <link rel="stylesheet" href="styles/timeline.css" type="text/css" />
+  -->
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
 </head>
 
 <body>
-<div class="column-left mobile-only">
-  <h1>Hi I'm Liam!</h1>
-  <div>
-    <p>Art and animation student</p>
-    <p>In a past life I did AI research and data eng</p>
-  </div>
-  <nav>
-    <a href="/index">Home</a>
-    <a href="/art-home-school.html">Art</a>
-    <a href="/blog.html">Blog</a>
-    <a href="/cooking.html">Recipes</a>
-    <a href="https://twitter.com/LiamHinzman" target="_blank">Twitter</a>
-  </nav>
-</div>
-<div class="timeline-container">
-  <div class="column-left desktop-only">
-    <h1>Hi I'm Liam!</h1>
-    <div>
-      <p>Art and animation student</p>
-      <p>In a past life I did AI research and data eng</p>
-    </div>
+<style>
+/* Compensate for sticky header wrt anchor links */
+html {
+  scroll-padding-top: 5em;
+}
+
+body {
+  margin: 0;
+  overscroll-behavior-y: none;
+}
+
+.container {
+  width: 80%;
+  display: grid;
+  row-gap: 4em;
+  column-gap: 4ch;
+  grid-template-columns: 4ch 60ch 60ch;
+  margin: auto;
+}
+
+.header {
+  grid-column-start: 2;
+  grid-row-start: 1;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: -4em;
+  position: sticky;
+  top: 0;
+}
+
+#header-color {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4em;
+  background-image: linear-gradient(
+      to bottom,
+      white 90%,
+      rgba(255, 255, 255, 0)
+  );
+}
+
+.header nav {
+  display: flex;
+  flex-direction: row;
+  gap: 3ch;
+}
+
+.header nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav.months-list {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  position: sticky;
+  top: 4.2em;
+  align-self: start;
+}
+
+nav.months-list p {
+  margin: 0.2ch;
+  text-align: right;
+}
+
+nav.months-list a {
+  text-decoration: none;
+  color: black;
+}
+
+nav.months-list .nav-month a {
+  color: rgba(0, 0, 0, 0.2);
+}
+
+nav.months-list .active a {
+  color: rgba(0, 0, 0, 1);
+}
+
+nav.months-list .year {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+p {
+  margin-block-start: 0;
+}
+
+.timeline-container {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+}
+
+.month-container {
+  display: flex;
+  flex-direction: row;
+  gap: 5ch;
+  margin-bottom: 4em;
+}
+
+.month-container .col p {
+  max-width: 50ch;
+}
+
+.month-container .col {
+  max-width: 60ch;
+}
+
+body {
+  font-family: times;
+  font-size: 20px;
+}
+
+.art-preview-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.art-preview-gallery .row {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  max-height: 250px;
+  gap: 20px;
+}
+
+.art-preview-gallery img {
+  max-width: 100%;
+  max-height: 100%;
+  height: 200px;
+}
+
+img {
+  border-radius: 8px;
+}
+
+.month-pics {
+  margin-bottom: 1em;
+}
+
+// TODO Increase image size on hover
+// TODO Indicate active page in header
+// TODO Indicate active month
+// TODO Make month list items nav anchors
+// TODO Art gallery view
+// TODO Blog gallery view
+// TODO Recipe gallery view
+// TODO Mobile responsive layout
+
+</style>
+<div class="container">
+  <div id="header-color"></div>
+  <div class="header">
+    <h2>LiamHz</h2>
     <nav>
       <a href="/index">Home</a>
       <a href="/art-home-school.html">Art</a>
@@ -39,7 +184,109 @@
       <a href="https://twitter.com/LiamHinzman" target="_blank">Twitter</a>
     </nav>
   </div>
+  <nav class="months-list">
+    <p class="year">2023
+    <p id="l-2023-02" class="nav-month active"><a href="#2023-02">Feb</a>
+    <p id="l-2023-01" class="nav-month"><a href="#2023-01">Jan</a>
+    <!--
+    <div style="height: 1em;"></div>
+    <p class="year">2022
+    <p id="l-2022-12" class="nav-month"><a href="#2022-12">Dec</a>
+    <p id="l-2022-11" class="nav-month"><a href="#2022-11">Nov</a>
+      -->
+  </nav>
 
+  <div class="timeline-container">
+    <div class="month-container" id="2023-02">
+      <!--<h2 class="mobile-only">February</h2>-->
+      <div class="col">
+  <p>
+  After 6 months and 350+ hours, I finally finished my art portfolio application for animation at Sheridan.
+
+  <p>
+  This is the hardest I've ever worked on a project. Many late nights, abused caffeine for the first time, and accidentally lost a few pounds.</p>
+
+  <p>
+  From my art teacher</br>
+  "If you need some last minute motivation, look at the drawings you made back when you started studying with me in October -- you're one of the most driven, hard working, and improved students I've ever worked with"
+
+        <div class="art-preview-gallery">
+          <div class="row">
+            <img src="img/art/2023-02/expressions.jpg">
+            <img src="img/art/2023-02/exterior_layout.jpg">
+          </div>
+          <div class="row">
+            <img src="img/art/2023-02/interior_layout.jpg">
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="month-pics">
+          <img src="img/month-pics/2023-02/collage.jpg" style="max-width: 100%; height: 16em"/>
+        </div>
+  <p>
+  Moved to NYC and spent a lot of time with new friends: board game nights, hosting dinners, writing clubs, and Sunday morning waffles. 
+
+  <p>
+  Slept on cardboard for a few nights at my new apartment.
+
+  <p>
+  Skrillex dropped two new 10/10 albums. Saw him, Fred Again, and Four Tet perform a surprise show out of a school bus in Times Square, and a 5-hour marathon DJ set at Madison Square Garden.
+
+  <p>
+  Also got into reading graphic novel memoirs. Their visual nature is great for very raw and personal stories. Favourites: My Lesbian Experience with Loneliness and The Best We Could Do.
+      </div>
+    </div>
+
+    <!--<h2 class="mobile-only">February</h2>-->
+    <div class="month-container" id="2023-01">
+      <div class="col">
+  <p>
+  January lorum ipsum
+
+  <p>
+  Foo bar
+
+  <p>
+  Testing
+
+  <p>
+  123
+
+  <p>
+  Content
+        <div class="art-preview-gallery">
+          <div class="row">
+            <img src="img/art/2023-02/expressions.jpg">
+            <img src="img/art/2023-02/exterior_layout.jpg">
+          </div>
+          <div class="row">
+            <img src="img/art/2023-02/interior_layout.jpg">
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="month-pics">
+          <img src="img/month-pics/2023-02/collage.jpg" style="max-width: 100%; height: 16em"/>
+        </div>
+  <p>
+  Filler
+
+  <p>
+  3.1415926535
+
+  <p>
+  Yuh
+
+  <p>
+  3.1415926535
+
+  <p>
+  Yuh
+      </div>
+    </div>
+  
+  <!--
   <div class="month-column">
     <div style="display: flex; flex-direction: row">
       <h1>November</h1>
@@ -186,28 +433,29 @@
       <img src="img/art-home-school/figure-drawing-1/collages/faves.jpeg" />
     </div>
   </div>
-  <!--
-  <div class="month-column">
-    <h1>April</h1>
-    <p>Art</p>
-    <ul>
-      <li>Placeholder text #1</li>
-      <li>Placeholder text #2</li>
-      <li>Placeholder text #3</li>
-    </ul>
-    <p>Fun</p>
-    <ul>
-      <li>Placeholder text #1</li>
-      <li>Placeholder text #2</li>
-      <li>Placeholder text #3</li>
-      <li>Placeholder text #4</li>
-    </ul>
-    <div>
-      <h2>Head Anatomy 1, 26 Hours</h2>
-      <img src="img/art-home-school/figure-drawing-1/collages/faves.jpeg" />
-    </div>
-  </div>
   -->
 </div>
+  <script>
+      const monthContainers = document.getElementsByClassName("month-container");
+
+      // On scroll, check which month container is in view
+      // Set the corresponding nav item to active
+      window.addEventListener('scroll', function(ev) {
+        // Check distance from viewport top of each month container
+        Array.from(monthContainers).forEach(e => {
+          const distTop = e.getBoundingClientRect().top;
+          if (distTop > 0 && distTop < window.innerHeight/2) {
+            // Unset active status from nav elements
+            const navMonths = document.getElementsByClassName("nav-month"); 
+            Array.from(navMonths).forEach(n => n.classList.remove("active"))
+
+            // Set active status
+            const activeMonth = e.getAttribute("id")
+            const activeNav = document.getElementById(`l-${activeMonth}`);
+            activeNav.classList.add("active")
+          }
+        })
+      });
+  </script>
 <script data-goatcounter="https://liamhinzman.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 </body>
