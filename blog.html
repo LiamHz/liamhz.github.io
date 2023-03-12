@@ -2,67 +2,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blog | LiamHz</title>
-    <link rel="stylesheet" href="/styles/main.css" type="text/css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
+  <title>Blog | LiamHz</title>
+  <link rel="stylesheet" href="/styles/main.css" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/66eea3422f.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
-    <div class="container">
-        <div class="grid-container">
-            <div class="column-left">
-                <nav class="card-navigation">
-                    <div class="nav-left-col">
-                      <div class="about active-card">
-                          <a href="/index.html">
-                              <img src="/img/cards/glitch-square.jpg"/>
-                              <div class="overlay"></div>
-                              <p>liam<sub>hz</sub></p>
-                          </a>
-                      </div>
-                    </div>
-                    <div class="nav-right-col">
-                      <div class="blog">
-                        <a href="/blog.html">
-                          <img src="/img/cards/asemic-danielle-go.png"/>
-                          <div class="overlay"></div>
-                          <p>blog</p>
-                        </a>
-                      </div>
-                      <!--
-                      <div class="cooking">
-                        <a href="/cooking.html">
-                          <img src="/img/cards/korean-beef-bowl.png"/>
-                          <div class="overlay"></div>
-                          <p>cooking</p>
-                        </a>
-                      </div>
-                    </div>
-                    -->
-                    <div class="art-home-school">
-                      <a href="/art-home-school.html">
-                        <img src="/img/cards/figures-gg-bridge.jpg"/>
-                        <div class="overlay"></div>
-                        <p>art home school</p>
-                      </a>
-                    </div>
-                    <!--
-                    <div class="work">
-                        <a href="/work.html">
-                            <img src="/img/cards/numerai-nftee.png"/>
-                            <div class="overlay"></div>
-                            <p>work</p>
-                        </a>
-                    </div>
-                    -->
-                </nav>
-            </div>
+<div class="grid-container">
+  <div id="header-color"></div>
+  <div class="header">
+    <h2 style="font-weight: normal">LiamHz</h2>
+    <nav>
+      <a href="/index.html">Home</a>
+      <a href="/art.html">Art</a>
+      <a href="/blog.html" class="active">Blog</a>
+      <a href="/cooking.html">Recipes</a>
+      <div class="socials">
+        <a href="https://twitter.com/LiamHinzman" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://instagram.com/LiamHinzman" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.goodreads.com/user/show/65412785-liam-hinzman" target="_blank"><i class="fab fa-goodreads"></i></a>
+      </div>
+    </nav>
+  </div>
+  <nav class="months-list">
+    <!--
+    <p class="year">2023
+    <p id="l-2023-02" class="nav-month active"><a href="#2023-02">Feb</a>
+    <p id="l-2023-01" class="nav-month"><a href="#2023-01">Jan</a>
+    <div style="height: 1em;"></div>
+    <p class="year">2022
+    <p id="l-2022-12" class="nav-month"><a href="#2022-12">Dec</a>
+    <p id="l-2022-11" class="nav-month"><a href="#2022-11">Nov</a>
+    -->
+  </nav>
 
-            <div class="content column-right">
-<div class='blog card-navigation'>
-
+  <div class="timeline-container blog-list">
+    <div class="col">
 <ul>
 <li><a href="/blog/quotes-from-starting-point">My favorite Hayao Miyazaki quotes from Starting Point</a></li>
 <li><a href="/blog/2022-recap">Spotify Wrapped 2022 except it's about me
@@ -86,10 +64,9 @@ Communities</a></li>
 <li><a href="/blog/vulkan-fundamentals">Why Rendering a Triangle is
 Complicated</a></li>
 </ul>
-</div>
-            </div>
-        </div>
     </div>
+  </div>
+</div>
     <script data-goatcounter="https://liamhinzman.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
 </body>
