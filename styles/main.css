@@ -7,15 +7,46 @@ html {
 body {
   margin: 0;
   overscroll-behavior-y: none;
+  font-size: 18px;
+  font-family: "spectral", serif;
 }
 
-.container {
+/*
+body {
+  font-family: times;
+  font-size: 20px;
+}
+*/
+
+.grid-container {
   width: 85%;
   display: grid;
   row-gap: 4em;
   column-gap: 4ch;
-  grid-template-columns: 4ch 50ch 70ch;
+  grid-template-columns: 4ch 55ch 75ch;
   margin: auto;
+}
+
+.timeline-container.cooking {
+  display: grid;
+  margin-top: 6em;
+  grid-template-columns: repeat(4, 20ch);
+}
+
+.timeline-container.cooking img {
+  object-fit: cover;
+  width: 20ch;
+  height: 20ch;
+  object-position: center;
+}
+
+.timeline-container.cooking p {
+  margin-block-end: 0;
+}
+
+.header.cooking {
+  grid-column-start: 1;
+  grid-row-start: 1;
 }
 
 .header {
@@ -30,6 +61,11 @@ body {
   margin-bottom: -4em;
   position: sticky;
   top: 0;
+}
+
+.header h2 {
+  margin: auto 0;
+  font-weight: normal;
 }
 
 #header-color {
@@ -79,7 +115,7 @@ nav.months-list {
 }
 
 nav.months-list p {
-  margin: 0.2ch;
+  margin: 0;
   text-align: right;
 }
 
@@ -121,23 +157,22 @@ p {
   max-width: 50ch;
 }
 
-.month-container a {
+.timeline-container.cooking a {
+  color: black;
+}
+
+.timeline-container a {
   text-decoration: none;
   color: #007bff;
 }
 
 .month-container .col:nth-child(1)  {
-  width: 50ch;
+  width: 55ch;
 }
 
 .month-container .col:nth-child(2)  {
-  width: 70ch;
+  width: 75ch;
   align-self: center;
-}
-
-body {
-  font-family: times;
-  font-size: 20px;
 }
 
 .gallery {
@@ -192,13 +227,69 @@ img {
   height: 14em;
 }
 
-// TODO Increase image size on hover
-// TODO Indicate active page in header
-// TODO Indicate active month
-// TODO Make month list items nav anchors
-// TODO Art gallery view
-// TODO Blog gallery view
-// TODO Recipe gallery view
-// TODO Mobile responsive layout
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
 
-</style>
+.blog-list ul {
+  margin-block-start: 0;
+  padding-inline-start: 0;
+  list-style-type: none;
+}
+
+ol {
+  margin-block-start: 0;
+}
+
+/* Hide nav in old recipe and blog pages */
+.card-navigation {
+  display: none;
+}
+
+/* .container.grid-container only selects old recipe and blog posts */
+.container .grid-container {
+  display: block;
+  width: 60ch;
+  font-size: 20px;
+}
+
+.content img {
+    max-height: 26rem;
+    max-width: 100%;
+    height: 100%;
+    width: auto;
+    display: block;
+    object-fit: contain;
+    /*margin: 1rem auto;*/
+    margin: 0;
+}
+
+h1 {
+  font-size: 1.6em
+}
+
+h2 {
+  font-size: 1.4em
+}
+
+h1, h2 {
+  margin-bottom: 0;
+  line-height: 1.2em;
+}
+
+p, ol, ul, li, summary, blockquote {
+  font-size: 1em;
+  line-height: 1.3em;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+// TODO Increase image size on hover
+// TODO Blog gallery view
+// TODO Mobile responsive layout
