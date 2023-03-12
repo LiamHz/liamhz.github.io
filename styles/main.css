@@ -98,6 +98,10 @@ p + ul, p + ol {
   color: black;
 }
 
+.header nav a:hover {
+  color: black;
+}
+
 .header nav .socials {
   display: flex;
   justify-content: space-between;
@@ -131,6 +135,10 @@ nav.months-list .nav-month a {
 
 nav.months-list .active a {
   color: rgba(0, 0, 0, 1);
+}
+
+nav.months-list .nav-month a:hover {
+  color: black;
 }
 
 nav.months-list .year {
