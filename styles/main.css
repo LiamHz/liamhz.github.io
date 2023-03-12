@@ -1,347 +1,204 @@
+/* Compensate for sticky header wrt anchor links */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5em;
+}
+
 body {
-    margin: 0;
-    font-size: 18px;
-    font-family: "spectral", serif;
+  margin: 0;
+  overscroll-behavior-y: none;
 }
 
-body > div.container {
-    padding: 4em;
-    width: 100%;
-    box-sizing: border-box;
+.container {
+  width: 85%;
+  display: grid;
+  row-gap: 4em;
+  column-gap: 4ch;
+  grid-template-columns: 4ch 50ch 70ch;
+  margin: auto;
 }
 
-.grid-container {
-    /*display: grid;*/
-    display: block;
-    grid-gap: 8em;
-    grid-template-columns: min-content 65ch;
-    width: 65ch;
-    margin: auto;
-    background-color: #ffff;
-    color: #000;
+.header {
+  grid-column-start: 2;
+  grid-row-start: 1;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: -4em;
+  position: sticky;
+  top: 0;
 }
 
-nav.card-navigation {
-    display: grid;
-    grid-gap: 1em;
-    grid-template-columns: 8.5em 8.5em;
-    width: 100%;
-    background-color: #ffff;
-    color: #000;
-    margin-bottom: 0.8em;
+#header-color {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4em;
+  background-image: linear-gradient(
+      to bottom,
+      white 90%,
+      rgba(255, 255, 255, 0)
+  );
 }
 
-.column-right {
-  max-width: 65ch;
+.header nav {
+  display: flex;
+  flex-direction: row;
+  gap: 3ch;
+}
+
+.header nav a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.header nav a.active {
+  text-decoration: none;
+  color: black;
+}
+
+.header nav .socials {
+  display: flex;
+  justify-content: space-between;
+  width: 70px;
+}
+
+nav.months-list {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  position: sticky;
+  top: 4.2em;
+  align-self: start;
+}
+
+nav.months-list p {
+  margin: 0.2ch;
+  text-align: right;
+}
+
+nav.months-list a {
+  text-decoration: none;
+  color: black;
+}
+
+nav.months-list .nav-month a {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+nav.months-list .active a {
+  color: rgba(0, 0, 0, 1);
+}
+
+nav.months-list .year {
+  color: rgba(0, 0, 0, 0.5);
 }
 
 p {
-  margin-top: 0;
+  margin-block-start: 0;
 }
 
-h1 {
-  font-size: 1.6em;
+.timeline-container {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
 }
 
-h2 {
-  font-size: 1.4em;
+.month-container {
+  display: flex;
+  flex-direction: row;
+  gap: 5ch;
+  margin-bottom: 4em;
 }
 
-h1 + p, h1 + div > p > img, h2 + p {
-    margin-top: 0.5em !important;
+.month-container p {
+  max-width: 50ch;
 }
 
-h1, h2 {
-    margin-bottom: 0;
-    line-height: 1.2em;
+.month-container a {
+  text-decoration: none;
+  color: #007bff;
 }
 
-.content img {
-    max-height: 26rem;
-    max-width: 100%;
-    height: 100%;
-    width: auto;
-    display: block;
-    object-fit: contain;
-    /*margin: 1rem auto;*/
-    margin: 0;
+.month-container .col:nth-child(1)  {
+  width: 50ch;
 }
 
-.recipe-image img {
-    /*margin-left: 0;*/
-    /*margin-top: 0;*/
-    /*margin-bottom: 1em;*/
-    margin: 1em 0;
+.month-container .col:nth-child(2)  {
+  width: 70ch;
+  align-self: center;
 }
 
-.cooking.card-navigation > div img {
-    margin: 0
+body {
+  font-family: times;
+  font-size: 20px;
 }
 
-.card-navigation > div, .cooking.card-navigation > div {
-    position: relative;
-    height: 4em;
-    width: fit-content;
-    text-align: center;
-    z-index: 2;
-    margin: 0;
-    cursor: pointer;
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
-.cooking.card-navigation > div {
-    margin-bottom: 1em;
+.gallery .row {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  max-height: 180px;
+  gap: 20px;
+  overflow: hidden;
 }
 
-.card-navigation > div.nav-left-col {
-  height: 8.5em;
-}
-
-.card-navigation > div.nav-right-col > div {
-  height: 4em;
-}
-
-.card-navigation > div.nav-right-col {
-  height: fit-content;
-}
-
-.cooking.card-navigation > div {
-    height: fit-content;
-}
-
-.cooking.card-navigation > div p {
-    background-color: rgba(0, 0, 0, 0.3);
-}
-
-.cooking.card-navigation div.overlay {
-    height: 20%;
-}
-
-nav img {
-    height: 4em;
-}
-
-nav div.nav-left-col img {
-    height: 8.5em;
-}
-
-.card-navigation div.overlay {
-    position: absolute;
-    bottom: 0;
-    height: 2em;
-    width: 100%;
-
-    background: black;
-    opacity: 0.3;
-    z-index: 2;
-}
-
-.card-navigation p {
-    position: absolute;
-    padding: 0.5em 0;
-    bottom: 0em;
-    width: 100%;
-    margin: 0;
-
-    font-size: 1em;
-    color: white;
-    z-index: 3;
-}
-
-p + ul {
-    margin-top: -1em !important;
-}
-
-.content p:first-child {
-    margin-top: 0;
-}
-
-.about p {
-    /*white-space: pre;*/
-}
-
-h1 {
-    margin-top: 0;
-}
-
-ul {
-    margin-top: 0;
-    margin-bottom: 1em;
-    margin-inline-start: -0.5em;
-}
-
-.image-gallery {
-    display: grid;
-    grid-template-columns: 100%;
-}
-
-.image-gallery img {
-    object-fit: cover;
-    width: 100%;
-    height: 15rem;
-}
-
-/* Desktop specific */
-@media only screen and (min-width: 768px) {
-    .image-gallery {
-        display: grid;
-        column-gap: 5%;
-        grid-template-columns: 30% 30% 30%;
-    }
-
-    .image-gallery img {
-        object-fit: cover;
-        width: 100%;
-        max-height: 15rem;
-    }
-
-    p, ol, ul, li, summary {
-        font-size: 1em;
-        line-height: 1.3em;
-    }
-}
-
-.content a {
-    text-decoration: none;
-    color: #007bff;
-    /*
-    background-color: #d0e7f5;
-    color: black;
-    */
-}
-
-nav p {
-    line-height: 1em;
-}
-
-#map {
-    width: 100%;
-    height: 60em !important;
-}
-
-.mapbox-logo, .mapboxgl-ctrl-logo {
-    display: none !important;
-}
-
-/* image captions */
-img + em,
-img + em + br + em,
-img + em + br + em + br + em,
-video + em
-{
-  font-size: 0.9em;
-}
-
-div.update-grid {
-  display: grid;
-  grid-gap: 0 2em;
-  grid-template-columns: 48% 48%;
-}
-
-div.update-grid img, div.update-grid video {
+.gallery img {
   max-width: 100%;
   max-height: 100%;
-  width: auto;
-  height: auto;
-}
-
-/* mobile specific */
-@media only screen and (max-device-width: 768px) {
-  .grid-container, div.update-grid {
-      display: inline;
-  }
-
-  nav {
-      display: grid;
-      grid-template-columns: 50% 50%;
-      margin-bottom: 1em;
-  }
-
-  nav > div {
-      margin-bottom: 0.5em !important;
-  }
-
-  body > div.container {
-    padding: 0.5em;
-  }
-}
-
-.nav-right-col > div.blog {
-  margin-bottom: 0.5em;
-}
-
-.nav-right-col > div {
-  position: relative;
-}
-
-div.content div.about {
-  background-image: url("/img/glitch-totoro.png");
-  background-position: right bottom;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
-@media only screen and (max-device-width: 768px) {
-  div.content div.about {
-    padding-bottom: 8em;
-  }
-}
-
-sub {
-  vertical-align: baseline;
-  position: relative;
-  top: 0.4em;
-}
-
-/* art home school */
-.ahs-description {
-  width: 100%;
-}
-
-.ahs-pics > p {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  justify-content: center;
-}
-
-.ahs-pics img {
+  height: 180px;
   object-fit: contain;
-  max-height: 20em;
-  margin: auto
+  object-position: left top;
 }
 
-img.x-large {
-  object-fit: contain;
-  max-height: 24em;
-  height: 24em;
-  margin: auto
+.gallery .row.tall {
+  max-height: 220px;
 }
 
-.ahs-update h2 {
-  margin-bottom: 0;
-  font-size: 1.2em;
+.gallery .tall img {
+  height: 220px;
 }
 
-.ahs-pics > p {
-  display: grid;
-  /*grid-template-columns: 50% 50%;*/
-  grid-template-columns: 100%;
+.gallery .row.med {
+  max-height: 200px;
 }
 
-.logs-container > h1, h2 {
-    margin-block-start: 0;
+.gallery .med img {
+  height: 200px;
 }
 
-
-@media only screen and (max-device-width: 768px) {
-  .ahs-pics > p {
-    display: block;
-  }
+img {
+  border-radius: 8px;
 }
 
-blockquote {
-  background: #f9f9f9;
-  border-left: 5px solid #ccc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+.month-pics {
+  margin-bottom: 1em;
 }
+
+.month-pics img {
+  max-width: 100%;
+  height: 14em;
+}
+
+// TODO Increase image size on hover
+// TODO Indicate active page in header
+// TODO Indicate active month
+// TODO Make month list items nav anchors
+// TODO Art gallery view
+// TODO Blog gallery view
+// TODO Recipe gallery view
+// TODO Mobile responsive layout
+
+</style>
