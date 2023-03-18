@@ -170,6 +170,10 @@ p {
   max-width: 50ch;
 }
 
+.art-faves .section-container {
+  margin-bottom: 0;
+}
+
 .timeline-container.cooking a {
   color: black;
 }
@@ -192,24 +196,6 @@ a {
   display: flex;
   flex-direction: column;
   gap: 20px;
-}
-
-.art-faves .timeline-container h2,
-.art-faves .timeline-container h1 {
-  margin-block-start: 0;
-}
-
-.art-faves .timeline-container p {
-  max-width: 70ch;
-}
-
-.art-faves .gallery {
-  flex-direction: row;
-}
-
-.art-faves .gallery .col {
-  width: 33% !important;
-  align-self: auto !important;
 }
 
 .gallery .row {
@@ -237,6 +223,36 @@ a {
   object-position: left top;
 }
 
+.art-faves .timeline-container h3,
+.art-faves .timeline-container h2,
+.art-faves .timeline-container h1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.art-faves .section-container + h2,
+.art-faves .section-container + h1 {
+  margin-block-start: 1em;
+}
+
+.art-faves .timeline-container p {
+  max-width: 70ch;
+}
+
+.art-faves .gallery {
+  flex-direction: row;
+}
+
+.art-faves .gallery div.col {
+  width: 33%;
+  align-self: auto;
+}
+
+.art-faves .gallery.narrow div.col {
+  width: 25%;
+  align-self: auto;
+}
+
 .gallery .row.tall {
   max-height: 220px;
 }
@@ -251,6 +267,12 @@ a {
 
 .gallery .med img {
   height: 200px;
+}
+
+.gallery.no-margin img {
+  margin: 0;
+  border-radius: 0;
+  display: block;
 }
 
 img {
@@ -367,7 +389,7 @@ ul {
     margin-bottom: 1em;
   }
 
-  .section-container .col {
+  .section-container div.col {
     width: 100% !important;
   }
 
@@ -399,10 +421,10 @@ ul {
 
   .gallery img {
     display: block;
-    width: 100%;
+    width: 100% !important;
     height: auto;
     max-height: 400px;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
 
   .mobile-only {
