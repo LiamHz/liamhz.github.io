@@ -28,21 +28,8 @@
       </div>
     </nav>
   </div>
-  <nav class="list" style="visibility: hidden;">
-    <p class="year">2023
-    <p id="l-2023-06" class="nav-item active"><a href="#2023-06">Jun</a>
-    <p id="l-2023-05" class="nav-item"><a href="#2023-05">May</a>
-    <p id="l-2023-04" class="nav-item"><a href="#2023-04">Apr</a>
-    <p id="l-2023-03" class="nav-item"><a href="#2023-03">Mar</a>
-    <p id="l-2023-02" class="nav-item"><a href="#2023-02">Feb</a>
-    <p id="l-2023-01" class="nav-item"><a href="#2023-01">Jan</a>
-    <div style="height: 1em;"></div>
-    <p class="year">2022
-    <p id="l-2022-12" class="nav-item"><a href="#2022-12">Dec</a>
-    <p id="l-2022-11" class="nav-item"><a href="#2022-11">Nov</a>
-  </nav>
 
-  <div id="homepage-main">
+  <div id="homepage-container">
     <div id="homepage-grid">
       <div id="past">
         <h2>Past</h2>
@@ -52,7 +39,7 @@
           I left my job to become an art student.
         </p>
         <p>
-          Why? People in the western world live in material abundance, but are oftentimes spirituallv impoverished.
+          Why? People in the western world live in material abundance, but are oftentimes spiritually impoverished.
           One reliable wav to give others the courage to radically improve their lives is to show them inspiring narratives.
         </p>
         <p>
@@ -63,7 +50,7 @@
       <div id="now">
         <h2>Now</h2>
         <p>
-          I'm taking a few art classes
+          Taking some art classes
           <ul>
             <li>Anatomy and Rendering with TB Choi</li>
             <li>Foundation Sketching with Charles Lin</li>
@@ -71,68 +58,171 @@
           </ul>
         </p>
         <p>
-          Some of the pieces I'm learning on piano
+          Practicing some pieces on the piano
           <ul>
-            <li>Isn't She Lovelv (Jazz Arr.), Stevie Wonder</li>
+            <li>Isn't She Lovely (Jazz Arr.), Stevie Wonder</li>
             <li>I'll Make a Man Out of You (Mulan), John Wilder</li>
             <li>Ceilings, Lizzy McAlpine</li>
-            <li>Ylang Ylang, FKJ</li>
           </ul>
         </p>
         <p>
-          I'm also learning how to write screenplays, animate in 3D with Blender, and take photos.
+          And learning photography and screenplay writing
         </p>
-        <p>
-          I've been greatly influenced bv mv past lives where I
+        <!-- <p>
+          I've been greatly influenced bv my past lives where I
           <ul>
             <li>Competed at Canadian nationals for the board game Go</li>
             <li>Lived in a mansion in New Mexico with 25 people</li>
             <li>Fell in love with triangles and built rendering engines</li>
             <li>Worked at Numerai, an Al hedge fund startup</li>
           </ul>
-        </p>
+        </p> -->
       </div>
       <div id="artwork">
-        <!-- TODO -->
+        <h2>Artwork</h2>
+        <div id="artwork-gallery">
+          <!-- TODO CSS Grid layout -->
+          <img id="display-img" src="img/art/2023-06/tbchoi-running-figure.jpg">
+          <div id="img-grid">
+            <!-- TODO Sizing based on order -->
+            <!-- Medium -->
+            <img src="img/art/2023-06/tbchoi-hands.jpg">
+            <img src="img/art/2023-06/fnd-fish.jpg">
+            <img src="img/art/2023-01/blender-room.jpg">
+            <!-- Small -->
+            <div id="img-grid-small">
+              <img src="img/art/2023-06/tbchoi-heads.jpg">
+              <img src="img/art/2023-02/expressions.jpg">
+              <img src="img/art/2023-02/character-lineup.jpg">
+              <img class="active" src="img/art/2023-06/tbchoi-running-figure.jpg">
+            </div>
+          </div>
+        </div>
       </div>
       <div id="influences">
-        <ul>
-          <li>Books</li>
-          <li>Movies</li>
-          <li>Friends</li>
-          <li>Artists</li>
-        </ul>
-        <div class="books">
-          <li>Norwegian Wood</li>
-          <li>A Little Life</li>
-          <li>Words Without Music</li>
-          <li>The Art of Learning</li>
-        </div>
-        <div class="movies">
-          <ul>
-            <li>EEAAO</li>
-            <li>Before Sunrise</li>
-            <li>Past Lives</li>
-          </ul>
-        </div>
-        <div class="friends">
-          <ul>
-            <li>Anson Yu</li>
-            <li>Kaz Islam</li>
-            <li>Richard Craib</li>
-            <li>Brunella Tipismana</li>
-          </ul>
-        </div>
-        <div class="artists">
-          <ul>
-            <li>Rembert Montald</li>
-            <li>Denver Jackson</li>
-            <li>Hayao Miyazaki</li>
-            <li>Makoto Shinkai</li>
-          </ul>
+        <h2>Influences</h2>
+        <nav>
+          <a onclick="changeInfluenceContent('books')" class="influence-nav-item books active">Books</a>
+          <a onclick="changeInfluenceContent('movies')" class="influence-nav-item movies">Movies</a>
+          <a onclick="changeInfluenceContent('friends')" class="influence-nav-item friends">Friends</a>
+          <a onclick="changeInfluenceContent('artists')" class="influence-nav-item artists">Artists</a>
+        </nav>
+        <div id="influences-content">
+          <div id="books" class="active-influence-content">
+            <details>
+              <summary>Norwegian Wood</summary>
+              <blockquote>
+                A book about all the ways a relationship can be broken and beautiful, and how a man tries to move on from heartbreak.
+                <br/><br/>I read this after my first relationship ended after two years. Shortly after I had a few opportunities to have casual sex with people, but I passed on all of them, fearing that it'd feel empty without loving the other person. I don't want to treat people like a game that I solve for sex.
+                <br/><br/>"I know that's what people say - you'll get over it. I'd say it, too. But I know it's not true. Oh, you'll be happy again, never fear. But you won't forget. Every time you fall in love it will be because something in the person reminds you of them."
+              </blockquote>
+            </details>
+            <details>
+              <summary>A Little Life</summary>
+              <blockquote>
+                A Little Life is a book about four friends: their lives, ambitions and trauma. It follows them over the course of several decades, exploring how beautiful, wretched, and wonderful life and its relationships are.
+                <br/><br/>All of the characters felt incredibly real, and because of this it was the first book that made me cry. It's an example of the tupe of art that I want to spend my life creating.
+              </blockquote>
+            </details>
+            <details>
+              <summary>Words Without Music</summary>
+              <blockquote>
+                Phillip Glass worked day jobs for 21 years before being able to make a living off music.
+                Despite this, composing was his driving goal and identity the whole time, and he never compromised on his creative vision by writing anything like ad jingles.
+
+                <br/><br/>
+                At some point I realized that I want to make my own films. This gave an immense amount of clarity, but also a huge mountain to climb: knowing that I'll have to learn how to wrtie fiction, and become proficient in the language of visual storytelling.
+              </blockquote>
+            </details>
+            <details>
+              <summary>The Art of Learning</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+          </div>
+          <div id="movies">
+            <details>
+              <summary>EEAAO</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Before Sunrise</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Past Lives</summary>
+              <blockquote>
+                Last year I had my heart broken. This film's final act is the first time I’ve felt anything like closure
+
+                <br/><br/>
+                There's one scene where the husband feels insecure with his wife hanging out with her childhood sweetheart.
+                He says to her "You and him make such a good story. And in that story I'm the big bad white husband standing between you and destiny”.
+                Almost breaking the fourth wall and saying that in a lesser film they'd devolve into fighting, or she'd end up with the guy.
+                But instead the director (it's her first film, and based on her life) navigates this whole love triangle so delicately, and in such a real and mature way
+              </blockquote>
+            </details>
+          </div>
+          <div id="friends">
+            <details>
+              <summary>Anson Yu</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Kaz Islam</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Richard Craib</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Brunella Tipismana</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+          </div>
+          <div id="artists">
+            <details>
+              <summary>Rembert Montald</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Denver Jackson</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Hayao Miyazaki</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+            <details>
+              <summary>Makoto Shinkai</summary>
+              <blockquote>
+                Some text about why it's cool
+              </blockquote>
+            </details>
+          </div>
         </div>
       </div>
     </div>
   </div>
+<script src="scripts/homepage.js"></script>
 <script data-goatcounter="https://liamhinzman.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 </body>

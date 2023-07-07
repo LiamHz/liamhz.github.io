@@ -86,22 +86,26 @@ p + ul, p + ol {
   );
 }
 
+#influences nav,
 .header nav {
   display: flex;
   flex-direction: row;
   gap: 3ch;
 }
 
+#influences nav a,
 .header nav a {
   text-decoration: none;
   color: rgba(0, 0, 0, 0.3);
 }
 
+#influences nav a.active,
 .header nav a.active {
   text-decoration: none;
   color: black;
 }
 
+#influences nav a:hover,
 .header nav a:hover {
   color: black;
 }
@@ -153,10 +157,105 @@ p {
   margin-block-start: 0;
 }
 
-.timeline-container {
+.timeline-container,
+#homepage-container
+{
   grid-column-start: 2;
   grid-column-end: 4;
   grid-row-start: 2;
+}
+
+#homepage-container h2 {
+  margin-block-start: 0;
+}
+
+#homepage-grid {
+  display: grid;
+  grid-template-columns: 55ch 60ch;
+  grid-template-rows: max-content;
+  grid-column-gap: 4ch
+}
+
+#past {
+  grid-column-start: 1;
+  grid-row-start: 1;
+}
+
+#now {
+  grid-column-start: 1;
+  grid-row-start: 2;
+}
+
+#artwork {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  display: grid
+}
+
+#influences {
+  grid-column-start: 2;
+  grid-row-start: 2;
+}
+
+#artwork-gallery {
+  display: flex;
+  /* grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr); */
+}
+
+#artwork img {
+  height: 100% !important;
+  width: auto !important;
+  aspect-ratio: 1;
+  border-radius: 0;
+  object-fit: cover;
+}
+
+#artwork #display-img {
+  height: 14em !important;
+  width: 14em !important;
+}
+
+#artwork #img-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 7em);
+  grid-template-rows: repeat(2, 7em);
+  grid-gap: 0;
+}
+
+#artwork #img-grid-small {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+#artwork #img-grid-small img{
+  height: 3em !important;
+  width: 3em !important;
+}
+
+#artwork img.active {
+  opacity: 20%;
+}
+
+#influences-content {
+  margin-top: 0.5em
+}
+
+#influences-content div {
+  display: none
+}
+
+#influences-content div.active-influence-content {
+  display: block;
+}
+
+#influences-content ul {
+  list-style-type: disc;
+}
+
+#influences blockquote {
+  margin: 0;
 }
 
 .section-container {
@@ -451,6 +550,5 @@ ul {
   }
 }
 
-// TODO Increase image size on hover
-// TODO Blog gallery view
 
+/* New homepage */
