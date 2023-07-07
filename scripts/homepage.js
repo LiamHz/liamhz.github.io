@@ -28,13 +28,12 @@ const changeInfluenceContent = contentId => {
 const displayImage = document.getElementById("display-img")
 
 document.addEventListener('mouseover', e => changeActiveImage(e))
-// document.addEventListener('mousedown', e => changeActiveImage(e))
 
 const changeActiveImage = e => {
   const target = e.target;
 
   // Check if the target is an image element
-  if (target.tagName.toLowerCase() === 'img') {
+  if (target.tagName.toLowerCase() === 'img' && target.id !== "display-img") {
     displayImage.src = target.src;
 
     prevActiveThumbnail = document.querySelector("#img-grid img.active")
