@@ -90,7 +90,7 @@ p + ul, p + ol {
 .header nav {
   display: flex;
   flex-direction: row;
-  gap: 3ch;
+  gap: 2ch;
 }
 
 #influences nav a,
