@@ -471,6 +471,38 @@ ul {
     padding: 0.5em;
   }
 
+  #homepage-grid {
+    display: block;
+  }
+
+  #artwork-gallery {
+    flex-direction: column;
+    margin-bottom: 1em;
+  }
+
+  #artwork img,
+  #artwork #img-grid-small img{
+    height: auto !important;
+    width: 100% !important;
+  }
+
+  #artwork #display-img {
+    height: auto !important;
+    width: 100% !important;
+  }
+
+  #artwork #img-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 7em);
+    grid-gap: 0;
+  }
+
+
+  #artwork #img-grid-small {
+    display: contents;
+  }
+
   .container .grid-container {
     width: auto;
   }
@@ -522,6 +554,10 @@ ul {
     margin-bottom: 1em;
   }
 
+  .desktop-only {
+    display: none;
+  }
+
   .mobile-only {
     display: inherit;
   }
@@ -545,6 +581,3 @@ ul {
     max-height: 200px;
   }
 }
-
-
-/* New homepage */
