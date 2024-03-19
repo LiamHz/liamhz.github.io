@@ -1,17 +1,21 @@
 ---
-title: Butterless Butter Chicken
----
+title: "Butterless Butter Chicken"
+author: "Liam Hinzman"
+date: "2020-07-22"
+url: "butterless-butter-chicken"
+img: "img/cooking/butterless-butter-chicken.jpg"
+...
 
-# Butterless Butter Chicken
 <div class="recipe-image">
-
 ![](../img/cooking/butterless-butter-chicken.jpg)
 </div>
 
 A surprisingly easy butter chicken recipe (without butter!) as taught to me by my friend's Pakistani mom.
 
+Several of my college friends have said that this is the best chicken dish they've ever had.
+
 ## Ingredients
-_For 6 servings_ \
+_For 6 servings_\
 _See "Notes" section for items with a \*_
 
 - 2 pounds of chicken
@@ -38,6 +42,5 @@ Butter chicken spice mix can be find at almost every Indian grocery and convenie
 It'll look something like this.
 
 <div class="recipe-image">
-
 ![](../img/cooking/butter-chicken-spice-mix.jpg)
 </div>

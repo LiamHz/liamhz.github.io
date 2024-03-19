@@ -1,11 +1,12 @@
 ---
-title: Mom's Spaghetti
----
-
-# Mom's Spaghetti
+title: "Mom's Spaghetti"
+author: "Liam Hinzman"
+date: "2020-05-20"
+url: "moms-spaghetti"
+img: "img/cooking/moms-spaghetti.jpg"
+...
 
 <div class="recipe-image">
-
 ![](../img/cooking/moms-spaghetti.jpg)
 </div>
 

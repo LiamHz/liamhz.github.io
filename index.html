@@ -1,257 +1,127 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Home | LiamHz</title>
-  <link rel="stylesheet" href="styles/main.css" type="text/css" />
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/66eea3422f.js" crossorigin="anonymous"></script>
+    <title>Liam Hinzman</title>
+    <link rel="stylesheet" href="styles/index.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:ital,wght@0,400;0,600;1,400;1,700&display=swap" rel="stylesheet">
 </head>
 
 <body>
-<div class="grid-container">
-  <div id="header-color"></div>
-  <div class="header">
-    <h2>LiamHz</h2>
-    <nav>
-      <a href="/index.html" class="active">Home</a>
-      <a href="/updates.html">Updates</a>
-      <a href="/blog.html">Blog</a>
-      <a href="/cooking.html">Recipes</a>
-      <!-- <a href="/faves/art.html">Faves</a> -->
-      <div class="socials">
-        <a href="https://twitter.com/LiamHinzman" target="_blank"><i class="fab fa-twitter"></i></a>
-        <a href="https://instagram.com/LiamHinzman" target="_blank"><i class="fab fa-instagram"></i></a>
-        <a href="https://www.goodreads.com/user/show/65412785-liam-hinzman" target="_blank"><i class="fab fa-goodreads"></i></a>
-      </div>
-    </nav>
-  </div>
-
-  <div id="homepage-container">
-    <div id="homepage-grid">
-      <div id="past">
-        <h2>Past</h2>
-        <p>
-          From 2016 to 2022 I worked in software engineering and AI.
-          After realizing that I wanted to craft stories instead of tools,
-          I left my job to become an art student.
-        </p>
-        <p>
-          Why? People in the western world live in material abundance, but many are spiritually impoverished.
-          One reliable wav to give others the courage to radically improve their lives is to show them inspiring narratives.
-        </p>
-        <p>
-          I want to spend my life creating films that give people the courage needed
-          to ask out the cute girl they have a crush on and other similarly important life decisions.
-        </p>
-      </div>
-      <div id="now">
-        <h2>Present</h2>
-        <p>
-          Taking some art classes
-          <ul>
-            <li>Advanced Storyboarding with Andy Cung</li>
-            <li>Storyboard Mechanics with David Colman</li>
-            <li>Backgrounds for Animation with ModernDayJames</li>
-          </ul>
-        </p>
-        <p>
-          Practicing some pieces on the piano
-          <ul>
-            <li>Falling Behind, Laufey</li>
-            <li>Intermezzo Op 118 No 2, Brahms</li>
-            <li>How to Train Your Dragon - Main Theme, John Powell</li>
-          </ul>
-        </p>
-        <!--
-        <p>
-          And learning photography and screenplay writing
-        </p>
-        <p>
-          I've been greatly influenced bv my past lives where I
-          <ul>
-            <li>Competed at Canadian nationals for the board game Go</li>
-            <li>Lived in a mansion in New Mexico with 25 people</li>
-            <li>Fell in love with triangles and built rendering engines</li>
-            <li>Worked at Numerai, an Al hedge fund startup</li>
-          </ul>
-        </p> -->
-      </div>
-      <div id="artwork">
-        <h2>Artwork</h2>
-        <div id="artwork-gallery">
-          <!-- TODO CSS Grid layout -->
-          <img id="display-img" src="img/art/2023-06/tbchoi-running-figure.jpg">
-          <div id="img-grid">
-            <!-- TODO Sizing based on order -->
-            <!-- Medium -->
-            <img src="img/art/2023-09/clothed-figures.jpg">
-            <img src="img/art/2023-09/stylized-figures.jpg">
-            <img src="img/art/2023-10/rat-chase-storyboards.jpg">
-            <!-- Small -->
-            <div id="img-grid-small">
-              <img src="img/art/2023-06/tbchoi-hands.jpg">
-              <img src="img/art/2023-02/expressions.jpg">
-              <img class="desktop-only" src="img/art/2023-02/character-lineup.jpg">
-              <img class="active" src="img/art/2023-06/tbchoi-running-figure.jpg">
-            </div>
-          </div>
-        </div>
-      </div>
-      <div id="influences">
-        <h2>Influences</h2>
+    <div class="grid-container">
         <nav>
-          <a onclick="changeInfluenceContent('books')" class="influence-nav-item books active">Books</a>
-          <a onclick="changeInfluenceContent('movies')" class="influence-nav-item movies">Movies</a>
-          <!-- <a onclick="changeInfluenceContent('friends')" class="influence-nav-item friends">Friends</a> -->
-          <a onclick="changeInfluenceContent('artists')" class="influence-nav-item artists">Artists</a>
+            <ul>
+                <!-- <li><a href=index.html>Home</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="cooking.html">Cooking</a></li>
+                <li><a href="updates.html">Updates</a></li> -->
+            </ul>
         </nav>
-        <div id="influences-content">
-          <div id="books" class="active-influence-content">
-            <details>
-              <summary>Norwegian Wood</summary>
-              <blockquote>
-                <!-- A book about all the ways a relationship can be broken and beautiful, and how a man tries to move on from heartbreak. -->
-                <!-- <br/><br/> -->
-                I read this after my first relationship ended after two years. Shortly after I had a few chances to have casual sex with people, but I passed on all of them, fearing that it'd feel empty without love. I don't want to treat people like a game that I solve for sex.
-                <br/><br/>
-                "I know that's what people say - you'll get over it. I'd say it, too. But I know it's not true. Oh, you'll be happy again, never fear. But you won't forget. Every time you fall in love it will be because something in the person reminds you of them."
-              </blockquote>
-            </details>
-            <details>
-              <summary>A Little Life</summary>
-              <blockquote>
-                A Little Life is a book about four friends: their lives, ambitions and trauma. It follows them over the course of several decades, exploring how beautiful, wretched, and wonderful life and its relationships are.
-                <br/><br/>
-                The characters felt incredibly real, and because of this when tradgedy occurred, it was the first book that made me cry. It's emblematic of the type of stories I want to tell.
-              </blockquote>
-            </details>
-            <details open>
-              <summary>Words Without Music</summary>
-              <blockquote>
-                Phillip Glass worked odd jobs for 21 years in NYC while supporting a family before being able to make a living off music.
-                Despite this, composing was his driving goal and identity the whole time, and he never compromised on his creative vision.
 
-                <br/><br/>
-                The example of his persistence over decades to achieve his creative goals made me realize that I want to make my own films, and that I just need to full send it.
-              </blockquote>
-            </details>
-            <!-- <details>
-              <summary>The Art of Learning</summary>
-              <blockquote>
-                Some text about why it's cool
-              </blockquote>
-            </details> -->
-          </div>
-          <div id="movies">
-            <details>
-              <summary>EEAAO</summary>
-              <blockquote>
-                The key piece of dialogue for me in this multiverse film:
-                <br/><br/>
-                "I've seen thousands of Daniels, but never a Daniel with a life so full of... failures. You have so many things you never finished. Dreams you never followed.
-                Can't you see? Every failure here, is a success for another Daniel in another universe."
-                <br/><br/>
-                The day after I watched this movie, I knew I was gonna quit my job. I don't want to be the Daniel who never risked anything.
-              </blockquote>
-            </details>
-            <details>
-              <summary>Before Sunrise</summary>
-              <blockquote>
-                Boy meets girl on train. They're both vacationing in Europe, and they realize they'll never see each other again.
-                Boy convinces girl to get off the train with him, to wander the streets of Vienna at night with him before they part ways the next morning.
-                <br/><br/>
-                Sometimes the impermanence of life and the people I love frightens me.
-                Reminders to be romantic with people and life despite this are much appreciated.
-              </blockquote>
-            </details>
-            <details open>
-              <summary>Past Lives</summary>
-              <blockquote>
-                Last year I had my heart broken. This film's final act is the first time I've felt anything like closure
-
-                <br/><br/>
-                At some point the wife catches up with her childhood sweetheart.
-                The husband, feeling insecure says "You and him make such a good story. And in that story I'm the big bad white husband standing between you and destiny”.
-                In a lesser film they'd devolve into fighting, or she'd leave her husband.
-                But instead the director navigates this whole love triangle so delicately, and in such a real and mature way.
-              </blockquote>
-            </details>
-          </div>
-          <!-- <div id="friends">
-            <details>
-              <summary>Anson Yu</summary>
-              <blockquote>
-                Some text about why it's cool
-              </blockquote>
-            </details>
-            <details>
-              <summary>Kaz Islam</summary>
-              <blockquote>
-                Some text about why it's cool
-              </blockquote>
-            </details>
-            <details>
-              <summary>Richard Craib</summary>
-              <blockquote>
-                Some text about why it's cool
-              </blockquote>
-            </details>
-            <details>
-              <summary>Brunella Tipismana</summary>
-              <blockquote>
-                Some text about why it's cool
-              </blockquote>
-            </details>
-          </div> -->
-          <div id="artists">
-            <details>
-              <summary>Rembert Montald</summary>
-              <blockquote>
-                <a href="https://www.youtube.com/watch?v=XbmVKmAA2XU" target="_blank">Watching this interview</a>
-                with Montald is when I realized that drawing is a skill that can be learned by anyone with enough time and discipline.
-
-                <br/><br/>
-                <a href="https://www.artstation.com/sharkyspoon" target="_blank">His beatboards</a>
-                for Valorant and League of Legends cinematics are the most inspiring pieces of narrative art I've seen.
-                I hope to do work like this in the future.
-              </blockquote>
-            </details>
-            <details>
-              <summary>Denver Jackson</summary>
-              <blockquote>
-                <a href="https://twitter.com/djaxx/status/1636471801349042176" target="_blank">Jackson's a few months away</a>
-                from releasing a beautiful feature length animated film that he made entirely on his own, self-funded, over the course of two years.
-                </br></br>
-                Doing anything other than your highest calling is rooted in fear. Working on Wall Street so one day you'll have "financial freedom" to pursue your dreams is elaborate procrastination.
-                Jackson's inspired me to shoot higher and sooner.
-              </blockquote>
-            </details>
-            <details open>
-              <summary>Hayao Miyazaki</summary>
-              <blockquote>
-                I was raised by tech, where it's common for teenagers to start million dollar companies.
-                This is partly due to work ethic, but enabled by the economics of venture capital.
-                This rate of career growth is much rarer in the arts.
-                <br/><br/>
-                In my pantheon of role models, Miyazaki is the god of patience.
-                He worked as an animator at large studios for 20 years on films that few people watch today,
-                before starting Studio Ghibli and becoming the greatest animated film director of all time.
-              </blockquote>
-            </details>
-            <!-- <details>
-              <summary>Makoto Shinkai</summary>
-              <blockquote>
-                Some text about why it's cool
-              </blockquote>
-            </details> -->
-          </div>
+        <div class="column-left">
+            <img class="profile" src="img/erasure-boy.jpg" />
+                <ul>
+                    <li>Liam Hinzman</li>
+                </ul>
         </div>
-      </div>
+
+        <div class="column-center">
+            <div>
+                <h1>Now</h1>
+                <ul>
+                    <li>Doing freelance python software development</li>
+                    <li>Playing around with Blender and GLSL shaders</li>
+                    <li>Practicing Intermezzo No 2 (Brahms) and Rise (Riot) on piano</li>
+                </ul>
+            </div>
+
+            <div id="work-section">
+                <h1>Where I've Worked</h1>
+
+                <p><b>Software Engineer</b> - <i>(Freelance), 2023 - Present</i></p>
+                <ul>
+                    <li>Variety of contract projects for startups including: data ETL systems, web interfaces, backend APIs, and data eng</li>
+                </ul>
+
+                <p><b>Numerai</b> - <i>Software Dev (Full-time), 2020 - 2022</i></p>
+                <ul>
+                    <li>Launched Supreme, Numerai's high-return fund</li>
+                    <li>Led development of Signals, Numerai's "bring your own data" tournament</li>
+                    <li>Developed a suite of research frameworks and metrics for internal models</li>
+                    <li>Myriad of website / research / data pipeline development and maintenance</li>
+                    <li>Python, Docker, PostgreSQL, Elixir, GraphQL, React, Javascript, AWS, CircleCI</li>
+                </ul>
+
+                <p><b>Reduct Video</b> - <i>Software Dev (Contract), 2020</i></p>
+                <ul>
+                    <li>NLP tag and highlight suggestions, and React development</li>
+                </ul>
+
+                <p><b>Layer6 AI Research Lab</b> - <i>ML Dev (Intern), 2019</i></p>
+                <ul>
+                    <li>ML fraud detection. Placed 72nd out of 6000+ teams in a Kaggle comp</li>
+                    <li>Real-time face recognition</li>
+                </ul>
+
+                <p><b>SickKids Hospital</b> - <i>ML Dev (Part-time), 2019</i></p>
+                <ul>
+                    <li>Similarity search for a database of over 100 million medical images</li>
+                </ul>
+            </div>
+
+            <div>
+                <h1>Things I've Done</h1>
+                <ul>
+                  <!--<li><a href="https://www.youtube.com/watch?v=dhyFbUXyDtA">Ate a burger</a> at a conference talk to explain how ML will affect real estate</li>-->
+                    <li><a href="https://github.com/LiamHz/Excal">Built</a> a rendering engine with Vulkan</li>
+                    <li><a href="blog/vulkan-fundamentals.html">Wrote</a> about modern GPUs and the Vulkan graphics API</li>
+                    <li><a target="_blank" href="https://www.shadertoy.com/view/tlSyzG">Recreated</a> the intro of the demoscene classic Intrinsic Gravity on ShaderToy</li>
+                    <li>Competed at Canadian nationals for the board game Go</li>
+                    <!-- <li><a href="https://drive.google.com/open?id=12Dp9GnIXH-N_4IVDr5HwTF02fZu-L2HM">Wrote</a> simple explanations of 30+ ML research papers</li> -->
+                </ul>
+                <!--
+                <div id="recent-gallery">
+
+                    <div class="gallery-left">
+                        <div class="gallery-img">
+                            <img src="img/atlas.jpeg" />
+                        </div>
+                        <figcaption>
+                            <a href="https://github.com/LiamHz/atlas">Procedural terrain generation</a> with perlin noise heightmaps.
+                        </figcaption>
+
+                        <div class="gallery-img">
+                            <img src="img/tracer.jpeg" />
+                        </div>
+                        <figcaption>
+                            <a href="https://github.com/LiamHz/tracer">Path tracing</a> with motion blur and bounding volume hierarchies.
+                        </figcaption>
+                    </div>
+
+                    <div class="gallery-right">
+                        <div class="gallery-img">
+                            <img src="img/burger-talk.png" />
+                        </div>
+                        <figcaption>
+                            <a href="https://www.youtube.com/watch?v=dhyFbUXyDtA">I eat a burger</a> to explain how ML will effect the real estate industry.
+                        </figcaption>
+
+                        <div class="gallery-img">
+                            <img src="img/papers.jpg" />
+                        </div>
+                        <figcaption>
+                            <a href="https://drive.google.com/open?id=12Dp9GnIXH-N_4IVDr5HwTF02fZu-L2HM">Simple explanations</a> of 30+ ML research papers.
+                        </figcaption>
+                    </div>
+
+                </div>
+                -->
+            </div>
+        </div>
     </div>
-  </div>
-<script src="scripts/homepage.js"></script>
-<script data-goatcounter="https://liamhinzman.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+    <script data-goatcounter="https://liamhinzman.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
 </body>
+
+</html>

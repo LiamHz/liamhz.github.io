@@ -1,63 +1,27 @@
 ---
-title: Cooking
----
+title: "Cooking"
+...
 
-<div class='image-gallery cooking card-navigation'>
+# How to Feast as a College Student
+_Meals I love that are cheap, tasty, and easy to make_
 
-<div>
-<a href="/cooking/spicy-cashew-tofu.html">
-  <img src="/img/cooking/spicy-tofu.jpeg">
-  <p>Spicy Cashew Tofu</p>
-</a>
-</div>
+<div class='image-gallery'>
+[<img src="img/cooking/thai-curry-noodle-soup.jpg">](cooking/thai-curry-noodle-soup.html)
+[Thai Curry Noodle Soup](cooking/thai-curry-noodle-soup.html)
 
-<div>
-<a href="/cooking/greek-lemon-chicken-and-potatoes.html">
-  <img src="/img/cooking/greek-lemon-chicken.jpeg">
-  <p>Greek Lemon Chicken and Potatoes</p>
-</a>
-</div>
+[<img src="img/cooking/ground-beef-bulgogi.png">](cooking/ground-beef-bulgogi.html)
+[Ground Beef Bulgogi](cooking/ground-beef-bulgogi.html)
 
-<div>
-<a href="/cooking/ground-beef-bulgogi.html">
-  <img src="/img/cooking/ground-beef-bulgogi.png">
-  <p>Korean Beef Bowls</p>
-</a>
-</div>
+[<img src="img/cooking/teriyaki-chicken-stir-fry.jpg">](cooking/teriyaki-chicken-stir-fry.html)
+[Teriyaki Chicken Stir Fry](cooking/teriyaki-chicken-stir-fry.html)
 
-<div>
-<a href="/cooking/teriyaki-chicken-stir-fry.html">
-  <img src="/img/cooking/teriyaki-chicken-stir-fry.jpg">
-  <p>Teriyaki Chicken Stir Fry</p>
-</a>
-</div>
+[<img src="img/cooking/one-hour-pizza.jpg">](cooking/one-hour-pizza.html)
+[One Hour Pizza](cooking/one-hour-pizza.html)
 
-<div>
-<a href="/cooking/thai-curry-noodle-soup.html">
-  <img src="/img/cooking/thai-curry-noodle-soup.jpg">
-  <p>Thai Noodle Soup</p>
-</a>
-</div>
+[<img src="img/cooking/butterless-butter-chicken.jpg">](cooking/butterless-butter-chicken.html)
+[Butterless Butter Chicken](cooking/butterless-butter-chicken.html)
 
-<div>
-<a href="/cooking/butterless-butter-chicken.html">
-  <img src="/img/cooking/butterless-butter-chicken.jpg">
-  <p>Butterless Butter Chicken</p>
-</a>
-</div>
-
-<div>
-<a href="/cooking/moms-spaghetti.html">
-  <img src="/img/cooking/moms-spaghetti.jpg">
-  <p>Mom's Spaghetti</p>
-</a>
-</div>
-
-<div>
-<a href="/cooking/one-hour-pizza.html">
-  <img src="/img/cooking/one-hour-pizza.jpg">
-  <p>One Hour Pizza</p>
-</a>
-</div>
+[<img src="img/cooking/moms-spaghetti.jpg">](cooking/moms-spaghetti.html)
+[Mom's Spaghetti](cooking/moms-spaghetti.html)
 
 </div>
