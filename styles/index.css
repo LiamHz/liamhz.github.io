@@ -1,6 +1,6 @@
 /* General styling */
 body {
-  font-family: "Roboto", "Arial", sans-serif;
+  font-family: "Spectral", "Roboto", "Arial", sans-serif;
   font-size: 1rem;
 }
 
@@ -11,13 +11,18 @@ p {
 
 h1, h2, h3, h4 {
   font-weight: 600;
-  font-family: "Montserrat";
+  font-family: "Spectral";
+}
+
+#work-section > p :first {
+  margin-top: 0;
 }
 
 h1 {
   font-size: 1.75rem;
   font-weight: 600;
-  margin: 0 0 0.5rem 0;
+  margin: 0;
+  margin-block-end: 0;
 }
 
 h2 {
@@ -33,7 +38,7 @@ ul {
 
 li {
   list-style-type: none;
-  line-height: 1.2rem;
+  line-height: 1.1rem;
   margin-bottom: 0.5rem;
 }
 
@@ -121,7 +126,7 @@ img.profile {
     display: grid;
     width: 85%;
     max-width: 100%;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-left: 11%;
     margin-right: 4%;
     grid-template-columns: 22.5% 45%;
@@ -161,6 +166,6 @@ img.profile {
     }
 
     div.column-center > div {
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
     }
   }
